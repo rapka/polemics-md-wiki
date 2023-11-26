@@ -2,8 +2,6 @@
 
 ![Logo Alt Text Here](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
 
-[Twitter]()
-
 ## About
 
 **Org Name** is bla bla bla [^1]
@@ -31,6 +29,12 @@ Bla bla bla did [bla bla]() [^4]
 
 > _**AN**: what is this garbage_
 
+
+https://www.ndtv.com/world-news/us-professor-stirs-controversy-for-encouraging-people-to-read-about-sex-with-animals-4570842
+
+> "Another thought-provoking article is 'Zoophilia Is Morally Permissible' by Fira Bensto (pseudonym), which is just out in the current issue of [the Journal of Controversial Ideas]," Professor Singer wrote in a post on X, formerly Twitter.
+> "This article offers a controversial perspective that calls for a serious and open discussion on animal ethics and sex ethics," the Princeton University bioethics professor added, encouraging people to "read and ponder" the study promoting sex with animals.
+
  
 ### Quotes
 
@@ -43,6 +47,3 @@ Bla bla bla did [bla bla]() [^4]
 [^1] Annotation 1 here
 
 [^2] Annotation 2 here
-
-
-

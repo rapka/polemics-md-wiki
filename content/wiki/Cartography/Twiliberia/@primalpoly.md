@@ -34,6 +34,8 @@ Bla bla bla did [bla bla]() [^4]
  
 ### Quotes
 
+"'AI Ethics' just reflects the woke Leftist hegemony in academia and media. No billionaire cabal needed if one's just parroting the political correctness of the modern zeitgeist." - [Twitter, Nov 2023](https://twitter.com/primalpoly/status/1728554160256118800)
+
 "i am dumb" - in an [interview](), 2021
 "i am so dumb" - [tweet](), 2023
 
