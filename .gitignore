@@ -13,3 +13,5 @@ replit.nix
 package-lock.json
 resources/
 languages-old
+wiki-old
+content/wiki
