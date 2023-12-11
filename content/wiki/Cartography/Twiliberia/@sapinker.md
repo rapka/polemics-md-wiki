@@ -4,20 +4,53 @@ description: What can your user do with your project?
 date: 2017-01-05
 weight: 6
 ---
+# Steven Pinker
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
 
-![AI paper titles laid over a screenshot of Linda Gottfredson and Stefan Molyneux](/wiki/Cartography/map_full.jpg)
+(Not to be confused with Peter Singer)
 
-Think about your project’s features and use cases. Use these to choose your core tasks. Each granular use case (enable x, configure y) should have a corresponding tasks page or tasks page section. Users should be able to quickly refer to your core tasks when they need to find out how to do one specific thing, rather than having to look for the instructions in a bigger tutorial or example. Think of your tasks pages as a cookbook with different procedures your users can combine to create something more substantial.
+## About
 
-You can give each task a page, or you can group related tasks together in a page, such as tasks related to a particular feature. As well as grouping related tasks in single pages, you can also group task pages in nested folders with an index page as an overview, as seen in this example site. Or if you have a small docset like the [Docsy User Guide](https://docsy.dev/docs/) with no Tutorials or Concepts pages, consider adding your feature-specific pages at the top level of your docs rather than in a Tasks section.
+**Org Name** is bla bla bla [^1]
 
-Each task should give the user
+Bla bla bla did _bla bla_ [^2]
 
-* The prerequisites for this task, if any (this can be specified at the top of a multi-task page if they're the same for all the page's tasks. "All these tasks assume that you understand....and that you have already....").
-* What this task accomplishes.
-* Instructions for the task. If it involves editing a file, running a command, or writing code, provide code-formatted example snippets to show the user what to do! If there are multiple steps, provide them as a numbered list.
-* If appropriate, links to related concept, tutorial, or example pages.
+> ***Author's Note**: what is this garbage*
+
+
+### Career, Appointments, and Donations
+
+Bla bla bla did _bla bla_ [^3]
+
+
+### Donations
+
+| Amount        | Donor               | Year |
+| ------------- | ------------------- | ---- |
+| $10,000       | SBF                 | 2022 |
+| $20,000,000   | Open Philanthropy   | 2022 |
+
+### Controversies
+
+Bla bla bla did [bla bla]() [^4]
+
+> _**AN**: what is this garbage_
+
+
+https://www.ndtv.com/world-news/us-professor-stirs-controversy-for-encouraging-people-to-read-about-sex-with-animals-4570842
+
+> "Another thought-provoking article is 'Zoophilia Is Morally Permissible' by Fira Bensto (pseudonym), which is just out in the current issue of [the Journal of Controversial Ideas]," Professor Singer wrote in a post on X, formerly Twitter.
+> "This article offers a controversial perspective that calls for a serious and open discussion on animal ethics and sex ethics," the Princeton University bioethics professor added, encouraging people to "read and ponder" the study promoting sex with animals.
+
+ 
+### Quotes
+
+"i am dumb" - in an [interview](), 2021
+"i am so dumb" - [tweet](), 2023
+
+> _**AN**: what is this garbage_
+
+
+[^1] Annotation 1 here
+
+[^2] Annotation 2 here

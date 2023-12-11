@@ -21,7 +21,10 @@ https://www.cser.ac.uk/news/fli-worldbuilding-contest-joint-cser-cfi-team-awar/
 
 > ***Author's Note**: what is this garbage*
  
- 
+
+_To read about one of CSER's current projects, Paradigms of Artificial General Intelligence and Their Associated Risks, funded by the [Future of Life Institute](https://futureoflife.org/) through the [FLI International Safety Grants Competition](https://futureoflife.org/2018/07/25/2-million-donated-to-keep-artificial-general-intelligence-beneficial-and-robust/), please click [here](https://www.cser.ac.uk/research/paradigms-AGI/)._
+
+
 ### Leadhership
 
 **CEO:** [bla bla](), also known as co-founder of [bleh]()

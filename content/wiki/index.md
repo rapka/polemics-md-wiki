@@ -4,26 +4,10 @@ linkTitle: Wiki
 menu: {main: {weight: 20}}
 weight: 20
 ---
+Welcome to what is tentatively titled the "TESCREAL wiki". it aims to collect, organize, and critically analyze information about the transhumanist, Rationalist, effective altruism, longtermism, and AI existential risk communities.
 
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
+Some of the information here has previously been compiled on other platforms such as [RationalWiki](https://rationalwiki.org)and [InfluenceWatch](https://www.influencewatch.org) and is labeled as such. However, those websites don't have a focus on sci-fi and effective altruism specifically; this project aims to collect this knowledge as it pertains to TESCREAL in an organized fashion.
 
-This section is where the user documentation for your project lives - all the
-information your users need to understand and successfully use your project.
+### Rationality Cartography
 
-For large documentation sets we recommend adding content under the headings in
-this section, though if some or all of them don’t apply to your project feel
-free to remove them or add your own. You can see an example of a smaller Docsy
-documentation site in the [Docsy User Guide](https://docsy.dev/docs/), which
-lives in the [Docsy theme
-repo](https://github.com/google/docsy/tree/master/userguide) if you'd like to
-copy its docs section.
-
-Other content such as marketing material and updates
-should live in the [About](/about/) page.
-
-Find out how to use the Docsy theme in the [Docsy User
-Guide](https://docsy.dev/docs/). You can learn more about how to organize your
-documentation (and how we organized this site) in [Organizing Your
-Content](https://docsy.dev/docs/best-practices/organizing-content/).
+The inspiration for this project was a desire to understand an anonymously-made [map of the online Rationalist space](wiki/cartography/map_full.jpg) that was posted to [Scott Alexander]'s Astral Codex Ten blog in 2022.
