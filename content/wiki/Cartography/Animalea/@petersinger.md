@@ -1,5 +1,6 @@
 # Peter Singer
 
+[Wikipedia](https://en.wikipedia.org/wiki/Peter_Singer) | [RationalWiki](https://rationalwiki.org/wiki/Peter_Singer)| [Twitter](https://twitter.com/PeterSinger)
 
 Not to be confused with Steven Pinker
 
@@ -25,6 +26,8 @@ Bla bla bla did _bla bla_ [^3]
 | $20,000,000   | Open Philanthropy   | 2022 |
 
 ### Controversies
+
+Euthanasia
 
 Bla bla bla did [bla bla]() [^4]
 

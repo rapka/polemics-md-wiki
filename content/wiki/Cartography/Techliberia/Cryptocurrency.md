@@ -1,12 +1,30 @@
----
-title: Core Tasks
-description: What can your user do with your project?
-date: 2017-01-05
-weight: 6
----
 
 {{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
+This is# Organization Name
+
+[Website]() | [Wikipedia]() |  [Twitter]()
+
+## About
+
+### Leadership
+
+## Finances
+
+### Donors
+
+| Amount        | Donor               | Year |
+| ------------- | ------------------- | ---- |
+| $10,000       | SBF                 | 2022 |
+| $20,000,000   | Open Philanthropy   | 2022 |
+
+> _**AN**: what is this garbage_
+
+### Grants
+
+
+## Controversy
+
+ a placeholder page that shows you how to use this template site.
 {{% /pageinfo %}}
 
 ![AI paper titles laid over a screenshot of Linda Gottfredson and Stefan Molyneux](/wiki/Cartography/map_full.jpg)

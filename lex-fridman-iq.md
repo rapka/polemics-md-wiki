@@ -5,4 +5,6 @@ https://en.wikipedia.org/wiki/Richard_J._Haier
 
 https://www.youtube.com/watch?v=L_Guz73e6fw&t=6905s
 
+https://www.youtube.com/watch?v=hppbxV9C63g
+
 
