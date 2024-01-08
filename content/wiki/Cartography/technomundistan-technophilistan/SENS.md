@@ -1,6 +1,6 @@
-# Organization Name
+# SENS Research Foundation
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Website](https://www.sens.org/) | [Wikipedia](https://en.wikipedia.org/wiki/SENS_Research_Foundation) |  [Twitter](https://twitter.com/senstweet)
 
 ## About
 
@@ -10,15 +10,7 @@
 
 ### Donors
 
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
-
-> _**AN**: what is this garbage_
-
 ### Grants
-
 
 ## Controversy
 

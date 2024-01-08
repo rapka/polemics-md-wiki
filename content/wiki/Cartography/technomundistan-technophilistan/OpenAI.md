@@ -1,24 +1,24 @@
 # Organization Name
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Website](https://openai.com/) | [Wikipedia](https://en.wikipedia.org/wiki/OpenAI) |  [Twitter](https://twitter.com/OpenAI)
 
 ## About
 
+It's OpenAI.
+
 ### Leadership
+
+#### Board of Directors
+##### Current
+
+##### Former
+
 
 ## Finances
 
 ### Donors
 
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
-
-> _**AN**: what is this garbage_
-
 ### Grants
-
 
 ## Controversy
 

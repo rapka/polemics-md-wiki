@@ -1,6 +1,6 @@
-# Organization Name
+# The Humane League
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Website](https://thehumaneleague.org/) | [Wikipedia](https://en.wikipedia.org/wiki/The_Humane_League) |  [Twitter](https://twitter.com/TheHumaneLeague)
 
 ## About
 
@@ -8,34 +8,5 @@
 
 ## Finances
 
-### Donors
-
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
-
-> _**AN**: what is this garbage_
-
-### Grants
-
-
-## Controversy
-
-
-{{% pageinfo %}}
-This is a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
-
-![AI paper titles laid over a screenshot of Linda Gottfredson and Stefan Molyneux](/wiki/Cartography/map_full.jpg)
-
-Think about your project’s features and use cases. Use these to choose your core tasks. Each granular use case (enable x, configure y) should have a corresponding tasks page or tasks page section. Users should be able to quickly refer to your core tasks when they need to find out how to do one specific thing, rather than having to look for the instructions in a bigger tutorial or example. Think of your tasks pages as a cookbook with different procedures your users can combine to create something more substantial.
-
-You can give each task a page, or you can group related tasks together in a page, such as tasks related to a particular feature. As well as grouping related tasks in single pages, you can also group task pages in nested folders with an index page as an overview, as seen in this example site. Or if you have a small docset like the [Docsy User Guide](https://docsy.dev/docs/) with no Tutorials or Concepts pages, consider adding your feature-specific pages at the top level of your docs rather than in a Tasks section.
-
-Each task should give the user
-
-* The prerequisites for this task, if any (this can be specified at the top of a multi-task page if they're the same for all the page's tasks. "All these tasks assume that you understand....and that you have already....").
-* What this task accomplishes.
-* Instructions for the task. If it involves editing a file, running a command, or writing code, provide code-formatted example snippets to show the user what to do! If there are multiple steps, provide them as a numbered list.
-* If appropriate, links to related concept, tutorial, or example pages.
+From Wikipedia:
+>The Open Philanthropy Project made several grants for "general support": $1 million in 2016,[[27]](https://en.wikipedia.org/wiki/The_Humane_League#cite_note-27) $10 million in 2018,[[5]](https://en.wikipedia.org/wiki/The_Humane_League#cite_note-:2-5) $7 million in 2021[[4]](https://en.wikipedia.org/wiki/The_Humane_League#cite_note-:1-4) and $8.3 million in 2022.[[3]](https://en.wikipedia.org/wiki/The_Humane_League#cite_note-:0-3) It also made grants for THL to support and expand the Open Wing Alliance.[[28]](https://en.wikipedia.org/wiki/The_Humane_League#cite_note-28) It also made grants for specific projects such as cage-free campaigns[[9]](https://en.wikipedia.org/wiki/The_Humane_League#cite_note-open-phil-9) or for helping THL to support the Open Wing Alliance.[[18]](https://en.wikipedia.org/wiki/The_Humane_League#cite_note-:3-18)

@@ -1,9 +1,3 @@
----
-title: Core Tasks
-description: What can your user do with your project?
-date: 2017-01-05
-weight: 6
----
 # Anthropic
 
 https://www.nytimes.com/2023/07/11/technology/anthropic-ai-claude-chatbot.html
@@ -21,55 +15,13 @@ Bla bla bla did _bla bla_ [^2]
 > ***Author's Note**: what is this garbage*
  
  
-### Leadhership
 
-**CEO:** [bla bla](), also known as co-founder of [bleh]()
-**CEO:** [bla bla]()
-**CEO:** [bla bla]()
+### Leadership
 
 ## Finances
 
 ### Donors
 
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
-
-> _**AN**: what is this garbage_
-
-
 ### Grants
 
-| Amount        | Recipient           | Purspose           | Year |
-| ------------- | ------------------- | ------------------ | ---- |
-| $10,000       | SBF                 | AI Safety research | 2020 |
-| $20,000,000   | Open Philanthropy   | Global Development | 2022 |
-
-> _**AN**: what is this garbage_
-
-
-
 ## Controversy
-
-Ceo saidthis:
-> There should be no margin below this final sentence.
-
-> _**wtf**: what is this garbage_
-
-
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-
-
----
-
-
-[^1] Annotation 1 here
-
-[^2] Annotation 2 here
-
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
-
-

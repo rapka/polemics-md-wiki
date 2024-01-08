@@ -1,8 +1,10 @@
 # Organization Name
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Website](https://waitbutwhy.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Wait_But_Why) |  [Twitter (Tim Urban)](https://twitter.com/waitbutwhy)
 
 ## About
+
+Blog run by Tim Urban and Andrew Finn.
 
 ### Leadership
 
@@ -10,15 +12,7 @@
 
 ### Donors
 
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
-
-> _**AN**: what is this garbage_
-
 ### Grants
-
 
 ## Controversy
 

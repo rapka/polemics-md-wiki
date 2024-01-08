@@ -1,4 +1,4 @@
-# Organization Name
+# Encultured AI
 
 [Website]()
 

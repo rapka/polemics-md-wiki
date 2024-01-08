@@ -1,39 +1,21 @@
 # Organization Name
 
-[Website]()
+[Website](https://aiimpacts.org/#gsc.tab=0)| [Twitter](https://twitter.com/AIImpacts)
 
 ## About
 
-
+Co-founded by Katja Grace.
+Director: **Rick Korzekwa**
  
-### Leadhership
-
+### Leadership
 
 ## Finances
 
 ### Donors
 
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
-
-> _**AN**: what is this garbage_
-
-
 ### Grants
 
-| Amount        | Recipient           | Purspose           | Year |
-| ------------- | ------------------- | ------------------ | ---- |
-| $10,000       | SBF                 | AI Safety research | 2020 |
-| $20,000,000   | Open Philanthropy   | Global Development | 2022 |
-
-> _**AN**: what is this garbage_
-
-
-
 ## Controversy
-
 
 
 

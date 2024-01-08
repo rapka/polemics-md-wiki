@@ -42,28 +42,3 @@ Bla bla bla did _bla bla_ [^2]
 
 > _**AN**: what is this garbage_
 
-
-
-## Controversy
-
-Ceo saidthis:
-> There should be no margin below this final sentence.
-
-> _**wtf**: what is this garbage_
-
-
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-
-
----
-
-
-[^1] Annotation 1 here
-
-[^2] Annotation 2 here
-
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
-
-

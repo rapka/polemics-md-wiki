@@ -1,21 +1,18 @@
-# Organization Name
+# Singularity University / Singularity Group.
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Website](https://www.su.org/) | [Wikipedia]() |  [Twitter]()
 
 ## About
+
+It's not a university! It now goes by the name "Singularity Group", though the website is still su.org.
+
+https://www.su.org/
 
 ### Leadership
 
 ## Finances
 
 ### Donors
-
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
-
-> _**AN**: what is this garbage_
 
 ### Grants
 

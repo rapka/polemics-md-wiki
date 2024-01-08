@@ -1,24 +1,5 @@
-# Organization Name
+# Bounded Regret
 
-[Website]()
+[Website](https://bounded-regret.ghost.io/)
 
-## About
-
-### Leadership
-
-## Finances
-
-### Donors
-
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
-
-> _**AN**: what is this garbage_
-
-### Grants
-
-
-## Controversy
-
+Blog run by [[Jacob Steinhardt](https://jsteinhardt.stat.berkeley.edu/)]
