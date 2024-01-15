@@ -19,9 +19,6 @@ Bla bla bla did _bla bla_ [^3]
 
 https://slatestarcodex.com/2020/06/16/open-thread-156-25/
 
-Bla bla bla did [bla bla]() [^4]
-
-> _**AN**: what is this garbage_
 
 
 https://infoproc.blogspot.com/2022/03/the-pressure-to-conform-is-enormous.html
@@ -46,12 +43,6 @@ https://nautil.us/super_intelligent-humans-are-coming-235110/
 "i am dumb" - in an [interview](), 2021
 "i am so dumb" - [tweet](), 2023
 
-> _**AN**: what is this garbage_
-
-
-[^1] Annotation 1 here
-
-[^2] Annotation 2 here
 
 
 

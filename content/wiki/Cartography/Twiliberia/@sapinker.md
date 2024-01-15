@@ -26,9 +26,6 @@ Bla bla bla did _bla bla_ [^3]
 
 ### Controversies
 
-Bla bla bla did [bla bla]() [^4]
-
-> _**AN**: what is this garbage_
 
 
 https://www.ndtv.com/world-news/us-professor-stirs-controversy-for-encouraging-people-to-read-about-sex-with-animals-4570842
@@ -37,14 +34,7 @@ https://www.ndtv.com/world-news/us-professor-stirs-controversy-for-encouraging-p
 > "This article offers a controversial perspective that calls for a serious and open discussion on animal ethics and sex ethics," the Princeton University bioethics professor added, encouraging people to "read and ponder" the study promoting sex with animals.
 
  
-### Quotes
-
-"i am dumb" - in an [interview](), 2021
-"i am so dumb" - [tweet](), 2023
-
-> _**AN**: what is this garbage_
 
 
-[^1] Annotation 1 here
 
 [^2] Annotation 2 here

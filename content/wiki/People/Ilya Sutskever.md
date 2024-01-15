@@ -27,24 +27,5 @@ Bla bla bla did _bla bla_ [^3]
 | $10,000       | SBF                 | 2022 |
 | $20,000,000   | Open Philanthropy   | 2022 |
 
-### Controversies
-
-Bla bla bla did [bla bla]() [^4]
-
-> _**AN**: what is this garbage_
-
- 
-### Quotes
-
-"i am dumb" - in an [interview](), 2021
-"i am so dumb" - [tweet](), 2023
-
-> _**AN**: what is this garbage_
-
-
-[^1] Annotation 1 here
-
-[^2] Annotation 2 here
-
 
 

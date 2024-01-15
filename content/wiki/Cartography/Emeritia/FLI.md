@@ -56,7 +56,6 @@ AGI existing doesn't not satisfy any of these points.
 | $10,000       | SBF                 | 2022 |
 | $20,000,000   | Open Philanthropy   | 2022 |
 
-> _**AN**: what is this garbage_
 
 
 ### Grants
@@ -66,7 +65,6 @@ AGI existing doesn't not satisfy any of these points.
 | $10,000       | SBF                 | AI Safety research | 2020 |
 | $20,000,000   | Open Philanthropy   | Global Development | 2022 |
 
-> _**AN**: what is this garbage_
 
 
 
@@ -90,11 +88,6 @@ Response by Folkets: https://folketsradio.se/intervju-med-forskning-framsteg/
 
 
 ---
-
-
-[^1] Annotation 1 here
-
-[^2] Annotation 2 here
 
 Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
 

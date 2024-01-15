@@ -15,10 +15,3 @@
 | $10,000       | SBF                 | 2022 |
 | $20,000,000   | Open Philanthropy   | 2022 |
 
-> _**AN**: what is this garbage_
-
-### Grants
-
-
-## Controversy
-

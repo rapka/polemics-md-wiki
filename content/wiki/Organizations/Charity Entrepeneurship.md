@@ -25,7 +25,6 @@ https://www.impactfulgrantmaking.com/funding-circles
 - Schmidt Futures
 - D-Prize (Distribution Equals Development)
 
-> _**AN**: what is this garbage_
 
 
 ### Grants
@@ -35,7 +34,6 @@ https://www.impactfulgrantmaking.com/funding-circles
 | $10,000       | SBF                 | AI Safety research | 2020 |
 | $20,000,000   | Open Philanthropy   | Global Development | 2022 |
 
-> _**AN**: what is this garbage_
 
 
 
