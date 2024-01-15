@@ -1,0 +1,85 @@
+# Keeper
+
+![Logo Alt Text Here](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+
+[Keeper.ai](https://keeper.a) is an AI-based dating service for 
+
+
+https://keeper.ai/about
+
+Mission: "To solve the loneliness, marriage, and birthrate crises by creating happy, healthy families."
+
+
+###  values
+
+>06 - We don’t deny Nature
+
+>Humans are the product of millions of years of evolution. Evolutionary biologists have studied the way men and women act when seeking long-term partners. They behave differently. They have different preferences, different communication styles, and different ways of seeking long-term partners. Dating apps completely ignore sex-linked differences and provide unisex experiences. As a result, the way they generate “matches” has helped fuel a culture of short-term flings, rather than marriages. Keeper takes human nature seriously, which makes us more effective at matching people for long-term success.
+
+## About
+
+**Org Name** is bla bla bla [^1]
+
+Bla bla bla did _bla bla_ [^2]
+
+> ***Author's Note**: what is this garbage*
+
+### Sovereign Capital
+
+https://www.sovereign.capital/
+
+>Sovereign Capital is a venture fund which makes investments in companies which increases sovereignty of the individual, create paths for exit and build alternative worlds
+ 
+ 
+### Leadhership
+
+**CEO:** [bla bla](), also known as co-founder of [bleh]()
+**CEO:** [bla bla]()
+**CEO:** [bla bla]()
+
+## Finances
+
+### Donors
+
+| Amount        | Donor               | Year |
+| ------------- | ------------------- | ---- |
+| $10,000       | SBF                 | 2022 |
+| $20,000,000   | Open Philanthropy   | 2022 |
+
+> _**AN**: what is this garbage_
+
+
+### Grants
+
+| Amount        | Recipient           | Purspose           | Year |
+| ------------- | ------------------- | ------------------ | ---- |
+| $10,000       | SBF                 | AI Safety research | 2020 |
+| $20,000,000   | Open Philanthropy   | Global Development | 2022 |
+
+> _**AN**: what is this garbage_
+
+
+
+## Controversy
+
+Ceo saidthis:
+> There should be no margin below this final sentence.
+
+> _**wtf**: what is this garbage_
+
+
+* This is an unordered list following a header.
+* This is an unordered list following a header.
+* This is an unordered list following a header.
+
+
+---
+
+
+[^1] Annotation 1 here
+
+[^2] Annotation 2 here
+
+Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
+
+
