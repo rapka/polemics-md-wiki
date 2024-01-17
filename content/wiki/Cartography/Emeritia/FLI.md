@@ -5,8 +5,6 @@
 
 [Website]()
 
-https://worldbuild.ai/winners/
-
 ## About
 
 The future of Life Institute is founded by Max Tegmark of MIT.
@@ -18,6 +16,8 @@ https://futureoflife.org/ai/2-million-donated-to-keep-artificial-general-intelli
 
 ## World building contest
 
+[list of winners](https://worldbuild.ai/winners/)
+
 from the [about page](https://worldbuild.ai/about/):
 
 >Advanced, and potentially world-changing artificial intelligence is coming, even if we do not know exactly when or in what form. There have been many diverse predictions about what this change will bring. But left out of many of these predictions is the key question for humanity: what sort of future do we _want_?
@@ -28,7 +28,7 @@ One of the reasons depictions of the future in the media are dystopian is becaus
 
 >It is our hope that, by formulating detailed roadmaps towards a future that is desirable, the worldbuilds will inspire real-world initiatives. We will feature the prize-winning builds on FLI’s website and hope to work them into our overall institutional strategies, use them to find potential collaborators for future projects, and connect storytellers with material to inspire them to tell different stories about our future.
 
-Worldbuilding as a way of inspiring real world initiatives is how we got in this AGI mess in the first place.
+_Comment: Worldbuilding as a way of inspiring real world initiatives is how we got in this AGI mess in the first place._
 
 ### [Rules](https://worldbuild.ai/rules/)
 

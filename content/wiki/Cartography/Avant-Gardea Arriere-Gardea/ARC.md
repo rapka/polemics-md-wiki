@@ -1,17 +1,22 @@
-# Organization Name
+# Authentic Relating & Circling
 
-[Website]()
+"Authentic relating" and "circling" are pseudoscientific(?) psychological techniques that grew out of rationality. 
 
-## About
+### Authentic Relating
 
-### Leadership
+(TODO: Research this)
 
-## Finances
+### Circling
 
-### Donors
+Circling promoter Artem Zen also resided at [MAPLE]() for a while.
+https://www.artemzen.com/what-is-circling/
+
+(TODO)
 
 
+##### Links
 
-
-## Controversy
-
+https://circlingguide.com/circling-vs-authentic-relating/
+https://zoritomova.com/2021/04/06/authentic-relating-circling-5-principles/
+https://www.facebook.com/authenticrelatingconnection/
+https://authenticrelating.co/what-is-ar/

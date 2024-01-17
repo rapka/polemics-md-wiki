@@ -1,10 +1,11 @@
 
+# Foundational Questions Institute (FQxI)
 
-[website](https://fqxi.org/)
+[website](https://fqxi.org/)| [Wikipedia](https://en.wikipedia.org/wiki/Foundational_Questions_Institute)
 
-Founded by Max Tegmark (also of [FLI](/content/wiki/Cartography/Emeritia/FLI) fame) and Anthony Aguirre
+Founded by Max Tegmark (also of [FLI](/content/wiki/Cartography/Emeritia/FLI) fame) and Anthony Aguirre. Notable members include [Scott Aaronson (Shtetl-Optimized)](/content/wiki/Cartography/Lesser%20Wrongia/Shtetl-Optimized).
 
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+### Goals
 
 > FQxI’s goals are:
 >1. To expand the purview of scientific inquiry to include scientific questions and research avenues fundamental to a deep understanding of reality but which are currently largely unsupported by conventional grant sources and academic institutions;
