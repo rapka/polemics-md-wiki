@@ -2,4 +2,4 @@
 
 
 
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+![Map of Rationality](/content/wiki/Cartography/map_full.jpg)

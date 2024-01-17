@@ -1,20 +1,13 @@
-# Organization Name
+# LessWrong
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Website](https://www.lesswrong.com/) | [Wikipedia](https://en.wikipedia.org/wiki/LessWrong) |  [Twitter]()
 
-## About
-
-### Leadership
+It's LessWrong. (TODO: fill this out)
 
 ## Finances
 
+(TODO)
+
 ### Donors
 
-
-
-
-### Grants
-
-
-## Controversy
-
+(TODO)

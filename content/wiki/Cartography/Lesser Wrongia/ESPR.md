@@ -1,20 +1,8 @@
-# Organization Name
+# European Summer Program on Rationality
 
 [Website]() | [Wikipedia]() |  [Twitter]()
 
-## About
+https://www.lesswrong.com/posts/Gbw9Tnqeo9crTNGrg/unofficial-espr-post-mortem
 
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
+(TODO: research this more)
 

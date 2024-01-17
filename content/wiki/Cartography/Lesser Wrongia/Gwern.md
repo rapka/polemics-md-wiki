@@ -1,20 +1,7 @@
-# Organization Name
+# Gwern
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Website](https://gwern.net/) | [Wikipedia]() |  [Twitter]()
 
-## About
+Gwern Branwen's website. Gwern is both a LessWrong poster and a developer of anime-related GANs.
 
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+https://gwern.net/me#politics

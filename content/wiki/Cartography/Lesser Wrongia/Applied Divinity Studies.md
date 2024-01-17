@@ -1,20 +1,7 @@
-# Organization Name
+# Applied Divinity Studies
 
 [Website]() | [Wikipedia]() |  [Twitter]()
 
 ## About
 
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+TODO
