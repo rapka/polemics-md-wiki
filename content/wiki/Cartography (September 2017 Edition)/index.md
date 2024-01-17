@@ -1,0 +1,1 @@
+Image from https://slatestarcodex.com/blog_images/ramap.html.
