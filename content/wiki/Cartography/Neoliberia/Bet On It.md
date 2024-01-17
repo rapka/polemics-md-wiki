@@ -1,5 +1,7 @@
+# Bet On It
+
+[Substack](https://betonit.substack.com/)
+
+Substack of Bryan Caplan.
 
 
-
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)

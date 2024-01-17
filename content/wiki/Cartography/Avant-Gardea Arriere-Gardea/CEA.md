@@ -12,21 +12,13 @@ https://ev.org/
 
 Bla bla bla did _bla bla_ [^2]
 
-> ***Author's Note**: what is this garbage*
- 
+
  
 ### Leadhership
-
-**CEO:** [bla bla](), also known as co-founder of [bleh]()
-**CEO:** [bla bla]()
-**CEO:** [bla bla]()
 
 ## Finances
 
 ### Donors
-
-
-
 
 
 ### Grants

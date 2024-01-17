@@ -22,7 +22,7 @@ Mission: "To solve the loneliness, marriage, and birthrate crises by creating ha
 
 Bla bla bla did _bla bla_ [^2]
 
-> ***Author's Note**: what is this garbage*
+
 
 ### Sovereign Capital
 

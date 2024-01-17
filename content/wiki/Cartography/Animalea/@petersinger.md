@@ -2,31 +2,20 @@
 
 [Wikipedia](https://en.wikipedia.org/wiki/Peter_Singer) | [RationalWiki](https://rationalwiki.org/wiki/Peter_Singer)| [Twitter](https://twitter.com/PeterSinger)
 
-Not to be confused with Steven Pinker.
+_Not to be confused with Steven Pinker._
 
-## About
+Famous utilitarian philosopher whose work has been highly influential on effective altruism.
 
-**Org Name** is bla bla bla [^1]
-
-Bla bla bla did _bla bla_ [^2]
-
-> ***Author's Note**: what is this garbage*
-
-
-### Career, Appointments, and Donations
-
-Bla bla bla did _bla bla_ [^3]
-
-
-### Donations
-
-
-
+(TODO: fill this section out)
 ### Controversies
 
-Euthanasia
+#### Euthanasia
 
+Singer once wrote that "killing a newborn baby is never equivalent to killing a person, that is, a being who wants to go on living".
 
+(TODO: flesh out this section)
+
+#### Zoophilia
 https://www.ndtv.com/world-news/us-professor-stirs-controversy-for-encouraging-people-to-read-about-sex-with-animals-4570842
 
 > "Another thought-provoking article is 'Zoophilia Is Morally Permissible' by Fira Bensto (pseudonym), which is just out in the current issue of [the Journal of Controversial Ideas]," Professor Singer wrote in a post on X, formerly Twitter.

@@ -8,7 +8,7 @@
 
 Bla bla bla did _bla bla_ [^2]
 
-> ***Author's Note**: what is this garbage*
+
  
  
 ### Members
@@ -17,7 +17,7 @@ Bla bla bla did _bla bla_ [^2]
 **CEO:** [bla bla](), short description
 **CEO:** [bla bla](), short description
 
-> ***Author's Note**: what is this garbage*
+
 
 
 [^1] Annotation 1 here

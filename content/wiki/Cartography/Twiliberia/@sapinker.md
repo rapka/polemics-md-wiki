@@ -9,7 +9,7 @@
 
 Bla bla bla did _bla bla_ [^2]
 
-> ***Author's Note**: what is this garbage*
+
 
 
 ### Career, Appointments, and Donations

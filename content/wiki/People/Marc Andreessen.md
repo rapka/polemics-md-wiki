@@ -12,7 +12,7 @@ https://www.theverge.com/a/verge-2021/marc-andreessen-horowitz-verge-interview
 
 Bla bla bla did _bla bla_ [^2]
 
-> ***Author's Note**: what is this garbage*
+
 
 
 ### Career, Appointments, and Donations

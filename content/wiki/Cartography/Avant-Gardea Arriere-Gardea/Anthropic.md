@@ -12,7 +12,7 @@ https://www.nytimes.com/2023/07/11/technology/anthropic-ai-claude-chatbot.html
 
 Bla bla bla did _bla bla_ [^2]
 
-> ***Author's Note**: what is this garbage*
+
  
  
 

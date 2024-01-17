@@ -16,7 +16,7 @@ https://web.archive.org/web/20030525211630/http://www.cgonline.com/previews/blac
 
 Bla bla bla did _bla bla_ [^2]
 
-> ***Author's Note**: what is this garbage*
+
 
 
 ### Career, Appointments, and Donations

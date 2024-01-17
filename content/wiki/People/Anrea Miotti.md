@@ -22,7 +22,7 @@ Andrea Miotti is an AGI doomer that runs [Conjecture](https://ccc.inc/), a GPT-b
 
 Bla bla bla did _bla bla_ [^2]
 
-> ***Author's Note**: what is this garbage*
+
 
 
 ### Career, Appointments, and Donations
