@@ -15,19 +15,13 @@ The group currently goes by Singularity Gorup, though the website is still [su.o
 
 ### Donors
 
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
+
 
 
 
 ### Grants
 
-| Amount        | Recipient           | Purspose           | Year |
-| ------------- | ------------------- | ------------------ | ---- |
-| $10,000       | SBF                 | AI Safety research | 2020 |
-| $20,000,000   | Open Philanthropy   | Global Development | 2022 |
+
 
 
 

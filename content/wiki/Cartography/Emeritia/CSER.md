@@ -35,39 +35,11 @@ _To read about one of CSER's current projects, Paradigms of Artificial General 
 
 ### Donors
 
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
+
 
 
 
 ### Grants
 
-| Amount        | Recipient           | Purspose           | Year |
-| ------------- | ------------------- | ------------------ | ---- |
-| $10,000       | SBF                 | AI Safety research | 2020 |
-| $20,000,000   | Open Philanthropy   | Global Development | 2022 |
-
-
-
-
 
 ## Controversy
-
-Ceo saidthis:
-> There should be no margin below this final sentence.
-
-> _**wtf**: what is this garbage_
-
-
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-
-
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
-
-

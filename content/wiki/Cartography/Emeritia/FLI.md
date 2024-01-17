@@ -40,8 +40,7 @@ The rules dictate that contestants should envision a world that is "plausible" a
 >- Consistent with known science;
 >- Not rely on any implausible “miracles” to make sense (though improbable events occur in any realistic world!)
 
-AGI existing doesn't not satisfy any of these points.
- 
+AGI existing doesn't satisfy any of these points.
  
 ### Leadership
 
@@ -51,19 +50,13 @@ AGI existing doesn't not satisfy any of these points.
 
 ### Donors
 
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
+
 
 
 
 ### Grants
 
-| Amount        | Recipient           | Purspose           | Year |
-| ------------- | ------------------- | ------------------ | ---- |
-| $10,000       | SBF                 | AI Safety research | 2020 |
-| $20,000,000   | Open Philanthropy   | Global Development | 2022 |
+
 
 
 

@@ -1,23 +1,8 @@
-# Organization Name
+# Steven Kaas
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Website]() |  [Twitter (inactive)](https://twitter.com/stevenkaas/status/1363352900043333633) | [EA Forum Account](https://forum.effectivealtruism.org/users/stevenkaas)
 
-## About
-
-### Leadership
-
-## Finances
-
-### Donors
-
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
+Rationalist blogger. Made aisafety.info with Rob Miles.
 
 
-### Grants
-
-
-## Controversy
 

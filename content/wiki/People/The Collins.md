@@ -26,10 +26,7 @@ Bla bla bla did _bla bla_ [^3]
 
 ### Donations
 
-| Amount        | Donor               | Year |
-| ------------- | ------------------- | ---- |
-| $10,000       | SBF                 | 2022 |
-| $20,000,000   | Open Philanthropy   | 2022 |
+
 
 
 
