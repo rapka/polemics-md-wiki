@@ -1,8 +1,11 @@
 ---
-title: WTF is going with AI: a short explanation for people who aren't huge nerds
+title: WTF is going with AI - a short explanation for people who aren't huge nerds
 date: 2023-11-27
 draft: false
-tags: AI, capitalism, effective altruism
+tags:
+  - AI
+  - Capitalism
+  - EffectiveAltruism
 ---
 # WTF is going with AI: A short explanation for people who aren't huge nerds
 
