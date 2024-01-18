@@ -1,4 +1,4 @@
-Ceo of OpenAI
+CEO of OpenAI
 
 ## a list of crazy things Sam Altman has said
 

@@ -20,4 +20,6 @@ Note: the wiki doesn't load as of 1/17
 - Martin Shrkeli
 - Garry Tan
 
+[Sam Altman](/wiki/People/Sam%20Altman.md) has [tweeted](https://twitter.com/sama/status/1540227243368058880?lang=en)"you cannot outaccelerate me" in respone to Beff Jezos in 2022.
+
 (TODO: individual pages for these people?)
