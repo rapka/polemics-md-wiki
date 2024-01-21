@@ -1,5 +1,5 @@
+# Judea Pearl (@yudapearl)
+
+[Twitter](https://twitter.com/yudapearl) | [Wikipedia](https://en.wikipedia.org/wiki/Judea_Pearl)
 
 
-
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
