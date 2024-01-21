@@ -1,3 +1,8 @@
+---
+tags:
+  - AI X-Risk
+  - Rationality
+---
 # Elizer Yudkowsky
 
 It's Yud.

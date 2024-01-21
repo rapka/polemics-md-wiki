@@ -1,3 +1,8 @@
+---
+tags:
+  - Animal Rights
+  - Effective Altruism
+---
 # The Humane League
 
 [Website](https://thehumaneleague.org/) | [Wikipedia](https://en.wikipedia.org/wiki/The_Humane_League) |  [Twitter](https://twitter.com/TheHumaneLeague)

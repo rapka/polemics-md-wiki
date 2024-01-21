@@ -1,3 +1,8 @@
+---
+tags:
+  - Animal Rights
+  - Effective Altruism
+---
 # Animal Charity Evaluators (ACE)
 
 [Website](https://animalcharityevaluators.org/) | [Wikipedia](https://en.wikipedia.org/wiki/Animal_Charity_Evaluators) |  [Twitter]()

@@ -1,20 +1,7 @@
-# Organization Name
+# Effective Giving
 
 [Website]()
 
 ## About
 
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+ (TODO)

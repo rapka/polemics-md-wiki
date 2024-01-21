@@ -4,6 +4,8 @@
 
 Per this [EA forum post](Charity Science Outreach, Charity Science Health, and [Charity Entrepreneurship](https://forum.effectivealtruism.org/topics/charity-entrepreneurship), the Charity Science Foundation is the umbrella organization for Charity Science Outreach, Charity Science Health, and [Charity Entrepreneurship](https://forum.effectivealtruism.org/topics/charity-entrepreneurship).  
 
+Co-founder of Charity Science Health, and Charity Entrepreneurship Marcus Davis also co-founded rethink priorities.
+
 ### Charity Science Outreach
 
 http://www.charityscienceoutreach.com/
@@ -23,3 +25,4 @@ https://www.charityentrepreneurship.com/charity-science-health
 ### Charity Entrepeneurship
 
 https://www.charityentrepreneurship.com/
+
