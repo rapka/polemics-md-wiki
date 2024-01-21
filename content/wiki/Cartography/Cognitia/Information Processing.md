@@ -1,17 +1,14 @@
 ---
 tags:
-  - Bloggers
-  - Effective Altruism
+  - EffectiveAltruism
+  - Blogs
 ---
-
 # Steve Hsu (Information Processing)
-
 
 (TODO)
 ### Controversies
 
 https://slatestarcodex.com/2020/06/16/open-thread-156-25/
-
 
 
 https://infoproc.blogspot.com/2022/03/the-pressure-to-conform-is-enormous.html

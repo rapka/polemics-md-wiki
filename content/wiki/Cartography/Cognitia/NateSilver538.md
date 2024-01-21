@@ -1,6 +1,6 @@
 # Nate Sliver (@Natesilver538)
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Website]() | [Wikipedia](https://en.wikipedia.org/wiki/Nate_Silver) |  [Twitter]()
 
 ## About
 

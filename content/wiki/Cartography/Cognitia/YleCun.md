@@ -1,20 +1,14 @@
+---
+tags:
+  - AI
+---
 # Organization Name
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun) |  [Twitter](https://twitter.com/ylecun/)
 
+It's Yann LeCun.
 ## About
 
-### Leadership
+### Quotes
 
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+(TODO)

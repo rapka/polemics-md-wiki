@@ -1,13 +1,12 @@
 ---
 tags:
-  - Bloggers
+  - Blogs
 ---
 # Wait But Why
 
 [Website](https://waitbutwhy.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Wait_But_Why) |  [Twitter (Tim Urban)](https://twitter.com/waitbutwhy)
 
 Blog run by Tim Urban, Andrew Finn, and Alicia McElhone.
-
 
 ### Elon Hype
 

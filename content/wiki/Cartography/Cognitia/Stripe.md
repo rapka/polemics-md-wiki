@@ -1,20 +1,12 @@
-# Organization Name
-
+---
+tags:
+  - Companies
+---
+# Stripe
 [Website]() | [Wikipedia]() |  [Twitter]()
 
-## About
+Popular payment processor. Founder & CEO Patrick Collision is good friends with Peter Thiel.
 
-### Leadership
+The company also has a book publishing arm called [Stripe Press]().
 
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+(TODO)
