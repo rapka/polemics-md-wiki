@@ -1,20 +1,5 @@
-# Organization Name
+# The Climate Zone
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+![Map of Rationality](/images/wiki/maps/map_climate_zone.png)
 
-## About
-
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+**There's nothing here. This is because effective altruists generally don't take climate change very seriously**.

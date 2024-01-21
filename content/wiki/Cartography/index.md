@@ -1,8 +1,7 @@
 
 # Mapping TESCREALity: decoding Rationalist cartography 
 
-
-![Map of Rationality](/content/wiki/Cartography/map_full.jpg)
+![Map of Rationality](/images/wiki/maps/map_2022_full.jpg)
 
 
 ### Major TODOs
