@@ -1,6 +1,7 @@
 ---
 tags:
-  - AI X-Risk
+  - AI
+  - X-Risk
   - Rationality
 ---
 # Elizer Yudkowsky
