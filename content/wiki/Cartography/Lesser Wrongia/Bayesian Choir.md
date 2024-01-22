@@ -1,4 +1,4 @@
-# Organization Name
+# Bayesian Choir
 
 [Website]() | [Wikipedia]() |  [Twitter]()
 

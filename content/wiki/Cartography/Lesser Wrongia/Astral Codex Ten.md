@@ -1,5 +1,5 @@
-# Organization Name
+# Astral Codex Ten (ACT)
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Website]() | [Wikipedia]() |  [Twitter]() | [RationalWiki]()
 
-## About
+Formerly known as Star Slate Codex (SSC). Blog of Scott Alexander

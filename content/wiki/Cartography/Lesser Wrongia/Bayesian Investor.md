@@ -1,4 +1,4 @@
-# Organization Name
+# Bayesian Investor
 
 [Website]() | [Wikipedia]() |  [Twitter]()
 
