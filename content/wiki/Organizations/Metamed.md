@@ -1,28 +1,12 @@
-# Metamed
 
+# Metamed Research
+
+[Wikipedia](https://en.wikipedia.org/wiki/MetaMed)
+
+A failed rationalist startup founded by Michael Vassar (previously of the [Singularity Institute]()), [Jaan Tallinn]() , [Zvi Mowshowitz](), and Nevin Freeman with startup funding from Silicon Valley investor [Peter Thiel]().
+
+Post-mortem Google Doc:
 https://docs.google.com/document/d/1HzZd3jsG9YMU4DqHc62mMqKWtRer_KqFpiaeN-Q1rlI/edit
-
-## About
-
-
- 
-### Leadhership
-
-
-## Finances
-
-### Donors
-
-
-
-
-
-### Grants
-
-
-
-
-
 
 ## Controversy
 

@@ -1,30 +1,8 @@
 # Singularity University
 
-The group currently goes by Singularity Gorup, though the website is still [su.org](https://www.su.org/)
+[Website](https://su.org)
 
-[Website]()
-
-## About
-
-
- 
-### Leadhership
-
-
-## Finances
-
-### Donors
-
-
-
-
-
-### Grants
-
-
-
-
-
+The group currently goes by Singularity Group, though the website is still [su.org](https://www.su.org/).
 
 ## Controversy
 

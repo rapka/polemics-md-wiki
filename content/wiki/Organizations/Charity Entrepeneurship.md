@@ -7,16 +7,10 @@
 https://www.charityentrepreneurship.com/
 https://www.impactfulgrantmaking.com/funding-circles
 
-
- 
-### Leadhership
-
-
 ## Finances
 
+(TODO)
 ### Donors
-
-
 - Mulago
 - GiveWell
 - Open Philanthropy
@@ -25,17 +19,4 @@ https://www.impactfulgrantmaking.com/funding-circles
 - Schmidt Futures
 - D-Prize (Distribution Equals Development)
 
-
-
 ### Grants
-
-
-
-
-
-
-## Controversy
-
-
-
-

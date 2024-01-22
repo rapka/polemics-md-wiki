@@ -2,15 +2,13 @@
 
 ![Logo Alt Text Here](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
 
-[Keeper.ai](https://keeper.a) is an AI-based dating service for 
-
+[Keeper.ai](https://keeper.a) is an AI-based dating service.
 
 https://keeper.ai/about
 
 Mission: "To solve the loneliness, marriage, and birthrate crises by creating happy, healthy families."
 
-
-###  values
+###  "values"
 
 >06 - We don’t deny Nature
 
@@ -23,50 +21,10 @@ Mission: "To solve the loneliness, marriage, and birthrate crises by creating ha
 Bla bla bla did _bla bla_ [^2]
 
 
-
+## Finances
 ### Sovereign Capital
 
 https://www.sovereign.capital/
 
 >Sovereign Capital is a venture fund which makes investments in companies which increases sovereignty of the individual, create paths for exit and build alternative worlds
  
- 
-### Leadhership
-
-**CEO:** [bla bla](), also known as co-founder of [bleh]()
-**CEO:** [bla bla]()
-**CEO:** [bla bla]()
-
-## Finances
-
-### Donors
-
-
-
-
-
-### Grants
-
-
-
-
-
-
-## Controversy
-
-Ceo saidthis:
-> There should be no margin below this final sentence.
-
-> _**wtf**: what is this garbage_
-
-
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-
-
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
-
-
