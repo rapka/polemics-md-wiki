@@ -1,3 +1,7 @@
+---
+tags:
+  - AI
+---
 # Singularity University
 
 [Website](https://su.org)

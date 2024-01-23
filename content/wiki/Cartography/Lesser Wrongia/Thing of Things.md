@@ -1,3 +1,8 @@
+---
+tags:
+  - Effective
+  - Blogs
+---
 # Thing of Things
 
 [Substack](https://thingofthings.substack.com/) | [Wordpress](https://thingofthings.wordpress.com/)

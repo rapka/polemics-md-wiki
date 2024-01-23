@@ -1,4 +1,8 @@
-
+---
+tags:
+  - AI
+  - X-Risk
+---
 # Stanford Existential Risks Initiative (SERI)
 
 [website](https://seri.stanford.edu/)

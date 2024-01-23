@@ -26,3 +26,25 @@ https://www.charityentrepreneurship.com/charity-science-health
 
 https://www.charityentrepreneurship.com/
 
+# Charity Entrepeneurship
+
+[Website]()
+
+## About
+
+https://www.charityentrepreneurship.com/
+https://www.impactfulgrantmaking.com/funding-circles
+
+## Finances
+
+(TODO)
+### Donors
+- Mulago
+- GiveWell
+- Open Philanthropy
+- Founders Pledge
+- Animal Charity Evaluators
+- Schmidt Futures
+- D-Prize (Distribution Equals Development)
+
+### Grants

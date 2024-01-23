@@ -1,3 +1,8 @@
+---
+tags:
+  - AI
+  - Rationality
+---
 # Rational Animations
 
 A Youtube channel dedicated to promoting rationality. 

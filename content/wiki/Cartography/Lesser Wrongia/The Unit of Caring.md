@@ -1,3 +1,8 @@
+---
+tags:
+  - EffectiveAltruism
+  - Blogs
+---
 # The Unit of Caring
 
 [website](https://www.tumblr.com/theunitofcaring) | [Wikipedia](https://en.wikipedia.org/wiki/Kelsey_Piper)

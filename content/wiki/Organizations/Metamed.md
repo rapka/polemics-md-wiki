@@ -1,3 +1,8 @@
+---
+tags:
+  - Rationality
+  - Hype
+---
 
 # Metamed Research
 

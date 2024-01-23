@@ -21,7 +21,7 @@ https://web.archive.org/web/20030525211630/http://www.cgonline.com/previews/blac
 
 ### Black & White
 
-Deepmind co-founder [Demis Hassabis](Demis%20Hassabis.md) worked on the game briefly (he is not included in the game's credits) before leaving to found his own studio, Elixir.
+[DeepMind](../Cartography/Technomundistan-Technophilistan/DeepMind.md) co-founder [Demis Hassabis](Demis%20Hassabis.md) worked on the game briefly (he is not included in the game's credits) before leaving to found his own studio, Elixir.
 
 ### ProjectMilo
 
