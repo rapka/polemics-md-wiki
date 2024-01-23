@@ -1,3 +1,7 @@
+---
+tags:
+  - Rationality
+---
 # Dominic Cummings
 
 https://dominiccummings.substack.com/p/reading-list?utm_source=%2Fsearch%2Frationalist&utm_medium=reader2

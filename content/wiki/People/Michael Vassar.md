@@ -1,3 +1,28 @@
+---
+tags:
+  - AI
+  - X-Risk
+---
+# Michael Vassar
+
+[Twitter](https://twitter.com/hifrommichaelv)
+
+Longtime friend and co-worker of [Eliezer Yudkowsky](Eliezer%20Yudkowsky.md).
+
+
+### Metamed Research
+
+See the [main page](../Organizations/Metamed.md)
+
+### Wikiquote weirdness
+
+Vassar doesn't have his own Wikipedia page (it redirects to the page for MetaMed), but he does have his own [Wikiquote page](https://en.wikiquote.org/wiki/Michael_Vassar). 
+
+### Abuse Allegations
+
+
+----
+(TODO: sort all these notes)
 
 Longtime associate of Eliezer Yudkowsky. He's alleged to have created the "Vassarite"
 

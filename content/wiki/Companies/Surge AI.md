@@ -1,3 +1,8 @@
+---
+tags:
+  - AI
+  - DataLabeling
+---
 # Surge AI
 
 [Website](https://www.surgehq.ai)

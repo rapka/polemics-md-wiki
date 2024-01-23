@@ -10,3 +10,6 @@ https://twitter.com/sama/status/1682809958734131200?lang=en
 *referring to a startup billed as “100 percent fatal,”*
 https://www.technologyreview.com/2018/03/13/144721/a-startup-is-pitching-a-mind-uploading-service-that-is-100-percent-fatal/
 
+## Abuse allegations
+
+(TODO: Add Annie Altman info)

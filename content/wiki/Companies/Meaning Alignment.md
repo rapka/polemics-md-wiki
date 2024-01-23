@@ -1,13 +1,18 @@
-# Meaning Alignment
+---
+tags:
+  - AI
+  - X-Risk
+---
+# Institute for Meaning Alignment
 
 [Website](https://www.meaningalignment.org/)
 
-
-From their [about page](https://www.meaningalignment.org/)
+Formerly known as ["Rebuilding Meaning"](https://meaningalignment.substack.com/p/we-are-now-the-institute-for-meaning). From their [about page](https://www.meaningalignment.org/)
 > The Meaning Alignment Institute is a research organization with the goal of ensuring human flourishing in the age of AGI, through our unique expertise in _meaning_ and _values_.
 
-Co-founder Joe Edelman was also the co-founder of the [Center for Humane Technology]().
+Winner of [OpenAI's](../Cartography/Technomundistan-Technophilistan/OpenAI.md) 2023 [Democratic Inputs to AI](https://openai.com/blog/democratic-inputs-to-ai) grant.
 
+Co-founder Joe Edelman was also the co-founder of the [Center for Humane Technology]().
 
 ### FAQ
 
