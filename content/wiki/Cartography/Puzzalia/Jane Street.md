@@ -1,5 +1,12 @@
+# Jane Street
 
+A hedge fund that is especially popular as a job for effective altruists aiming to "Earn to Give".
 
+## Notable employees
 
+(TODO)
 
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+- Sam Bankman-Fried
+- Jim McClave
+- Caroline Ellison
+- 

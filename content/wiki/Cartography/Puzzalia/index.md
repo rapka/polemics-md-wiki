@@ -4,11 +4,11 @@
 TESCREAL groups related to decision theory and gaming.
 
 ### Members
-- Azimuth
-- Cryptic Ruins
-- IMO
-- Jane Street
-- Judea Pearl
-- Magic: The Gathering
-- Poker
-- Topos Institute
+- [Azimuth](Azimuth.md)
+- [Cryptic Ruins](Cryptic%20Ruins.md)
+- [IMO](IMO.md)
+- [Jane Street](Jane%20Street.md)
+- [Judea Pearl](@yudapearl.md)
+- [Magic: The Gathering](MtG.md)
+- [Poker](Poker.md)
+- [Topos Institute](Topos%20Institute.md)
