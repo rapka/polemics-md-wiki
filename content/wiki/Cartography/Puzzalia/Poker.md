@@ -1,5 +1,21 @@
+(TODO: Investigate this)
 
 
 
+### Liv Boeree 
 
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+[YouTube](https://www.youtube.com/@LivBoeree)| [Twitter](https://twitter.com/Liv_Boeree)
+
+
+Liv Boeree
+@Liv_Boeree
+Looking for the win-wins in life. Not a fan of Moloch traps. Brand new podcast out now, watch here:
+
+
+Description
+Welcome! I'm Liv - started out in astrophysics, ended up at the poker table. Now I make weird videos.
+
+Things I love: game theory, physics and embracing uncertainty. 
+
+Things I don't love: extinction risks and ideologues
+

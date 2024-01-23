@@ -2,7 +2,6 @@
 
 
 
-
 # Links
 
 "ROBERT MILES - "There is a good chance this kills everyone"" - Machine Learning Street Talk

@@ -1,20 +1,8 @@
-# Organization Name
+---
+tags:
+  - AI
+  - X-Risk
+---
+# Redwood Research
 
-[Website]()
-
-## About
-
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+[Website](https://www.redwoodresearch.org/)

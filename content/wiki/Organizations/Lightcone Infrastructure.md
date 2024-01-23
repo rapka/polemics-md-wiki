@@ -7,15 +7,12 @@
 Lightcone a project of the Center for Applied Rationality and is the parent company of LessWrong and the Survival and Flourishing Fund. They also claim to be working on a "Bell Labs for longtermism" on their website.
 ## LessWrong
 
-LessWrong: see the main page
+LessWrong: see the [main page](../Cartography/Lesser%20Wrongia/LessWrong)
 
 ## Survival and Flourishing Fund
 
- 
- 
+see the [main page](../Cartography/Lesser%20Wrongia/SFF)
 ### Leadership
-
-## 
 
 Oliver Habryka
 Ruby Bloom
@@ -24,37 +21,3 @@ Ben Pace
 Raymond Arnold
 Rafe Kennedy
 Robert Mushkatblat
-
-## Finances
-
-### Donors
-
-
-
-
-
-### Grants
-
-
-
-
-
-
-## Controversy
-
-Ceo saidthis:
-> There should be no margin below this final sentence.
-
-> _**wtf**: what is this garbage_
-
-
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-* This is an unordered list following a header.
-
-
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
-
-
