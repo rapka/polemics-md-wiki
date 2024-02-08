@@ -1,3 +1,9 @@
+---
+tags:
+  - EffectiveAltruism
+  - EffectiveAccelerationism
+  - VentureCapital
+---
 # Effective Accelerationism (e/acc)
 
 [Wikipedia](https://en.wikipedia.org/wiki/Effective_accelerationism)

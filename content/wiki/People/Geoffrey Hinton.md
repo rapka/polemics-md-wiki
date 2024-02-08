@@ -2,6 +2,7 @@
 tags:
   - AI
   - X-Risk
+  - DeepMind
 ---
 # Geoffrey Hinton
 

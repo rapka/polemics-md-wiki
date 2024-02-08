@@ -1,10 +1,7 @@
 # The Centre for the Study of Existential Risk (CSER)
 
-![Logo Alt Text Here](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
+[Website](https://www.cser.ac.uk/) | [Twitter](https://twitter.com/csercambridge)
 
-[Website](https://www.cser.ac.uk/)
-
-## About
 
 From their [about page](https://www.cser.ac.uk/about-us/):
 

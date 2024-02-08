@@ -2,6 +2,7 @@
 tags:
   - AI
   - X-Risk
+  - EffectiveAltruism
 ---
 # Helen Toner
 

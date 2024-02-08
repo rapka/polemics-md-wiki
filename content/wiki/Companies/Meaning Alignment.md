@@ -2,6 +2,7 @@
 tags:
   - AI
   - X-Risk
+  - OpenAI
 ---
 # Institute for Meaning Alignment
 

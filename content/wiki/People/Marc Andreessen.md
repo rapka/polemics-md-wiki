@@ -1,3 +1,11 @@
+---
+tags:
+  - AI
+  - X-Risk
+  - EffectiveAccelerationism
+  - VentureCapital
+  - Crypto
+---
 # Marc Andreessen
 
 Co-founded Andreessen Horowitz

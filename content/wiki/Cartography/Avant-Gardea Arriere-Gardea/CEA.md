@@ -1,10 +1,14 @@
+---
+tags:
+  - EffectiveAltruism
+  - Longtermism
+  - X-Risk
+---
 # Center For Effective Altruism (CEA)
-
-![Logo Alt Text Here](https://upload.wikimedia.org/wikipedia/commons/thumb/9/9e/Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg/240px-Picea_abies_shoot_with_buds%2C_Sogndal%2C_Norway.jpg)
 
 [Website](https://www.centreforeffectivealtruism.org/)| [Wikipedia](https://en.wikipedia.org/wiki/Centre_for_Effective_Altruism)
 
-One of the biggest effective altruist institutions. Founded in 2012 by [William MacAskill]() and [Toby Ord](). CEA is now part of [Effective Ventures]() after the big restructure.
+One of the biggest effective altruist institutions. Founded in 2012 by [William MacAskill]() and [Toby Ord](). CEA is now Effective Ventures after the big restructure; content relating to Effective Ventures and EA Funds both live on this page.
 
 (TODO: flesh this section out)
 
@@ -41,6 +45,7 @@ EA Funds spent 2023 aggressively investing in international EA outreach. Between
 Funds animal rights related charities.
 
 ### Anonymous grants
+
 Several of the people who have received money from EA Funds are anonymous. For example:
 - One $15,000 grant from Q3 2023 was to an individual for "3 months pay for career pivot"
 - Another grant from Q4 2022 was $14,416 for "dedicating 1-2 days per week over 1 year to running multiple rationalist communities".
@@ -49,7 +54,7 @@ Several of the people who have received money from EA Funds are anonymous. For e
 - EA Funds spent $4,528 in 2022 paying for an anonymous grantee's weekly therapy visits
 - One $30,000 anonymous grant from Q3 2022 was simply for "PhD/salary top-up"
 
-**Since 2021, EA Funds has distributed over $1.1 million to anonymous recipients as part of the EA Infrastructure Fund and another $2.9 million as part of the Long-Term Future Fund.** The Animal Welfare Fund has distributed a further $963,000 to unknown recipients.
+**Since 2021, EA Funds has distributed over $1.1 million to anonymous recipients as part of the EA Infrastructure Fund and another $2.9 million as part of the Long-Term Future Fund.** The Animal Welfare Fund has distributed a further $93,000 to unknown recipients since 2018.
 
 ## Donors
 

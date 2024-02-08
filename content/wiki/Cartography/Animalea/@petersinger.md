@@ -1,3 +1,8 @@
+---
+tags:
+  - AnimalRights
+  - EffectiveAlturism
+---
 # Peter Singer
 
 [Wikipedia](https://en.wikipedia.org/wiki/Peter_Singer) | [RationalWiki](https://rationalwiki.org/wiki/Peter_Singer)| [Twitter](https://twitter.com/PeterSinger)

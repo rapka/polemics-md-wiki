@@ -3,7 +3,7 @@ tags:
   - AI
   - X-Risk
   - Rationality
-  - Effective Altruism
+  - EffectiveAltruism
 ---
 # Jaan Tallinn
 

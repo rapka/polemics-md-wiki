@@ -20,7 +20,7 @@ This will host the blog locally on `localhost:8080`.
 ## Adding and editing content
 
 
-All content exists as markdown files inside the `content` folder. The best way to work on this is by using [Obsidian](https://obsidian.md) and opening the entire `content` folder as a vault.
+All content exists as markdown files inside the `content` folder. The best way to work on this is by using [Obsidian](https://obsidian.md) and opening the entire `content` folder as a vault. This causes relative links in markdown files to break when viewed on Github.
 
 
 Obdisian uses a slightly modified version of Markdown. More info here:

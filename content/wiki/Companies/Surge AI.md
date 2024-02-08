@@ -33,3 +33,36 @@ A confidential workforce of 100,000 people sourced via "proprietary" methods.
 > Taskup.ai, DataAnnotation.tech, and Gethybrid.io all appear to be owned by the same company: Surge AI. Its CEO, Edwin Chen, would neither confirm nor deny the connection, but he was willing to talk about his company and how he sees annotation evolving.
 
 (TODO: investigate shell companies)
+
+#### Taskup.ai
+
+https://taskup.ai/
+
+#### Gethyrid.io
+
+https://gethybrid.io/
+
+Taskup Hybrid use identical website designs. Hybrid is developer facing while Taskup is aimed at clickworkers.
+(img here)
+
+
+Hybrid's [Code of Conduct](https://docs.google.com/document/u/0/d/e/2PACX-1vQRSbcK0ctnOVqPC58qNzxW3vssF4-oPNueAh4TStPTpj5rxNDYHbsZyEJOroP-0V7nB1PDQff4Sqzi/pub?pli=1)is very barebones - the entire document is only nine sentences. The language is similarly vague, with the "Professional Integrity" section banning "any actions that could be interpreted as unethical".
+
+
+### DataAnnotation.tech
+
+https://www.dataannotation.tech/
+
+Data Annotations website mentions BuzzFeed in the "featured on" section. The Buzzfeed article in question, titled ["This 25-Year-Old Is Going Viral For Sharing Exactly How She Earns An Extra $100 Every Day After Work"](https://www.buzzfeed.com/meganeliscomb/100-extra-dollars-a-day-tiktok) is truly dystopian. The author acknowledges the depressing nature of hustle culture before exploring a TikToker's attempts to earn extra cash, often to through AI training platforms like Data Annotation and [Prolific](Prolific.md).
+
+Unlike Taskup and Gethybrid, Data Annotation has much more of an online presence. However, the Internet Archive has [earlier versions](https://web.archive.org/web/20211231231443/https://dataannotation.tech/) of the website that have identical copy to the current Taskup site.
+
+(img here)
+
+Data annotaion has a blog with a handful of posts. One of them is called "Breaking Free: Why Freelancing is the Future of Work". 
+
+They also have a tiktok where pro-gig economy posts are couple with commenters complaining about not getting a response from customer service.
+
+A couple of Data Annotation's [Facebook ads](https://www.facebook.com/ads/library/?id=379838594449138)from January 2024 were removed for violating Meta's content standards.
+
+A 2022 [interview](https://datainnovation.org/2022/09/5-qs-for-edwin-chen-ceo-of-surge-ai/)with Chen claimed that Surge was using AI to flag errors in labelers content and "take over more and more of the labeling process".

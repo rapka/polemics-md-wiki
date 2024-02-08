@@ -1,3 +1,8 @@
+---
+tags:
+  - EffectiveAltruism
+  - Nazis
+---
 # Simone & Malcom Collins
 
 https://www.telegraph.co.uk/family/life/pronatalists-save-mankind-by-having-babies-silicon-valley/

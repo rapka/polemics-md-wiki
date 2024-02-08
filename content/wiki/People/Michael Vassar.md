@@ -2,6 +2,7 @@
 tags:
   - AI
   - X-Risk
+  - Rationality
 ---
 # Michael Vassar
 
@@ -103,3 +104,32 @@ https://twitter.com/jmartiniii1968/status/590193117179027456
 
 For context, most of the above links came from either the RationalWiki page on him, allegations from Ziz, or other anonymous allegations posted to these online communities. I wanted to double check the most serious ones as best as I can from primary sources.
 
+
+https://twitter.com/RuffleJax/status/1009625312844550146
+>Some people asked for a continuation of my [#LessWrong](https://twitter.com/hashtag/LessWrong?src=hashtag_click) abuse thread. Some people told me I was polluting Kathy's legacy and twisting her words. Some people said I made up my abuse, that I threw in Michael Vassar and Andrew Rettek to get more views.
+
+https://twitter.com/RuffleJax/status/1009625630122618880
+>[
+
+](https://twitter.com/RuffleJax)
+
+Before I go on, I wanted to thank
+
+[@davidgerard](https://twitter.com/davidgerard)
+
+at
+
+[@RationalWiki](https://twitter.com/RationalWiki)
+
+and the folks at r/Sneer Club for helping propagate Kathy's note. I also want to thank
+
+[@bi_gendian](https://twitter.com/bi_gendian)
+
+for being an amazing co-spear carrier and friend.
+
+https://twitter.com/RuffleJax/status/1009627168106799111
+I also want to include links to some of Kathy's works before I talk about my own abuse some more. Her note is what allowed me to come out publicly in a way that could be spread.
+
+>I only knew her through my domestic partner, to be exceedingly clear, and her vernacular is VERY DIFFERENT than mine. She, for example, believed that she was being targeted due to her facial structure and hormone levels. I do not support this.
+
+>Her work is extremely useful as an insider's view though -- and as a testament to how far abusers will go to discredit and destroy one of their own, if they try to bring the abuses to light.

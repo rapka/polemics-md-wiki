@@ -1,3 +1,10 @@
+---
+tags:
+  - AI
+  - X-Risk
+  - Rationality
+  - VentureCapital
+---
 # Peter Thiel
 
 See the page for the [Thiel Foundation](../Cartography/Twiliberia/Thiel%20Foundation.md) for more info.

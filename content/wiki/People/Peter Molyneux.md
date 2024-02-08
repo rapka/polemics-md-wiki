@@ -3,7 +3,6 @@
 tags:
   - AI
   - Gaming
-  - Hype
 ---
 
 [Wikipedia](https://en.wikipedia.org/wiki/Peter_Molyneux)

@@ -1,4 +1,15 @@
-CEO of OpenAI
+---
+tags:
+  - AI
+  - X-Risk
+  - OpenAI
+  - EffectiveAccelerationism
+  - VentureCapital
+---
+
+# Sam Altman
+
+(TODO)
 
 ## a list of crazy things Sam Altman has said
 

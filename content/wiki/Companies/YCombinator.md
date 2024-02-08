@@ -1,3 +1,9 @@
+---
+tags:
+  - VentureCapital
+  - AI
+  - OpenAI
+---
 # YCombinator
 
 Famous startup accelerator launched in 2005 by Founded in 2005 by Paul Graham, [Jessica Livingston](https://en.wikipedia.org/wiki/Jessica_Livingston "Jessica Livingston"), [Robert Tappan Morris](https://en.wikipedia.org/wiki/Robert_Tappan_Morris "Robert Tappan Morris"), and [Trevor Blackwell](https://en.wikipedia.org/wiki/Trevor_Blackwell "Trevor Blackwell"),[[5]](https://en.wikipedia.org/wiki/Y_Combinator#cite_note-5) Y

@@ -1,13 +1,13 @@
 ---
 tags:
-  - Animal Rights
-  - Effective Altruism
+  - AnimalRights
+  - EffectiveAltruism
 ---
 # The Humane League
 
 [Website](https://thehumaneleague.org/) | [Wikipedia](https://en.wikipedia.org/wiki/The_Humane_League) |  [Twitter](https://twitter.com/TheHumaneLeague)
 
-Animal Rights organization founded in 2005 by vegan venture capitalist [Nick Cooney](https://en.wikipedia.org/wiki/Nick_Cooney). Cooney also founded the Good Food Institute ([Wikipedia](https://en.wikipedia.org/wiki/The_Good_Food_Institute)), which was [recommended](https://animalcharityevaluators.org/blog/announcing-our-2022-charity-recommendations/) by [Animal Charity Evaluators]() in 2022.
+The Humane Leage is animal Rights organization founded in 2005 by vegan venture capitalist [Nick Cooney](https://en.wikipedia.org/wiki/Nick_Cooney). Cooney also founded the Good Food Institute ([Wikipedia](https://en.wikipedia.org/wiki/The_Good_Food_Institute)), which was [recommended](https://animalcharityevaluators.org/blog/announcing-our-2022-charity-recommendations/) by [Animal Charity Evaluators]() in 2022.
 
 ## Finances
 

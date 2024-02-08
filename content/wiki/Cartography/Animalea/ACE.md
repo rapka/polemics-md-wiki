@@ -1,7 +1,7 @@
 ---
 tags:
-  - Animal Rights
-  - Effective Altruism
+  - AnimalRights
+  - EffectiveAltruism
 ---
 # Animal Charity Evaluators (ACE)
 
