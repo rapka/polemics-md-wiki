@@ -1,3 +1,11 @@
+---
+tags:
+  - AI
+  - X-Risk
+  - Rationality
+  - Billionaires
+  - Nazis
+---
 # Elon Musk (@elonmusk)
 
 [Twitter](https://www.twitter.com/elonmusk)

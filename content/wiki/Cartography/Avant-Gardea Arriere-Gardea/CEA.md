@@ -34,9 +34,11 @@ The longtermist fund. This fund is managed by Oliver Habryka, Linchuan Zhang, an
 https://funds.effectivealtruism.org/grants?fund=EA%2520Infrastructure%2520Fund&sort=round
 
 
-"Funding to organizations or people that aim to grow or improve the effective altruism community". Managed by Peter Wildeford.
+"Funding to organizations or people that aim to grow or improve the effective altruism community". Managed by Peter Wildeford. In 20202, approximately 80% of the money in this fund came from Open Philanthropy.
 
-EA Funds spent 2023 aggressively investing in international EA outreach. Between Q2 and Q4, grants were made in Italy, Australia, The Czech Republic, Hungary, The Philippines, Malaysia, Sweden, and Japan.
+EA Funds spent 2023 aggressively investing in international EA outreach as part of its Infrastructure Fund. Between Q2 and Q4, grants were made in Italy, Australia, The Czech Republic, Hungary, The Philippines, Malaysia, Sweden, Japan, and Norway. This was also a focus in 2022; the fund spent $1,037,753 on EA outreach in Colombia, Hungary, Brazil, Israel, Ireland, the United Arab Emirates, Estonia, India, Italy, Sweden, Japan, New Zealand, Poland, Germany, and Turkey.
+
+Additionally, the EA Infrastructure Fun has spent $19,901 on rationality meetups in Chicago, Portland, Waterloo, New York City as well as $14,416 to an anonymous person to run "multiple rationalist communities".
 
 (TODO: check this for conflicts of interest)
 

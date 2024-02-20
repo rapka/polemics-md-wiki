@@ -1,6 +1,6 @@
 ---
 tags:
-. - AI
+  - AI
   - Gender
 ---
 # Keeper

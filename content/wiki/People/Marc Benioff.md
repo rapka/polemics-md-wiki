@@ -5,7 +5,16 @@ tags:
 ---
 # Marc Benioff
 
-CEO of Salesforce. He bought Time Magazine in 2018
+CEO of Salesforce. He bought Time Magazine in 2018.
+
+#### Salesforce & Generative AI
+
+Salesforce partnered with [OpenAI](../Cartography/Technomundistan-Technophilistan/OpenAI.md) in 2023 to create "Einstein GPT", a version of GPT finetuned for CRMs. Salesforce also launched a [generative AI fund](https://www.salesforce.com/news/stories/generative-ai-investing/)which participated in [Anthropic's](../Cartography/Avant-Gardea%20Arriere-Gardea/Anthropic.md) funding Round C.
+
+In an [interview](https://salesforceventures.com/perspectives/in-conversation-with-anthropic-co-founder-tom-brown/) with Salesforce's president, Anthropic co-founder Tom Brown claimed AGI already exists:
+>“I think we already have weak AGI. You can talk with ChatGPT or Claude and it’s somewhat intelligent, and with each year it’s improving.”
+>
+>“Right now you may prompt the model to build a successful startup. It’ll try to do it, but it’ll get stuck. But as we add more compute, the model gets smarter. The model’s IQ goes up. So I think it would be surprising if the models suddenly stopped getting better. And then it’s a question of how much better can they get? One thing we don’t know is how far the model has to go for it to be an AI entrepreneur that could do a great job. But every year it seems like we’re getting more IQ points so at some point I think we’ll get models that are better at engineering than I am.”
 
 #### AI x-risk views
 

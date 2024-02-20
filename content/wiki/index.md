@@ -7,6 +7,6 @@ Vipul Naik's [financial information database](https://donations.vipulnaik.com) a
 
 ### Rationality Cartography
 
-The inspiration for this project was a desire to understand an anonymously-made [map of the online Rationalist space](wiki/cartography/map_full.jpg) that was posted to [Scott Alexander]'s Astral Codex Ten blog in 2022. AI Panic has published an excellent breakdown of a [similar graph](https://www.aipanic.news/p/ultimate-guide-to-ai-existential)that is also used as a source.
+The inspiration for this project was a desire to understand an anonymously-made [map of the online Rationalist space](wiki/cartography/map_full.jpg) that was [posted](https://www.astralcodexten.com/p/links-for-october-397) to [Scott Alexander](People/Scott%20Alexander.md)'s Astral Codex Ten blog in 2022. AI Panic has published an excellent breakdown of a [similar graph](https://www.aipanic.news/p/ultimate-guide-to-ai-existential)that is also used as a source.
 
 TESCREAL-related pages not represented by the map are organized by type. 

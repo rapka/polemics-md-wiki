@@ -4,6 +4,7 @@ tags:
   - X-Risk
   - Rationality
   - VentureCapital
+  - Billionaires
 ---
 # Peter Thiel
 
