@@ -15,6 +15,7 @@
     "url": "https://github.com/rapka/polemics-md/issues"
   },
   "scripts": {
+    "build": "npx quartz build",
     "start": "npx quartz build --serve",
     "docs": "npx quartz build --serve -d docs",
     "check": "tsc --noEmit && npx prettier . --check",
