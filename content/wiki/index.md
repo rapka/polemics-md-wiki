@@ -1,5 +1,5 @@
 
-Welcome to what is tentatively titled the "TESCREAL wiki". it aims to collect, organize, and critically analyze information about the transhumanist, Rationalist, effective altruism, longtermism, and AI existential risk communities.
+This is what is tentatively titled the "TESCREAL wiki". it aims to collect, organize, and critically analyze information about the transhumanist, Rationalist, effective altruism, longtermism, and AI existential risk communities.
 
 Some of the information here has previously been compiled on other platforms such as [RationalWiki](https://rationalwiki.org)and [InfluenceWatch](https://www.influencewatch.org). However, those websites don't have a focus on sci-fi and effective altruism specifically; this project aims to collect this knowledge as it pertains to TESCREAL in an organized fashion. 
 

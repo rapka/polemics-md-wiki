@@ -15,17 +15,6 @@ https://dominiccummings.substack.com/p/reading-list?utm_source=%2Fsearch%2Fratio
 
 https://www.cgdev.org/publication/uk-effective-altruist
 
-## About
-
-
-
-### Career, Appointments, and Donations
-
-Bla bla bla did _bla bla_ [^3]
-
-
-### Donations
-
 
 
 
