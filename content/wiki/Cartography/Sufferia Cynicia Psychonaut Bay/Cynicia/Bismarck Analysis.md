@@ -1,3 +1,0 @@
-# Bismarck Analysis
-
-(TODO)
