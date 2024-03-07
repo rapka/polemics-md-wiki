@@ -8,6 +8,8 @@ It's OpenAI.
 
 ### Leadership
 
+![OpenAI corporate structure](./openai_Structure.jpg)
+
 #### Board of Directors
 ##### Current
 
