@@ -11,6 +11,8 @@ It's OpenAI.
 ![OpenAI corporate structure](./openai_Structure.jpg)
 
 #### Board of Directors
+
+(TODO)
 ##### Current
 
 ##### Former
