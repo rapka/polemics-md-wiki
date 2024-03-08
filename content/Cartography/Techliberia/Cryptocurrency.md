@@ -1,26 +1,9 @@
-
-{{% pageinfo %}}
-This is# Organization Name
+# Cryptocurrency
 
 [Website]() | [Wikipedia]() |  [Twitter]()
 
-## About
+TESCREAL groups and individuals with ties to crypto include: 
+- (TODO)
 
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
- a placeholder page that shows you how to use this template site.
-{{% /pageinfo %}}
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+In particular, [FTX](../Avant-Gardea%20Arriere-Gardea/FTX.md) funded or promised funding to many EA and AI Safety groups before Sam Bankman-Fried's arrest. These include:
+- (TODO)

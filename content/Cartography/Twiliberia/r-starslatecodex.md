@@ -1,4 +1,4 @@
-# Organization Name
+# r/starslatecodex
 
 [Website](https://www.reddit.com/r/slatestarcodex/) 
 

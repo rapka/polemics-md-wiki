@@ -1,4 +1,4 @@
-# Organization Name
+# OpenAI
 
 [Website](https://openai.com/) | [Wikipedia](https://en.wikipedia.org/wiki/OpenAI) |  [Twitter](https://twitter.com/OpenAI)
 
@@ -6,7 +6,7 @@
 
 It's OpenAI.
 
-### Leadership
+### Coporate Structure
 
 ![OpenAI corporate structure](./openai_Structure.jpg)
 
@@ -17,12 +17,8 @@ It's OpenAI.
 
 ##### Former
 
+### November 2023 CEO Drama
 
-## Finances
+##### Timeline of events
 
-### Donors
-
-### Grants
-
-## Controversy
-
+(TODO)

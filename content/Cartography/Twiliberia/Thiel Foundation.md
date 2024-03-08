@@ -1,14 +1,7 @@
-# Organization Name
+# Thiel Foundation
 
 [Website]() | [Wikipedia]() |  [Twitter]()
 
-## About
+Charitable organization founded by [Peter Thiel](../../People/Peter%20Thiel.md).
 
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
+(TODO)

@@ -1,11 +1,5 @@
-# Organization Name
+# Alignment Forum
 
 [Website]() | [Wikipedia]() |  [Twitter]()
 
-## About
-
-### Leadership
-
-## Finances
-
-### Donors
+(TODO)

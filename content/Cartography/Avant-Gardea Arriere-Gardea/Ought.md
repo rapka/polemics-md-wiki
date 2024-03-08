@@ -1,11 +1,5 @@
-# Organization Name
+# Ought
 
 [Website]()
 
-## About
-
-### Leadership
-
-## Finances
-
-### Donors
+(TODO)

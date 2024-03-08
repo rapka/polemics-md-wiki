@@ -1,21 +1,5 @@
-
-# Organization Name
+# Clearer Thinking
 
 [Website]()
 
-## About
-
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+(TODO)

@@ -1,20 +1,5 @@
-# Organization Name
+# QURI
 
 [Website]()
 
-## About
-
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+(TODO)

@@ -1,20 +1,5 @@
-# Organization Name
+# Making Sense
 
 [Website]() | [Wikipedia]() |  [Twitter]()
 
-## About
-
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+(TODO)

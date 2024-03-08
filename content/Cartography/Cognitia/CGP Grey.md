@@ -1,7 +1,5 @@
-# Organization Name
+# CGP Grey
 
 [Website]()
-
-## About
 
 (TODO)

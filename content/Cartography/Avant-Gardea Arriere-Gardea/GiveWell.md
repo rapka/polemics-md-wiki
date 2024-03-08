@@ -1,20 +1,5 @@
-# Organization Name
+# GiveWell
 
 [Website]()
 
-## About
-
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+(TODO)

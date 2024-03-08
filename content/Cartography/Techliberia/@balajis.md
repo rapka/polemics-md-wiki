@@ -1,20 +1,10 @@
-# Organization Name
+# Balaji Srinivassan (@balajis)
 
-[Website]() | [Wikipedia]() |  [Twitter]()
+[Website]() | [Wikipedia]() |  [Twitter](https://twitter.com/balajis)
 
-## About
+Wrote a book called [The Network State](https://thenetworkstate.com/). His current Twitter bio says the following:
+>Immutable money, infinite frontier, eternal life. *Hashtag* Bitcoin! 
 
-### Leadership
+### The Network State
 
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+(TODO)

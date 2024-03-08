@@ -1,4 +1,4 @@
-# Organization Name
+# Alignment Newsletter
 
 [Website](https://rohinshah.com/alignment-newsletter/)
 
