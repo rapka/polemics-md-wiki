@@ -12,7 +12,7 @@
 
 ## Controversies
 
-### Role in Ziz drama
+### Michael Vassar
 
 (TODO)
 

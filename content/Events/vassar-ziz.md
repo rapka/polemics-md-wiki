@@ -1,6 +1,6 @@
 # The Michael Vassar vs. Ziz rationalist mini-cult conflict
 
-This sequence of events involves longtime friend and associate of [Eliezer Yudkowsky](../People/Eliezer%20Yudkowsky.md) [Michael Vassar](../People/Michael%20Vassar.md) and a feud started against him by an ex-friend who goes by the name of ziz online.
+This sequence of events involves longtime friend and associate of [Eliezer Yudkowsky](../People/Eliezer%20Yudkowsky.md) [Michael Vassar](../People/Michael%20Vassar.md) and a feud started against him by an ex-friend who goes by the name of ziz online. 
 
 
 ### CFAR's handling of abuse allegations
@@ -10,8 +10,7 @@ https://rationality.org/resources/updates/2018/acdc
 
 ### Testimony and takes from Scott Alexander
 
-[Scott Alexander](../Cartography/Lesser%20Wrongia/Astral%20Codex%20Ten.md) described the situation as follows in a [thread](https://www.greaterwrong.com/posts/MnFqyPLqbiKL8nSR7/my-experience-at-and-around-miri-and-cfar-inspired-by-zoe/comment/4j2GS4yWu6stGvZWs) on GreaterWrong. His posts were in response to a thread from a rationalist describing her negative experience with [MIRI](../Cartography/Lesser%20Wrongia/MIRI.md) and [CFAR](../Cartography/Lesser%20Wrongia/CFAR.md) which in turn was inspired by a similar [post](https://medium.com/@zoecurzi/my-experience-with-leverage-research-17e96a8e540b) about [Leverage](../Cartography/Sufferia%20Cynicia%20Psychonaut%20Bay/Cynicia/Leverage.md).
-
+[Scott Alexander](../Cartography/Lesser%20Wrongia/Astral%20Codex%20Ten.md) described the situation in a [thread](https://www.greaterwrong.com/posts/MnFqyPLqbiKL8nSR7/my-experience-at-and-around-miri-and-cfar-inspired-by-zoe/comment/4j2GS4yWu6stGvZWs) on GreaterWrong. His posts were in response to a thread from a rationalist describing her negative experience with [MIRI](../Cartography/Lesser%20Wrongia/MIRI.md) and [CFAR](../Cartography/Lesser%20Wrongia/CFAR.md) which in turn was inspired by a similar [post](https://medium.com/@zoecurzi/my-experience-with-leverage-research-17e96a8e540b) about [Leverage](../Cartography/Sufferia%20Cynicia%20Psychonaut%20Bay/Cynicia/Leverage.md).
 
 >Jessica was (I don’t know if she still is) part of a group centered around a person named Vassar, informally dubbed “the Vassarites”. Their philosophy is complicated, but they basically have a kind of **gnostic stance where regular society is infinitely corrupt and conformist and traumatizing and you need to “jailbreak” yourself from it (I’m using a term I found on Ziz’s discussion of her conversations with Vassar; I don’t know if Vassar uses it himself). Jailbreaking involves a lot of tough conversations, breaking down of self, and (at least sometimes) lots of psychedelic drugs.**
 >
@@ -19,7 +18,7 @@ https://rationality.org/resources/updates/2018/acdc
 
 >Jessica talks about a cluster of psychoses from 2017 − 2019 which she blames on MIRI/​CFAR. She admits that not all the people involved worked for MIRI or CFAR, but kind of equivocates around this and says they were “in the social circle” in some way. The actual connection is that most (maybe all?) of these people were involved with the Vassarites or the Zizians (the latter being IMO a Vassarite splinter group, though I think both groups would deny this characterization). The main connection to MIRI/​CFAR is that the Vassarites recruited from the MIRI/​CFAR social network.
 
-Alexander disagrees with the idea of describing any of these groups as "cults", he also acknowledges that several serious mental health institution 
+Alexander disagrees with the idea of describing any of these groups as "cults", he also acknowledges that several serious mental health episodes occured, concluding that **"I think the data point that all of this was associated with Vassar and the Vassarites is one we shouldn’t just ignore"**.
 
 
 ### "The Zizians" website
@@ -28,7 +27,7 @@ A [website](http://zizians.info/)about Ziz by someone named "Apollo Mojava" has 
 
 The stated goal of the website is to warn people of Ziz and her followers, which seems like wise advice. However, Michael Vassar and the nature of Ziz's feud with him is never mentioned
 
-### Everything to save it allegations
+### "Everything to save it" allegations
 
 https://web.archive.org/web/20200425080116/https://everythingtosaveit.how/case-study-cfar/
 
@@ -45,9 +44,3 @@ Many of the claims in this Medium post link back to Ziz's blog.
 >at events like the Workshop on AI Safety Strategy (WAISS) run by CFAR, people would suggest ideas like taking out life insurance that would pay out to MIRI, and then [committing suicide](https://sinceriously.fyi/intersex-brains-and-conceptual-warfare/#comment-1900) to further the cause.
 
 >Working at MIRI conferred a kind of special respect as someone who Yudkowsky and other prominent members thought were worthy to save the world. To young teenagers enamored with the Less Wrong community and its stated ideals, it’s easy to see how kids could’ve been coerced into having sex with adults working at MIRI.
-
-
-### Twitter thread
-
-Besides Vassar, Andrew Rettek and Anna Solomon were both accused of abusive behavior
-

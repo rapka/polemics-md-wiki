@@ -5,7 +5,7 @@ tags:
 ---
 # Peter Singer
 
-[Wikipedia](https://en.wikipedia.org/wiki/Peter_Singer) | [RationalWiki](https://rationalwiki.org/wiki/Peter_Singer)| [Twitter](https://twitter.com/PeterSinger)
+[Wikipedia](https://en.wikipedia.org/wiki/Peter_Singer) | [RationalWiki](https://rationalwiki.org/wiki/Peter_Singer) | [Twitter](https://twitter.com/PeterSinger)
 
 _Not to be confused with Steven Pinker._
 
