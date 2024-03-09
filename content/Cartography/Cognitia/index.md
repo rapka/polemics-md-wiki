@@ -1,7 +1,7 @@
 # Cognitia
 
-![Map of Rationality](../../images/wiki/maps/map_cognitia_1.png)
-![Map of Rationality](../../images/wiki/maps/map_cognitia_2.png)
+![Map of Rationality](../../images/maps/map_cognitia_1.png)
+![Map of Rationality](../../images/maps/map_cognitia_2.png)
 ### Members
 
 - CGP Grey

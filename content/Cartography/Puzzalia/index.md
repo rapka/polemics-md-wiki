@@ -1,6 +1,6 @@
 # Puzzalia
 
-![Map of Rationality](/images/wiki/maps/map_puzzalia.png)
+![Map of Rationality](/images/maps/map_puzzalia.png)
 TESCREAL groups related to decision theory and gaming.
 
 ### Members

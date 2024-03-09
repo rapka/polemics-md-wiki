@@ -1,6 +1,6 @@
 # Neoliberia
 
-![Map of Rationality](/images/wiki/maps/map_neoliberia.png)
+![Map of Rationality](/images/maps/map_neoliberia.png)
 The Neoliberal section of the TESCREAL map. This is the classical definition of "neoliberal", which is why it includes conservatives and libertarians like Dom Cunnings and Tyler Cowen.
 
 ### Members

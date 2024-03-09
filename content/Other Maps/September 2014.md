@@ -1,5 +1,5 @@
 # Rationality Cartography (September 2014 Edition)
-![Map of the Rationalist Community. Original url:  https://slatestarcodex.com/blog_images/ramap.html.](map-sept-2014.jpg)
+![Map of the Rationalist Community. Original url:  https://slatestarcodex.com/blog_images/ramap.html.](../images/other_maps/map-sept-2014.jpg)
 Map of the Rationality community made by [Scott Alexander](Scott%20Alexander.md) and [posted](https://slatestarcodex.com/2014/09/05/mapmaker-mapmaker-make-me-a-map/) to Slate Star Codex in 2014.
 
 It's very telling that this map includes several recommendations for neoreactionary blogs.

@@ -1,6 +1,6 @@
 # Sufferia, Cynicia & The Psychonaut Bay
 
-![Map of Rationality](/images/wiki/maps/map_sufferia.png)
+![Map of Rationality](/images/maps/map_sufferia.png)
 
 ### Sufferia
 

@@ -1,6 +1,6 @@
 # Spiritia
 
-![Map of Rationality](/images/wiki/maps/map_spiritia.png)
+![Map of Rationality](/images/maps/map_spiritia.png)
 
 This is the spiritual part of TESCREAL.
 ### Members

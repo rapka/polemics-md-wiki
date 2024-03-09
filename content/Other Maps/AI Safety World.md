@@ -1,5 +1,5 @@
 Rationality Cartography (AI Safety Edition)
-![Map of AI Existential Safety](map-ai-safety.png)
+![Map of AI Existential Safety](../images/other_maps/map-ai-safety.png)
 Image from https://aisafety.info. This map is also catalogued on [AI Panic](https://www.aipanic.news/p/ultimate-guide-to-ai-existential). Descriptions of each entity are taken from the original website.
 
 ### Contents

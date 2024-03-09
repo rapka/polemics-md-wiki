@@ -1,6 +1,6 @@
 # Avant-Gardea / Arrière-Gardea
 
-![Map of Rationality](../../images/wiki/maps/map_avant_arriere.png)
+![Map of Rationality](../../images/maps/map_avant_arriere.png)
 The "Avant-Gardea" group appears to comprise of the major public-facing AI Safety groups within the EA and rationality communities. "Arrière-Gardea" on the 
 ### Members
 
