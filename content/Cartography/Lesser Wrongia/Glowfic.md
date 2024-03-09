@@ -6,5 +6,5 @@ According to [this LessWrong thread](https://www.lesswrong.com/posts/EfCgkyH9rTm
 
 (TODO: Research more)
 
-## About
+
 

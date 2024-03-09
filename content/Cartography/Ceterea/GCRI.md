@@ -2,19 +2,4 @@
 
 [Website]()
 
-## About
-
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+(TODO)

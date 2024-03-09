@@ -1,20 +1,7 @@
-# Organization Name
+# Vitalik Buterin
 
-[Website]()
+[Wikipedia](https://en.wikipedia.org/wiki/Vitalik_Buterin) | [Twitter](https://twitter.com/VitalikButerin) | [Website (defunct)](https://www.vitalik.ca)
 
-## About
+Founder of Ethereum.
 
-### Leadership
-
-## Finances
-
-### Donors
-
-
-
-
-### Grants
-
-
-## Controversy
-
+(TODO)

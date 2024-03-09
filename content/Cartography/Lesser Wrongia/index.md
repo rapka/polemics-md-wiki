@@ -1,6 +1,6 @@
 # Lesser Wrongia
 
-![Map of Rationality](/images/wiki/maps/map_lesser_wrongia.png)
+![Map of Rationality](../../images/wiki/maps/map_lesser_wrongia.png)
 This section includes most things directly related to [LessWrong]().
 ### Members
 - Aceso Under Glass

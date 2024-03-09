@@ -1,4 +1,4 @@
-# The Centre for the Study of Existential Risk (CSER)
+# Centre for the Study of Existential Risk (CSER)
 
 [Website](https://www.cser.ac.uk/) | [Twitter](https://twitter.com/csercambridge)
 

@@ -2,13 +2,11 @@
 tags:
   - AI
 ---
-# Organization Name
+# Yann LeCun
 
 [Wikipedia](https://en.wikipedia.org/wiki/Yann_LeCun) |  [Twitter](https://twitter.com/ylecun/)
 
-It's Yann LeCun.
+It's Yann LeCun, VP and Chief AI Scientist at Meta.
 ## About
-
-### Quotes
 
 (TODO)

@@ -38,28 +38,19 @@ The rules dictate that contestants should envision a world that is "plausible" a
 >- Not rely on any implausible “miracles” to make sense (though improbable events occur in any realistic world!)
 
 AGI existing doesn't satisfy any of these points.
- 
-### Leadership
-
-
 
 ## Finances
-
 ### Donors
 
-
-
+(TODO)
 
 
 ### Grants
 
+(TODO)
 
 
-
-
-
-## Controversy
-
+## Controversies
 
 ### Max Tegmark, Per Shapiro, and Nya Blagadet
 
@@ -67,18 +58,6 @@ Per Shapiro wrote an anti-vax article in November 2022 for the [Brownstone Insti
 
 https://expo.se/2023/01/elon-musk-funded-nonprofit-run-mit-professor-offered-finance-swedish-pro-nazi-group
 
-
-
 ### FoF
 
 Response by Folkets: https://folketsradio.se/intervju-med-forskning-framsteg/
-
-
-
-
-
----
-
-Text can be **bold**, _italic_, or ~~strikethrough~~. [Links](https://gohugo.io) should be blue with no underlines (unless hovered over).
-
-

@@ -12,10 +12,17 @@ It's OpenAI.
 
 #### Board of Directors
 
-(TODO)
 ##### Current
+- (TODO)
+- **Dr. Sue Desmond-Hellmann**
+- **Nicole Seligman**
+- **Fidji Simo**
+
+On March 8, 2024, OpenAI [announced](https://openai.com/blog/openai-announces-new-members-to-board-of-directors)the addition of three new board members as well as the return of CEO Sam Altman to the board.
 
 ##### Former
+
+(TODO)
 
 ### November 2023 CEO Drama
 
