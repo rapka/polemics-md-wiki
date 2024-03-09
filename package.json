@@ -1,18 +1,18 @@
 {
-  "name": "polemics-md",
-  "description": "hi, i'm college hill. this repo contains markdown versions of my writings available on [Medium](https://medium.com/@collegehill).",
+  "name": "polemics-md-wiki",
+  "description": "critical research on TESCREAL",
   "private": true,
   "version": "4.1.4",
   "type": "module",
   "author": "college hill",
   "license": "ISC",
-  "homepage": "https://github.com/rapka/polemics-md#readme",
+  "homepage": "https://github.com/rapka/polemics-md-wiki#readme",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/rapka/polemics-md.git"
+    "url": "git+https://github.com/rapka/polemics-md-wiki.git"
   },
   "bugs": {
-    "url": "https://github.com/rapka/polemics-md/issues"
+    "url": "https://github.com/rapka/polemics-md-wiki/issues"
   },
   "scripts": {
     "build": "npx quartz build",

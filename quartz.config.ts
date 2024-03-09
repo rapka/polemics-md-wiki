@@ -24,14 +24,14 @@ import * as Plugin from "./quartz/plugins"
 
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "polemics.md",
-    pageDescription: "writings and investigations in art, tech, & ai",
+    pageTitle: "wiki.polemics.md",
+    pageDescription: "critical research on TESCREAL",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
-    baseUrl: "polemics.md",
+    baseUrl: "wiki.polemics.md",
     ignorePatterns: ["private", "templates", ".obsidian"],
     defaultDateType: "created",
     theme: {

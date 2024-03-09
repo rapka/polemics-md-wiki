@@ -9,8 +9,9 @@ export const sharedPageComponents: SharedLayout = {
   header: [],
   footer: Component.Footer({
     links: {
-      github: "https://github.com/rapka/polemics-md",
+      github: "https://github.com/rapka/polemics-md-wiki",
       "i make music!": "https://collegehill.bandcamp.com/",
+      twitter: "https://www.twitter.com/thecollegehill"
     },
   }),
 }
@@ -30,7 +31,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Search(),
     Component.Darkmode(),
     Component.DesktopOnly(Component.Explorer({
-      title: "writings", // title of the explorer component
+      title: "wiki", // title of the explorer component
       folderClickBehavior: "collapse", // what happens when you click a folder ("link" to navigate to folder page on click or "collapse" to collapse folder on click)
       folderDefaultState: 'open', // default state of folders ("collapsed" or "open")
       useSavedState: true, // wether to use local storage to save "state" (which folders are opened) of explorer
