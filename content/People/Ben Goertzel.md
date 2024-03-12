@@ -1,6 +1,12 @@
+---
+tags:
+  - AI
+  - X-Risk
+  - Rationality
+---
 # Ben Goertzel
 
-[website]() | [wikipedia]() | [twitter]()
+[website](https://en.wikipedia.org/wiki/Ben_Goertzel) | [wikipedia]() | [twitter]()
 
 https://futurism.com/artificial-superintelligence-agi-2027-goertzel
 
