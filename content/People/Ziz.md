@@ -1,3 +1,9 @@
+# Ziz
+
+Ziz was previous involved in the rationality community and blogged at the now-deleted [sinceriously.fyi](https://sinceriously.fyi). Events in the community led to Ziz becoming disillusioned with [MIRI](../Cartography/Lesser%20Wrongia/MIRI.md), [CFAR](../Cartography/Lesser%20Wrongia/CFAR.md), and [Eliezer Yudkowsky](../People/Eliezer%20Yudkowsky.md) and [Michael Vassar](../People/Michael%20Vassar.md) in particular. This culminated in her and her followers staging a protest at a MIRI retreat that ended with SWAT being called in.
+
+Many of Ziz's posts are on the internet archive.  She doesn't appear to be a reliable narrator, but her allegations against rationalists are often backed up with screenshots.
+
 # The Michael Vassar vs. Ziz rationalist mini-cult conflict
 
 This sequence of events involves longtime friend and associate of [Eliezer Yudkowsky](../People/Eliezer%20Yudkowsky.md) [Michael Vassar](../People/Michael%20Vassar.md) and a feud started against him by an ex-friend who goes by the name of ziz online. 
