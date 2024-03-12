@@ -2,8 +2,7 @@
 
 [Website](https://meaningness.com/)
 
-Book / website written by David Chapman. Chapman has written several other books as well: [Better Without AI](https://betterwithout.ai/)is about "moderate apocalypses" from AI and [In the Cells of the Eggplant](https://metarationality.com/), an "introduction to metarationality".
-
+Meaningness is a book/website written by David Chapman. Chapman has written several other books as well: [Better Without AI](https://betterwithout.ai/)is about "moderate apocalypses" from AI and [In the Cells of the Eggplant](https://metarationality.com/), an "introduction to metarationality".
 
 ### Better Without AI
 
@@ -40,4 +39,4 @@ https://betterwithout.ai/AI-is-harmful
 
 >**_Governments_** can regulate AI, requiring strong evidence of safety before deployment. You can stop funding research that aims to increase AI capabilities without commensurate safety guarantees. You can fund countermeasures such as those recommended in this chapter.
 
-_author's note: "requiring strong evidence" is a very subjective term. Defining it often involves invoking the help of Rationalists._
+_("Requiring strong evidence" is a very subjective term. Defining it often involves invoking the help of Rationalists.)_

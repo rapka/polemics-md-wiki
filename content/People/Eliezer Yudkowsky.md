@@ -198,3 +198,10 @@ https://twitter.com/QiaochuYuan/status/1542793315879227392
 
 
 https://twitter.com/QiaochuYuan/status/1542774219162849281
+
+### The Perilous Waif
+
+In 2017, Yudkowsky made a [Reddit post](https://www.reddit.com/r/rational/comments/5txz0t/hsf_th_perilous_waif_a_charming_new_novellength/)recommending a science fiction book called The Perilous Waif. In response to a [now-deleted comment](https://web.archive.org/web/20170221152340/https://www.reddit.com/r/rational/comments/5txz0t/hsf_th_perilous_waif_a_charming_new_novellength/) about the book's sexual content, Yudkowsky replied that the book is "basically safe for work".
+
+
+The Perilous Waif is a book about a genetically enhanced transhuman 6 year old girl whose genetic enhancements cause her to look 13. There are several parts in the book where 

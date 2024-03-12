@@ -7,7 +7,10 @@ This sequence of events involves longtime friend and associate of [Eliezer Yudko
 
 https://rationality.org/resources/updates/2018/acdc
 
+[Swatting news report](https://www.ksro.com/2019/11/15/5-unwanted-subjects-detained-in-camp-meeker-at-westminster-woods/):
+>According to Sonoma County Sheriff’s officials, subjects arrived on a bus and a box truck wearing black robes and ‘Anonymous’ masks and blocked the entrance to the facility.  SWAT was later dispatched to the scene after reports that one of the members of the group potentially had a firearm, or some sort of weapon. While no weapons were found, 5 subjects have been detained and Sheriff’s Detectives are currently preparing for interviews to figure out the groups involvement and reason for being on the property. No one was injured during the incident and the motives for the group’s arrival are still unclear.
 
+https://www.reddit.com/r/SneerClub/comments/10qypl1/something_weird_is_happening_at_cfar/
 ### Testimony and takes from Scott Alexander
 
 [Scott Alexander](../Cartography/Lesser%20Wrongia/Astral%20Codex%20Ten.md) described the situation in a [thread](https://www.greaterwrong.com/posts/MnFqyPLqbiKL8nSR7/my-experience-at-and-around-miri-and-cfar-inspired-by-zoe/comment/4j2GS4yWu6stGvZWs) on GreaterWrong. His posts were in response to a thread from a rationalist describing her negative experience with [MIRI](../Cartography/Lesser%20Wrongia/MIRI.md) and [CFAR](../Cartography/Lesser%20Wrongia/CFAR.md) which in turn was inspired by a similar [post](https://medium.com/@zoecurzi/my-experience-with-leverage-research-17e96a8e540b) about [Leverage](../Cartography/Sufferia%20Cynicia%20Psychonaut%20Bay/Cynicia/Leverage.md).
@@ -25,7 +28,11 @@ Alexander disagrees with the idea of describing any of these groups as "cults", 
 
 A [website](http://zizians.info/)about Ziz by someone named "Apollo Mojava" has been posted. The earliest [Wayback Machine](https://web.archive.org/web/20200413075452/http://zizians.info/)archive of the site dates back to April 2020. The website, while clearly written from the perspective of someone in the rationalist community, provides a detailed summary of the events. Some of the allegations in it have evidence provided, while other claims are unverified. 
 
-The stated goal of the website is to warn people of Ziz and her followers, which seems like wise advice. However, Michael Vassar and the nature of Ziz's feud with him is never mentioned
+The stated goal of the website is to warn people of Ziz and her followers, which seems like wise advice. However, Michael Vassar and the nature of Ziz's feud with him is never mentioned.
+
+### Death faking?
+
+https://casetext.com/case/danielson-v-cnty-of-sonoma
 
 ### "Everything to save it" allegations
 
