@@ -10,7 +10,6 @@ private/
 .replit
 replit.nix
 .hugo_build.lock
-package-lock.json
 resources/
 languages-old
 wiki-old
