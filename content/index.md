@@ -16,6 +16,3 @@ If you want to get involved or have a correction, please hit me up on [Twitter](
 - [main wiki](./Cartography/index.md)
 - older Rationality maps: [February 2014](Cartography%20(September%202014)/index.md), [September 2017](Cartography%20(September%202017)/index.md),[February 2020](Cartography%20(February%202020)/index.md), [2020 (AI Safety World)](Cartography%20(AI%20Safety%20World)/index.md)
 
-
-### Rationality Cartography
-
