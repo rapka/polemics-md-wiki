@@ -9,7 +9,7 @@ tags:
 
  Andrea Miotti is the executive director of [Control AI](https://controlai.com/about-us), a company that claims there is a "10-25% chance (AI) will cause catastrophe for human civilisation". Control AI appears to have recently pivoted their PR from focusing on AGI x-risk to deepfakes, a much more pressing and visible issue.
 
-Before founding Control AI in Octover 2023, Miotti was the Head of Strategy and Governance for [Conjecture](../Cartography/Lesser%20Wrongia/Conjecture.md), where he still serves as an advisor. 
+Before founding Control AI in October 2023, Miotti was the Head of Strategy and Governance for [Conjecture](../Cartography/Lesser%20Wrongia/Conjecture.md), where he still serves as an advisor. 
 
 ### AGI doom truck publicity stunt
 
