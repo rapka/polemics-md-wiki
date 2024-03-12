@@ -36,6 +36,8 @@ https://medium.com/@zoecurzi/my-experience-with-leverage-research-17e96a8e540b
 
 ## Leverage 2.0
 
+Leverage was rebooted after the incidents in its original incantation.
+
 - Ties to [Peter Thiel]() and [Patrick Collision]()
 
 (TODO)

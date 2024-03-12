@@ -6,7 +6,7 @@ tags:
 ---
 # Ben Goertzel
 
-[website](https://en.wikipedia.org/wiki/Ben_Goertzel) | [wikipedia]() | [twitter]()
+[website](https://goertzel.org/) | [wikipedia](https://en.wikipedia.org/wiki/Ben_Goertzel) | [twitter](https://twitter.com/bengoertzel)
 
 https://futurism.com/artificial-superintelligence-agi-2027-goertzel
 

@@ -27,3 +27,4 @@ https://www.youtube.com/watch?v=JSlniwSmBuI
 
 > As Sam likes to say, we don't really know what's gonna happen next, but we all saw Minority Report. We saw War Games. We know about HAL. We saw the movie Her. It doesn't take a rocket scientist to fill it in.
 
+https://www.npr.org/2024/02/28/1232564250/billionaire-benioff-buys-hawaii-land-salesforce
