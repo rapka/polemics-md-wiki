@@ -1,5 +1,7 @@
 # Authentic Relating & Circling
 
+*Not to be confused with the [Alignment Research Center](../../Organizations/Alignment%20Research%20Center.md)*
+
 "Authentic relating" and "circling" are pseudoscientific(?) psychological techniques that grew out of rationality. 
 
 ### Authentic Relating
