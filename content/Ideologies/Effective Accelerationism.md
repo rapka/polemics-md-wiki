@@ -8,8 +8,7 @@ tags:
 
 [Wikipedia](https://en.wikipedia.org/wiki/Effective_accelerationism)
 
-Effective Altruism's weird subgenre.
-
+Effective Altruism's weird, more danergous subgenre.
 
 ### E/acc Wiki
 
@@ -84,7 +83,7 @@ MindEnjoyer recently tweeted about his notable followers, including:
 - Roko Mijic
 - @bronzeagemantis
 - Diane Yap
-- Razib Khan
+- [Razib Khan](../Cartography/Twiliberia/Razib%20Khan.md)
 - Diana S. Fleichman
 - Curt Doolittle
 - Will Kinney

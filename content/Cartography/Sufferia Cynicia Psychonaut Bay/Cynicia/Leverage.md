@@ -12,7 +12,13 @@ Leverage is a rationalist group that has seen several incarnations. Both version
 
 https://www.scribd.com/document/219774356/Evidence-for-Connection-Theory#fullscreen
 
+#### Bennett
+
+https://splinternews.com/leaked-emails-show-how-white-nationalists-have-infiltra-1837681245
+
 ### diego caleiro
+
+
 
 https://www.tiktok.com/@phdgiego/video/7298497540746513695
 
@@ -49,3 +55,11 @@ https://news.ycombinator.com/item?id=37364828
 >One should imagine a purposefully unstructured environment with 30+ people trying to figure out how the mind worked and which self-improvement modalities worked best, rather than subjects at a clinic being experimented on. Our researchers explored tons of hypotheses and we think that was great.
 
 This is still a clinic experimenting on subjects, just one without any organization, safety protocols, ethics guidelines, etc.
+
+https://forum.effectivealtruism.org/posts/qYbqX3jX4JnTtHA5f/leverage-research-reviewing-the-basic-facts
+
+https://docs.google.com/file/d/0BxADVDGSaIVZNnppbG45NDIyU2M/edit?resourcekey=0-hO82wwC14XqU9zCLiVVJIw
+
+https://archive.is/PtPxX
+
+https://protos.com/arkham-intelligence-reserve-and-the-leverage-research-cult/

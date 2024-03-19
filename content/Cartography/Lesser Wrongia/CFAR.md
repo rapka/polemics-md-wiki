@@ -67,3 +67,6 @@ Timeline of related events from [Reddit user "GorillasAreForEating"](https://www
 - **January 25, 2021** Qiaochu Yuan posts twitter thread about his experience with the rationalist community, labels it as a unhealthy cult [https://twitter.com/QiaochuYuan/status/1353850359601487874](https://twitter.com/QiaochuYuan/status/1353850359601487874)
 - **September 24, 2021** "Common knowledge about Leverage Research 1.0", alleges Leverage is a cult [https://www.lesswrong.com/posts/Kz9zMgWB5C27Pmdkh/common-knowledge-facts-about-leverage-research-1-0-1](https://www.lesswrong.com/posts/Kz9zMgWB5C27Pmdkh/common-knowledge-facts-about-leverage-research-1-0-1)
 - **October 24, 2021** FTX EA fellowship announced [https://forum.effectivealtruism.org/posts/sdjcH7KAxgB328RAb/ftx-ea-fellowships](https://forum.effectivealtruism.org/posts/sdjcH7KAxgB328RAb/ftx-ea-fellowships)
+
+
+https://www.lesswrong.com/posts/XLbDQL2qYi9FDozvL/carrying-the-torch-a-response-to-anna-salamon-by-the-guild

@@ -8,7 +8,7 @@ tags:
 
 [Twitter](https://twitter.com/hifrommichaelv)
 
-Longtime friend and co-worker of [Eliezer Yudkowsky](Eliezer%20Yudkowsky.md).
+Longtime friend and of [Eliezer Yudkowsky](Eliezer%20Yudkowsky.md). He worked at [MIRI](../Cartography/Lesser%20Wrongia/MIRI.md) back when it was called SIAI.
 
 
 ### Metamed Research
@@ -18,6 +18,11 @@ See the [main page](../Organizations/Metamed.md)
 ### Wikiquote weirdness
 
 Vassar doesn't have his own Wikipedia page (it redirects to the page for MetaMed), but he does have his own [Wikiquote page](https://en.wikiquote.org/wiki/Michael_Vassar). 
+
+### Harper's Magazine article
+
+Michael Vassar was heavily feature in a [Harper's Magazine article](https://harpers.org/archive/2015/01/come-with-us-if-you-want-to-live/) about the rationality movement. In it, the author implies that Vassar drove drunk after a party:
+> I wondered whether Vassar was drunk. He was about to drive one of his coworkers, a young woman named Alyssa, home, and he asked whether I would join them. I sat silently in the back of his musty BMW as they talked about potential investors and hires. Vassar almost ran a red light.
 
 ### Abuse Allegations
 
@@ -133,3 +138,17 @@ I also want to include links to some of Kathy's works before I talk about my own
 >I only knew her through my domestic partner, to be exceedingly clear, and her vernacular is VERY DIFFERENT than mine. She, for example, believed that she was being targeted due to her facial structure and hormone levels. I do not support this.
 
 >Her work is extremely useful as an insider's view though -- and as a testament to how far abusers will go to discredit and destroy one of their own, if they try to bring the abuses to light.
+
+---
+In light of the accusations, Anna Salamon of [CFAR](../Cartography/Lesser%20Wrongia/CFAR.md) [expressed regret](https://web.archive.org/web/20191204021029/https://www.greaterwrong.com/posts/u8GMcpEN9Z6aQiCvp/rule-thinkers-in-not-out/comment/JLpyLwR2afav2xsyD) for how not warning people about Vassar.
+
+>I used to make the argument in the OP a lot. I applied it (among other applications) to Michael Vassar, who many people complained to me about (“I can’t believe he made obviously-fallacious argument X; why does anybody listen to him”), and who I encouraged them to continue listening to anyhow. I now regret this.
+
+>a friend complained to me that Michael would cause EAs to choose the wrong career paths by telling them exaggerated things about their own specialness. This matched my own observations of what he was doing. Michael himself told me that he sometimes lied to people (not his words) and told them that the thing that would most help AI risk from them anyhow was for them to continue on their present career (he said this was useful because that way they wouldn’t rationalize that AI risk must be false). Despite these and similar instances, I continued to recommend people talk to him because I had “ruled him in” as a source of some good novel ideas, and I did this without warning people about the rest of it. I think this was a mistake. (I also think that my recommending Michael led to considerable damage over time, but trying to establish that claim would require more discussion than seems to fit here.)
+
+[Scott Alexander](../Cartography/Lesser%20Wrongia/Astral%20Codex%20Ten.md) echoed similar feelings of regret is his reply to Salamon.
+
+>I should have thought more about meeting people in person, in which case I would have echoed the warnings you gave about Michael. I think he is a good example of someone who both has some brilliant ideas and can lead people astray, but I agree with you that people’s filters are less functional (and charisma is more powerful) in the real-life medium.
+
+Another commenter chimed in:
+>I decided to ignore Michael after our first in-person conversation, where he said I shouldn’t praise the Swiss healthcare system which I have lots of experience with, because MetaMed is the only working healthcare system in the world (and a roomful of rationalists nodded along to that, suggesting that I bet money against him or something).

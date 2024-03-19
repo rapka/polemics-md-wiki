@@ -2,6 +2,8 @@
 tags:
   - EffectiveAltruism
   - Blogs
+aliases:
+  - Steve Hsu
 ---
 # Steve Hsu (Information Processing)
 

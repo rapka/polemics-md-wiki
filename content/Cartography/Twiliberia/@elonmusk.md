@@ -5,6 +5,9 @@ tags:
   - Rationality
   - Billionaires
   - Nazis
+aliases:
+  - Elon Musk
+  - Elon
 ---
 # Elon Musk (@elonmusk)
 
