@@ -25,3 +25,4 @@ In October 2023, Conjecture proposed an AGI regulation mechanism called [Multina
 
 >This exclusivity would make any advanced AI development outside of MAGIC illegal, enforced through a global moratorium on training runs using more than a set amount of computing power.Signatory countries to MAGIC would mandate cloud-computing providers, with whom almost all AI companies partner, to prevent any training runs above a specific size within their national jurisdictions. Signatory countries would be responsible for ensuring mutual verification of the enforcement of this measure. Domestically, this would not require the creation of any additional monitoring mechanisms, as cloud providers already track the size of training runs to ensure compliance with their terms of service and for routine business operations.
 
+https://www.alignmentforum.org/posts/rtEtTybuCcDWLk7N9/?commentId=pZmerzhJSADkwNJZx#pZmerzhJSADkwNJZx

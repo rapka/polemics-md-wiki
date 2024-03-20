@@ -60,6 +60,10 @@ https://forum.effectivealtruism.org/posts/qYbqX3jX4JnTtHA5f/leverage-research-re
 
 https://docs.google.com/file/d/0BxADVDGSaIVZNnppbG45NDIyU2M/edit?resourcekey=0-hO82wwC14XqU9zCLiVVJIw
 
+https://docs.google.com/document/d/1jaEssGjlGs4ef0w6X-O4NwtJHCuanbHbKD7sALFwr_8/edit#heading=h.9cjyqz5175w0
+
+https://www.lesswrong.com/posts/3GgoJ2nCj8PiD4FSi/updates-from-leverage-research-history-and-recent-progress
+
 https://archive.is/PtPxX
 
 https://protos.com/arkham-intelligence-reserve-and-the-leverage-research-cult/
