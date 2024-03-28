@@ -1,10 +1,10 @@
 ---
 tags:
   - AnimalRights
-  - EffectiveAlturism
   - GiveWell
   - X-Risk
   - Longtermism
+  - EffectiveAltruism
 ---
 # Effektiv-Spenden
 

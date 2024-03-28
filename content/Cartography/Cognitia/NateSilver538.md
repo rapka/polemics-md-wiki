@@ -1,6 +1,9 @@
+---
+aliases:
+---
 # Nate Sliver (@Natesilver538)
 
-[Website]() | [Wikipedia](https://en.wikipedia.org/wiki/Nate_Silver) |  [Twitter]()
+[Website]() | [Wikipedia](https://en.wikipedia.org/wiki/Nate_Silver) |  [Twitter](https://twitter.com/Natesilver538)
 
 ## About
 

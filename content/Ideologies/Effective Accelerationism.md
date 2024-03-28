@@ -3,6 +3,8 @@ tags:
   - EffectiveAltruism
   - EffectiveAccelerationism
   - VentureCapital
+aliases:
+  - e/acc
 ---
 # Effective Accelerationism (e/acc)
 

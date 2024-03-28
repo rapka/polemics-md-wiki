@@ -1,4 +1,8 @@
-
+---
+tags:
+  - Crypto
+  - EffectiveAltruism
+---
 # FTX
 
 [Website]()

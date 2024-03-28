@@ -3,7 +3,7 @@ tags:
   - AI
   - Rationality
   - EffectiveAccelerationism
-  - EffectiveAlturism
+  - EffectiveAltruism
 ---
 
 # Garry Tan
