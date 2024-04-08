@@ -22,3 +22,5 @@ Andreessen went on Joe Rogan in July 2023 and [falsely claimed](https://apnews.c
 (TODO: fill this out)
 
 
+
+https://pmarca.substack.com/p/why-ai-will-save-the-world

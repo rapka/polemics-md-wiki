@@ -1,7 +1,7 @@
 ---
 tags:
   - AnimalRights
-  - EffectiveAlturism
+  - EffectiveAltruism
 ---
 # Peter Singer
 

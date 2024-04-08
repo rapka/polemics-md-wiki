@@ -1,5 +1,10 @@
+---
+tags:
+  - EffectiveAltruism
+---
+# GiveDirectly
 
+[website](https://www.givedirectly.org)
 
+TODO
 
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)

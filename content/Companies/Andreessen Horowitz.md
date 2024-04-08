@@ -3,6 +3,8 @@ tags:
   - VentureCapital
   - Crypto
   - AI
+aliases:
+  - a16z
 ---
 # Andreessen Horowitz (a16z)
 

@@ -1,12 +1,14 @@
 ---
 tags:
   - AnimalRights
-  - EffectiveAlturism
   - GiveWell
   - X-Risk
   - Longtermism
+  - EffectiveAltruism
 ---
 # Effektiv-Spenden
+
+[website](https://effektiv-spenden.org/)
 
 German effective altruist donation organization.
 

@@ -5,3 +5,9 @@
 Founder of Ethereum.
 
 (TODO)
+
+### Zuzalu
+
+(TODO)
+
+https://www.coindesk.com/tech/2024/01/22/zuzalu-vitalik-buterin-led-retreat-in-montenegro-inspires-grants-for-zu-villages/

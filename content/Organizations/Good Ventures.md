@@ -1,7 +1,7 @@
 ---
 tags:
-  - EffectiveAlturism
   - Longtermism
+  - EffectiveAltruism
 ---
 # Good Ventures
 

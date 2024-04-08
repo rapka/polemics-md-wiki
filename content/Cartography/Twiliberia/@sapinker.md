@@ -1,3 +1,10 @@
+---
+tags:
+  - Rationality
+  - EffectiveAltruism
+aliases:
+  - Steven Pinker
+---
 # Steven Pinker
 
 (Not to be confused with Peter Singer)

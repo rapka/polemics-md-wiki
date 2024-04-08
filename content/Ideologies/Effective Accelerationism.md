@@ -3,6 +3,8 @@ tags:
   - EffectiveAltruism
   - EffectiveAccelerationism
   - VentureCapital
+aliases:
+  - e/acc
 ---
 # Effective Accelerationism (e/acc)
 
@@ -18,6 +20,10 @@ Note: the wiki doesn't load as of 1/17
 
 (TODO: document this madness)
 (TODO: check Internet archive)
+
+[e/acc wiki visionquest](https://picopaco.substack.com/p/eacc-wiki-visionquest)
+
+
 
 ### Notable people
 

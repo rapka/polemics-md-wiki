@@ -12,6 +12,10 @@ Leverage is a rationalist group that has seen several incarnations. Both version
 
 https://www.scribd.com/document/219774356/Evidence-for-Connection-Theory#fullscreen
 
+https://forum.effectivealtruism.org/posts/qYbqX3jX4JnTtHA5f/leverage-research-reviewing-the-basic-facts#uibLns2u9cQfMcwqG
+
+https://cathleensdiscoveries.com/LivingLifeWell/in-defense-of-attempting-hard-things#a91efc209146450ab2fc9a46f7d4d353
+
 #### Bennett
 
 https://splinternews.com/leaked-emails-show-how-white-nationalists-have-infiltra-1837681245

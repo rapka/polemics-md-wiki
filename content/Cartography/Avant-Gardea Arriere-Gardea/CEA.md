@@ -3,6 +3,9 @@ tags:
   - EffectiveAltruism
   - Longtermism
   - X-Risk
+aliases:
+  - EA Funds
+  - Effective Ventures
 ---
 # Center For Effective Altruism (CEA)
 
