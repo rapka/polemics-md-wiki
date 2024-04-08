@@ -11,7 +11,11 @@ It's Yud.
 (TODO: fill this out)
 
 
+
 ### Views
+
+##### Time Magazine Article
+
 
 ##### Gender
 

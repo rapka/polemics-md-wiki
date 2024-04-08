@@ -10,6 +10,8 @@ tags:
 
 The Bulletin of the Atomic Scientists is a long running non-profit and academic journal focused on existential risks. As the name implies,, its original focus was on nuclear weapons, but it has since expanded into raising awareness in other areas.
 
+Bizarrely, the Bulletin published a piece called [Why a nuclear weapons ban would threaten, not save, humanity](https://thebulletin.org/2024/01/why-a-nuclear-weapons-ban-would-threaten-not-save-humanity/) in February 2024.
+
 ### AI X-Risk 
 
 The Bulletin has begun covering AI more in recent years, including existential risk (filed under the "disruptive technologies" header). A [December 2023 article](https://thebulletin.org/2023/12/policy-makers-should-plan-for-superintelligent-ai-even-if-it-never-happens/)argued that politicians should prepare for an apocalyptic AGI scenario, no matter how unlikely it is. Author Zachary Kallenborn asserted the following:

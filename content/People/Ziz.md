@@ -57,3 +57,11 @@ Many of the claims in this Medium post link back to Ziz's blog.
 >at events like the Workshop on AI Safety Strategy (WAISS) run by CFAR, people would suggest ideas like taking out life insurance that would pay out to MIRI, and then [committing suicide](https://sinceriously.fyi/intersex-brains-and-conceptual-warfare/#comment-1900) to further the cause.
 
 >Working at MIRI conferred a kind of special respect as someone who Yudkowsky and other prominent members thought were worthy to save the world. To young teenagers enamored with the Less Wrong community and its stated ideals, it’s easy to see how kids could’ve been coerced into having sex with adults working at MIRI.
+
+
+### "Community alert about Ziz"
+
+https://www.lesswrong.com/posts/gHovN7DT8Bnou3wh3/who-should-write-the-definitive-post-on-ziz
+
+https://www.lesswrong.com/posts/T5RzkFcNpRdckGauu/link-a-community-alert-about-ziz
+https://medium.com/@sefashapiro/a-community-warning-about-ziz-76c100180509

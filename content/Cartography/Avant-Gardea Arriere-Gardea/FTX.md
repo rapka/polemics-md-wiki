@@ -11,6 +11,8 @@ FTX (short for "Futures Exchange") was a crypto exchange founded in 2019 by Sam 
 
 (TODO: add details)
 
+https://forum.effectivealtruism.org/posts/HPdWWetJbv4z8eJEe/open-phil-is-seeking-applications-from-grantees-impacted-by
+
 ### Grants
 
 ##### FTX Future Fund

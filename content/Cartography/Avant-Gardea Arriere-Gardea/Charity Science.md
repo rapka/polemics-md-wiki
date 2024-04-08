@@ -1,3 +1,8 @@
+---
+aliases:
+  - Charity Entrepreneurship
+---
+
 # Charity Science
 
 [Website (broken)](https://www.charityscience.com)
