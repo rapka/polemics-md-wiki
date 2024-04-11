@@ -7,7 +7,7 @@ aliases:
 ---
 # Astral Codex Ten (ACT)
 
-[Substack](https://www.astralcodexten.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Slate_Star_Codex) |  [Twitter]() | [RationalWiki]()
+[Substack](https://www.astralcodexten.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Slate_Star_Codex) |  [Twitter]() | [RationalWiki](https://rationalwiki.org/wiki/Scott_Alexander)
 
 Formerly known as [Slate Star Codex (SSC)](https://slatestarcodex.com/). Blog of Scott Alexander.
 
