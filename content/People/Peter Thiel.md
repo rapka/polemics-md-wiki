@@ -22,3 +22,8 @@ See the page for the [Thiel Foundation](../Cartography/Twiliberia/Thiel%20Founda
 ### Split with AI X-risk
 
 (insert recent talk here)
+
+
+### Political Donations
+
+https://www.opensecrets.org/industries//contrib?cycle=2022&ind=f2500

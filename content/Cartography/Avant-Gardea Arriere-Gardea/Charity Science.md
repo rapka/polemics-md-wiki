@@ -2,14 +2,13 @@
 aliases:
   - Charity Entrepreneurship
 ---
-
 # Charity Science
 
 [Website (broken)](https://www.charityscience.com)
 
-Per this [EA forum post](Charity Science Outreach, Charity Science Health, and [Charity Entrepreneurship](https://forum.effectivealtruism.org/topics/charity-entrepreneurship), the Charity Science Foundation is the umbrella organization for Charity Science Outreach, Charity Science Health, and [Charity Entrepreneurship](https://forum.effectivealtruism.org/topics/charity-entrepreneurship).  
+Per this [EA forum post](https://forum.effectivealtruism.org/topics/charity-entrepreneurship), the Charity Science Foundation is the umbrella organization for Charity Science Outreach, Charity Science Health, and [Charity Entrepreneurship](https://forum.effectivealtruism.org/topics/charity-entrepreneurship).  Charity Entrepreneurship in turn operates _Impactful Grantmaking_.
 
-Co-founder of Charity Science Health, and Charity Entrepreneurship Marcus Davis also co-founded rethink priorities.
+Co-founder of Charity Science Health and Charity Entrepreneurship Marcus Davis also co-founded [Rethink Priorities](../../Organizations/Rethink%20Priorities.md).
 
 ### Charity Science Outreach
 
@@ -29,15 +28,8 @@ https://www.charityentrepreneurship.com/charity-science-health
 
 ### Charity Entrepeneurship
 
-https://www.charityentrepreneurship.com/
+[Website](https://www.charityentrepreneurship.com/)
 
-# Charity Entrepeneurship
-
-[Website]()
-
-## About
-
-https://www.charityentrepreneurship.com/
 https://www.impactfulgrantmaking.com/funding-circles
 
 ## Finances
@@ -52,4 +44,6 @@ https://www.impactfulgrantmaking.com/funding-circles
 - Schmidt Futures
 - D-Prize (Distribution Equals Development)
 
-### Grants
+### Impactful Grantmaking
+
+[website](https://www.impactfulgrantmaking.com/)

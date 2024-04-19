@@ -5,7 +5,7 @@ The impetus for this project was a desire to understand an anonymously-made [map
 
 ![Map of the Rationalist space](./Cartography/map_full.jpg)
 
-Some of the information here has previously been compiled on other platforms such as [RationalWiki](https://rationalwiki.org)and [InfluenceWatch](https://www.influencewatch.org). However, those websites don't have a focus on sci-fi and effective altruism specifically; this project aims to collect this knowledge as it pertains to TESCREAL in an organized fashion. 
+Some of the information here has previously been compiled on other platforms such as [RationalWiki](https://rationalwiki.org) and [InfluenceWatch](https://www.influencewatch.org). However, those websites don't have a focus on sci-fi and effective altruism specifically; this project aims to collect this knowledge as it pertains to TESCREAL in an organized fashion. 
 
 Vipul Naik's [financial information database](https://donations.vipulnaik.com) and AI Panic's [Guide to AI Existential Risk](https://www.aipanic.news/p/ultimate-guide-to-ai-existential)are also good sources of information.
 
