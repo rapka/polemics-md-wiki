@@ -1,0 +1,6 @@
+---
+aliases:
+  - Substack
+tags:
+  - EffectiveAccelerationism
+---
