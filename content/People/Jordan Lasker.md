@@ -9,9 +9,13 @@ Jordan Lasker is the likeliest real identity of "Cremieux Recueil," a Twitter an
 
 # The Crémieux Experience
 
+Cremieux has the eyes of a number of very powerful people:
+
 ![](Pasted%20image%2020240417175811.png)
 ![](Pasted%20image%2020240417175846.png)
 ![](Pasted%20image%2020240417175931.png)
+
+That's not all-- he's also had regular conversations with [Marc Andreessen](Marc%20Andreessen.md) [on](./images/andreessen-cremieux-2.png) [various](./images/andreessen-cremieux-1.png) [occasions](./images/andreessen-cremieux-3.png).
 
 Certain regular themes can be espied from Cremieux's Substack articles:
 
