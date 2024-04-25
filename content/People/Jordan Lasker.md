@@ -1,6 +1,13 @@
+---
+aliases:
+  - Crémieux Recueil
+  - Cremieux
+  - TrannyPornO
+---
+
 Jordan Lasker is the likeliest real identity of "Cremieux Recueil," a Twitter and Substack personality followed by many major players in the Silicon Valley space primarily focused on race science.
 
-# The Cremieux Experience
+# The Crémieux Experience
 
 ![](Pasted%20image%2020240417175811.png)
 ![](Pasted%20image%2020240417175846.png)
