@@ -2,7 +2,6 @@
 aliases:
   - Robin Hanson
 ---
-
 # Overcoming Bias
 
 [twitter](https://twitter.com/robinhanson/status/990672706621370368) | [website]() | [substack](https://www.overcomingbias.com/)| [wikipedia](https://en.wikipedia.org/wiki/Robin_Hanson)
