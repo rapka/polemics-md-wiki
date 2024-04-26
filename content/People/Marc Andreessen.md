@@ -6,6 +6,9 @@ tags:
   - VentureCapital
   - Crypto
   - Billionaires
+aliases:
+  - pmarca
+  - "@pmarca"
 ---
 # Marc Andreessen
 

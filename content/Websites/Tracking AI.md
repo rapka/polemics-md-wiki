@@ -2,6 +2,7 @@
 aliases:
   - Maximum Truth
   - MaximumTruth
+  - Maxim Lot
 tags:
   - AI
   - X-Risk
@@ -9,9 +10,9 @@ tags:
   - Substack
 ---
 
-# Maxim Lott
+# Tracking AI
 
-Maxim Lott runs a Substack called Maximum Truth and an political AI bias website called [Tracking AI](https://trackingai.org/).
+A political AI bias website called [Tracking AI](https://trackingai.org/), run by Maxim Lott who also runs a Substack called Maximum Truth.
 
 
 # Maximum Truth
