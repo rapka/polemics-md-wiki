@@ -9,6 +9,8 @@ aliases:
 
 (Not to be confused with Peter Singer)
 
+https://twitter.com/krustelkram/status/1789728505216807329
+
 ## About
 ### Controversies
 

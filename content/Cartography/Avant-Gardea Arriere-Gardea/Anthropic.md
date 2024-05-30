@@ -7,6 +7,8 @@ Primary competitor to [DeepMind]() and [OpenAI](). It was founded by ex-OpenAI e
 NYT article about hype
 https://www.nytimes.com/2023/07/11/technology/anthropic-ai-claude-chatbot.html
 
+https://time.com/6980000/anthropic/
+
 (TODO: flesh this out)
 
 ### Claude

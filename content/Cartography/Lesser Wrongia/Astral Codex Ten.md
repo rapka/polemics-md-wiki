@@ -4,6 +4,8 @@ tags:
 aliases:
   - Slate Star Codex
   - Scott Alexander
+  - ACT
+  - SSC
 ---
 # Astral Codex Ten (ACT)
 
@@ -20,3 +22,7 @@ Very influential blogger. He currently writes the Astral Codex Ten Substack, a r
 (TODO)
 
 https://slatestarcodex.com/re-swatting
+
+# Topher Brennan emails
+
+https://twitter.com/TopherTBrennan/status/1362108632070905857

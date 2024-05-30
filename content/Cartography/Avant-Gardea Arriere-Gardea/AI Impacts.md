@@ -1,3 +1,11 @@
+---
+tags:
+  - AI
+  - X-Risk
+  - Rationality
+aliases:
+  - Katja Grace
+---
 # AI Impacts
 
 [Website](https://aiimpacts.org/#gsc.tab=0)| [Twitter](https://twitter.com/AIImpacts)

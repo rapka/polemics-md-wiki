@@ -19,6 +19,10 @@ Aella often makes questionable tweets and posts about sex-related subjects witho
 Aella is a huge fan of LSD.  In her [recollections](https://knowingless.com/2019/08/17/you-will-forget/) of her past trips, she describes often giving newcomers to the drug large doses of it:
 >I became an evangelist, feeding irresponsibly high doses to newcomers and feeling confused when they didn’t all have the same reaction I did.
 
+
+https://aella.substack.com/p/my-attempts-to-sensemake-ai-risk
+>Maybe I just need to do LSD and meditate on everyone I love dying.
+
 ### "Quis cancellat ipsos cancellores?"
 
 https://web.archive.org/web/20211211001135/https://www.wholezero.org/stack/quis-cancellat-ipsos-cancellores
