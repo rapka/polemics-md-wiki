@@ -27,4 +27,37 @@ https://www.youtube.com/watch?v=JSlniwSmBuI
 
 > As Sam likes to say, we don't really know what's gonna happen next, but we all saw Minority Report. We saw War Games. We know about HAL. We saw the movie Her. It doesn't take a rocket scientist to fill it in.
 
+>every reporter also needs forgiveness
+>
+(15:48)
+
 https://www.npr.org/2024/02/28/1232564250/billionaire-benioff-buys-hawaii-land-salesforce
+
+
+https://www.salesforce.com/news/press-releases/2023/03/07/einstein-generative-ai/
+
+https://time.com/6994739/ai-behavior-change-health-care/
+
+
+july 8
+https://time.com/6996090/ai-china-american-voters-poll/
+
+>The poll was carried out in late June by the AI Policy Institute (AIPI), a U.S. nonprofit that advocates for “a more cautious path” in AI development.
+
+>The polls also showed that 83% of Americans believe AI could accidentally cause a catastrophic event, and that 82% prefer slowing down AI development to account for that risk, compared to just 8% who would like to see it accelerated.
+
+https://www.salesforce.com/news/stories/generative-ai-investing/
+
+https://techcrunch.com/2023/06/12/salesforce-pledges-to-invest-500m-in-generative-ai-startups/
+
+>For example, go-to-market function automation platform Tribble recently partnered with Private AI, a privacy-focused AI company, to use Private GPT, a product that redacts personally identifiable information before sending it through OpenAI’s ChatGPT chatbot.
+
+
+https://www.salesforce.com/news/press-releases/2023/03/07/einstein-generative-ai/
+
+>“We’re excited to apply the power of OpenAI’s technology to CRM,” **said Sam Altman, CEO of OpenAI.** “This will allow more people to benefit from this technology, and it allows us to learn more about real-world usage, which is critical to the responsible development and deployment of AI — a belief that Salesforce shares with us.”
+
+>[Einstein GPT…is another way we are opening the door to the AI future for all our customers, and we’ll be integrating with OpenAI at launch.](https://twitter.com/intent/tweet?text=Einstein%20GPT%E2%80%A6is%20another%20way%20we%20are%20opening%20the%20door%20to%20the%20AI%20future%20for%20all%20our%20customers,%20and%20we%E2%80%99ll%20be%20integrating%20with%20OpenAI%20at%20launch.&url=https://www.salesforce.com/news/press-releases/2023/03/07/einstein-generative-ai/&via=SalesforceNews)
+
+
+https://www.businessinsider.com/marc-benioff-sam-altman-neighbors-ai-salesforce-openai-slack-chatgpt-2023-6?op=1

@@ -14,9 +14,10 @@ Jaan Tallinn is one of the biggest wealthy supporters of the rationalist movemen
 
 ## involvement in  
 - Co-founder of both [Centre for the Study of Existential Risk](../Cartography/Emeritia/CSER.md) and the [Future of Life Institute](../Cartography/Emeritia/FLI.md)
-- Co-founded and funded the failed [Metamed Research](../Organizations/Metamed.md).
+- Co-founded and funded the failed [Metamed Research](../Organizations/Metamed.md). Also involved in [Bayesmed]
 - Provides major funding to [SFF](../Cartography/Lesser%20Wrongia/SFF.md)
 - Was on the board of [DeepMind](../Cartography/Technomundistan-Technophilistan/DeepMind.md) until its sale to Google.
+- 
 
 
 #### Interviews

@@ -13,6 +13,9 @@ A failed rationalist startup founded by Michael Vassar (previously of the [Singu
 Post-mortem Google Doc:
 https://docs.google.com/document/d/1HzZd3jsG9YMU4DqHc62mMqKWtRer_KqFpiaeN-Q1rlI/edit
 
+SSC post about its launch:
+https://web.archive.org/web/20130307113106/http://slatestarcodex.com/2013/02/27/metamed-launch-day/
+
 ## Controversy
 
 https://www.bnnbloomberg.ca/silicon-valley-s-singularity-university-is-cutting-staff-ceo-exits-1.1346937

@@ -7,7 +7,7 @@ tags:
   - EffectiveAltruism
   - Longtermism
 ---
-# Diego Caleiro
+# Diego "Giego" Caleiro
 
 https://diegocaleiro.com/2023/02/26/agi-when-did-you-cry-about-the-end/
 
