@@ -146,6 +146,3 @@ That fourth point may seem oddly specific, but it is here to demonstrate that Ri
 random links:
  Stanford talk: https://www.youtube.com/watch?v=25g7VAfbY0k
 Jay Bhattacharya and Martin Kulldorff at the end
-
-followers:
-https://twitter.com/DavidSHolz/likes

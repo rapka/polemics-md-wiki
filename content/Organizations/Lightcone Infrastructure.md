@@ -21,7 +21,7 @@ see the [main page](../Cartography/Lesser%20Wrongia/SFF)
 
 Oliver Habryka
 Ruby Bloom
-Jacob Lagerros
+Jacob Lagerros (formerly jacobjacob, currently "terraform" on EA forum and "Bird Concept" on LessWrong)
 Ben Pace
 Raymond Arnold
 Rafe Kennedy

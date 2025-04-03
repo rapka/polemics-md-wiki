@@ -32,3 +32,7 @@ Aella has denied several key facts about this allegation, though she concedes th
 The accusation was written by Joshin, a member of [OAK](../../Spiritia/MAPLE.md) whose parents also live at MAPLE. The person that accused of MAPLE of covering up their sexual assault was not happy with his behavior.
 
 >The greatest barrier to my healing has been believing that anyone who is a part of MAPLE or the broader organization will ever care enough to actually address the harm caused or to take any steps towards changing things for the better. I've since learned they do not give any fucks. My healing can't be dependent on any of them. Not Soryu. Not Alex. Not Pan. **Not Joshin or any other person involved.** They don't care if an executive director rapes an apprentice and they as an organization have mishandled it causing compounding trauma. In fact all Alex had to do was write a big a check and they took him back with open loving harms and he's obviously not being held accountable.They won't even have a conversation with me. Not one of them cares enough about their own integrity to even talk about it and frankly that seems a little off for an organizations leaders whose mission is supposedly to create wise, compassionate and awakened leadership.
+
+### Gaslighting BDSM Party 
+
+https://sashachapin.substack.com/p/notes-on-a-torture-party

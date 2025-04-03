@@ -18,6 +18,10 @@ He is...
 
 https://www.fastcompany.com/90375335/jeffrey-epsteins-money-was-accepted-by-scientists-even-after-arrest
 
+### Sophia The Robot
+
+
+
 ### Sophiaverse
 
 [Sophia in Decentraland YouTube Video](https://www.youtube.com/watch?v=-K3JEwNeqNI)

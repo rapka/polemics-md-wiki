@@ -50,7 +50,7 @@ the e/acc wiki has a [list](https://www.eaccwiki.com/wiki/Notable_Accelerationis
 - [APIGuy](https://www.eaccwiki.com/wiki/APIGuy "APIGuy")
 - [Mike McClintock](https://www.eaccwiki.com/wiki/Mike_McClintock "Mike McClintock")
 - [Voss](https://www.eaccwiki.com/wiki/Voss "Voss")
-- [Psichey](https://www.eaccwiki.com/wiki/Psichey "Psichey")
+- [Psichey](https://www.eaccwiki.com/wiki/Psichey "Psichey") ([wiki liki](../People))
 - [Crash](https://www.eaccwiki.com/wiki/Crash "Crash")
 - [The Rosenbomb](https://www.eaccwiki.com/wiki/The_Rosenbomb "The Rosenbomb")
 - [Netrunner](https://www.eaccwiki.com/wiki/Netrunner "Netrunner")

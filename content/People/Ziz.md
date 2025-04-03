@@ -1,5 +1,7 @@
 # Ziz
 
+LessWrong account: https://www.lesswrong.com/users/ziz
+
 Ziz was previous involved in the rationality community and blogged at the now-deleted [sinceriously.fyi](https://sinceriously.fyi). Events in the community led to Ziz becoming disillusioned with [MIRI](../Cartography/Lesser%20Wrongia/MIRI.md), [CFAR](../Cartography/Lesser%20Wrongia/CFAR.md), and [Eliezer Yudkowsky](../People/Eliezer%20Yudkowsky.md) and [Michael Vassar](../People/Michael%20Vassar.md) in particular. This culminated in her and her followers staging a protest at a MIRI retreat that ended with SWAT being called in.
 
 Many of Ziz's posts are on the internet archive.  She doesn't appear to be a reliable narrator, but her allegations against rationalists are often backed up with screenshots.
@@ -65,3 +67,11 @@ https://www.lesswrong.com/posts/gHovN7DT8Bnou3wh3/who-should-write-the-definitiv
 
 https://www.lesswrong.com/posts/T5RzkFcNpRdckGauu/link-a-community-alert-about-ziz
 https://medium.com/@sefashapiro/a-community-warning-about-ziz-76c100180509
+
+##### LW AMA ziz replied to
+
+https://www.lesswrong.com/posts/96N8BT9tJvybLbn5z/we-run-the-center-for-applied-rationality-ama
+
+>Moderator note: I've deleted six comments on this thread by users Ziz and Gwen_, who appear to be the primary people responsible for barricading off last month's CFAR alumni reunion, and who were [subsequently arrested](https://www.sfchronicle.com/bayarea/article/Mystery-in-Sonoma-County-after-kidnap-arrests-of-14844155.php) on multiple charges, including [false imprisonment](https://en.wikipedia.org/wiki/False_imprisonment). 
+
+>I explicitly don't want to judge the content of their allegations against CFAR, but both Ziz and Gwen_ have a sufficient track record of being aggressive offline (and Ziz also online) that I don't really want them around on LessWrong or to provide a platform to them.

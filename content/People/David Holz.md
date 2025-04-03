@@ -3,3 +3,7 @@
 CEO of Midjourney 
 
 (TODO)
+
+
+followers:
+https://twitter.com/DavidSHolz/likes
