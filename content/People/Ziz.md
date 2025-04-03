@@ -75,3 +75,23 @@ https://www.lesswrong.com/posts/96N8BT9tJvybLbn5z/we-run-the-center-for-applied-
 >Moderator note: I've deleted six comments on this thread by users Ziz and Gwen_, who appear to be the primary people responsible for barricading off last month's CFAR alumni reunion, and who were [subsequently arrested](https://www.sfchronicle.com/bayarea/article/Mystery-in-Sonoma-County-after-kidnap-arrests-of-14844155.php) on multiple charges, including [false imprisonment](https://en.wikipedia.org/wiki/False_imprisonment). 
 
 >I explicitly don't want to judge the content of their allegations against CFAR, but both Ziz and Gwen_ have a sufficient track record of being aggressive offline (and Ziz also online) that I don't really want them around on LessWrong or to provide a platform to them.
+
+
+---
+
+Sinceriously
+
+
+Ziz has shared screenshots from ???
+![](images/Ziz/sincereriously-archive/Alyssa-Anna-Anti-Trans-Apology.png)
+
+![](images/Ziz/sincereriously-archive/Alyssa-Blackmail-1.png)
+
+![](images/Ziz/sincereriously-archive/Alyssa-Blackmail-2.png)
+
+they agree Vassar is transphobic:
+![](images/Ziz/sincereriously-archive/Alyssa-Michael-Trans-Consistent.png)
+
+![](images/Ziz/sincereriously-archive/Alyssa-Michael-Transphobia.png)
+
+
