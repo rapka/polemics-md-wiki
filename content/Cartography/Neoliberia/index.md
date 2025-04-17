@@ -6,7 +6,7 @@ The Neoliberal section of the TESCREAL map. This is the classical definition of 
 ### Members
 - Asymmectricinfo
 - Bet On It
-- Dominic Cummins
+- Dominic Cummings
 - Marginal Revolution
 - Progress Studies
 - r/neoliberal
