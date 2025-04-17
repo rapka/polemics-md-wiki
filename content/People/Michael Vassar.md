@@ -50,6 +50,23 @@ I also noticed this line in the alert: "Some members of the group apparently spe
 
 I have no idea if this is true or whether it's a coincidence, but Orleans County appears to be where MAPLE mentioned in one of those tweets is. I talk about MAPLE more later, but it appears to be a traditional cult.
 
+More information related to Vassar:
+He founded MetaMed Research in 2013 with Jaan Tallin (Skype) and a rationalist ex-Magic: The Gathering player named Zvi Mowshowitz to provide "personalized medicine" for a large fee. It was funded by Peter Thiel and VentureBeat wrote a short piece on it:
+https://venturebeat.com/business/peter-thiel-backed-metamed-brings-personalized-health-care-to-the-1-percent/
+Yudkowsky wholeheartedly endorsed it, and said "Instead of just having “evidence-based medicine” in journals that doctors don't actually read, MetaMed will provide you with actual evidence-based healthcare." 
+
+Sarah Constantin, another prominent rationalist was VP of research: https://marginalrevolution.com/marginalrevolution/2013/03/sarah-constantin-replies-on-metamed.html
+
+https://www.lesswrong.com/posts/f9s7pHub6hbsX7YKT/metamed-evidence-based-healthcare
+
+MetaMed went bankrupt fairly quickly and appears to have not have been run very competently. Constantin posted a link to a post-mortem here:
+https://www.lesswrong.com/posts/wmEcNP3KFEGPZaFJk/the-craft-and-the-community-a-post-mortem-and-resurrection
+https://docs.google.com/document/d/1HzZd3jsG9YMU4DqHc62mMqKWtRer_KqFpiaeN-Q1rlI/edit?usp=sharing
+
+She says that "you need a working payroll system", "you need to keep track of your finances" and "You need to keep track of everything you sell and everyone who works for you" which implies that none of those things were happening at some point! 	
+
+Here's an archive of their website: https://web.archive.org/web/20150322033302/https://www.metamed.com/
+
 I noticed that Vassar has an oddly flattering Wikiquote page. In particular, one of the quotes is from what appears to be a poem about rationality posted to Tumblr in which the reader "listens" and "wants to obey" Vassar's words: https://en.wikiquote.org/wiki/Michael_Vassar
 
 I found the quote so weird that I looked at the edit history for his page. It reveals a few things:
@@ -58,10 +75,9 @@ I found the quote so weird that I looked at the edit history for his page. It re
 
 https://issarice.com/about
 
+Harper's Magazine did a piece on the community in 2015 that appear to imply Vassar drove drunk??? It's a weird read. https://harpers.org/archive/2015/01/come-with-us-if-you-want-to-live/
 
-
-
-abuse allegation against Vassar, including details related to an RPG. An intense interest in fiction and nerd culture seems to be a pattern here given Yudkowsky's writing of HPMOR and Zvi's background as a Magic player.
+You probably read this already, but here's an abuse allegation against Vassar, including details related to an RPG. An intense interest in fiction and nerd culture seems to be a pattern here given Yudkowsky's writing of HPMOR and Zvi's background as a Magic player.
 
 https://twitter.com/RuffleJax/status/1009625312844550146
 
