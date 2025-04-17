@@ -1,7 +1,9 @@
 ---
 tags:
-  - Effective
+  - EffectiveAltruism
   - Blogs
+  - Map2023
+  - LesserWrongia
 ---
 # Thing of Things
 

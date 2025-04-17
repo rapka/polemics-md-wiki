@@ -1,3 +1,8 @@
+---
+tags:
+  - Puzzalia
+  - Map2023
+---
 # Decision Theory (Crucial Considerations)
 
 An EA blog devoted to "potentially game-changing ideas in science and philosophy".

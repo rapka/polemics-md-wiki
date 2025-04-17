@@ -1,3 +1,9 @@
+---
+tags:
+  - AvantGardeaArriereGardea
+  - Map2023
+---
+
 # Bounded Regret
 
 [Website](https://bounded-regret.ghost.io/)

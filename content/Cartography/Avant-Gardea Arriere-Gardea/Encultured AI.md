@@ -1,3 +1,9 @@
+---
+tags:
+  - AvantGardeaArriereGardea
+  - Map2023
+---
+
 # Encultured AI
 
 [Website]()

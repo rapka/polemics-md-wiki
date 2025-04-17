@@ -1,3 +1,8 @@
+---
+tags:
+  - LesserWrongia
+  - Map2023
+---
 # Shtetl-Optimized
 
 [website](https://scottaaronson.blog/)

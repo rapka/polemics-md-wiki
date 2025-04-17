@@ -1,5 +1,9 @@
-
-
-
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+---
+aliases:
+  - Matthew Yglesias
+  - MattY
+tags:
+  - Neoliberia
+  - Map2023
+---
+# Slow Boring

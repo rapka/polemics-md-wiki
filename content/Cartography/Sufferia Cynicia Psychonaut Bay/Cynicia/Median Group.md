@@ -1,5 +1,6 @@
-
-
-
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+---
+tags:
+  - Cynicia
+  - Map2023
+---
+# Median Group

@@ -2,6 +2,8 @@
 tags:
   - Crypto
   - EffectiveAltruism
+  - AvantGardeaArriereGardea
+  - Map2023
 ---
 # FTX
 

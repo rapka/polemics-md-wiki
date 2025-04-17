@@ -3,6 +3,8 @@ tags:
   - AI
   - X-Risk
   - Rationality
+  - AvantGardeaArriereGardea
+  - Map2023
 ---
 # Redwood Research
 

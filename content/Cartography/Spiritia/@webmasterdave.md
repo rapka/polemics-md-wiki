@@ -1,5 +1,6 @@
-
-
-
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+---
+tags:
+  - Spiritia
+  - Map2023
+---
+# Webmaster Dave

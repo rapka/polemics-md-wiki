@@ -1,3 +1,8 @@
+---
+tags:
+  - LesserWrongia
+  - Map2023
+---
 # Agenty Duck
 
 [Blogspot](http://agentyduck.blogspot.com/) | [Personal Website](https://www.loganstrohl.com/) 

@@ -4,9 +4,10 @@ tags:
   - X-Risk
   - EffectiveAltruism
   - Longtermism
+  - Map2023
+  - LesserWrongia
 ---
 # Robert Miles
-
 
 
 Receiving an $82,000 [grant](https://funds.effectivealtruism.org/funds/far-future) in 2022 from EA Funds to "make videos and podcasts about AI Safety/Alignment, and to build a community to help new people get involved".

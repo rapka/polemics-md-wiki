@@ -1,3 +1,8 @@
+---
+tags:
+  - Emeritia
+  - Map2023
+---
 # Foundational Questions Institute (FQxI)
 
 [website](https://fqxi.org/)| [Wikipedia](https://en.wikipedia.org/wiki/Foundational_Questions_Institute)

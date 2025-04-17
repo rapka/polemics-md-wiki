@@ -1,6 +1,8 @@
 ---
 tags:
   - Rationality
+  - Map2023
+  - LesserWrongia
 aliases:
   - Slate Star Codex
   - Scott Alexander

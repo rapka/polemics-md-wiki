@@ -1,3 +1,9 @@
+---
+tags:
+  - Neoliberia
+  - Map2023
+---
+
 [Twitter](https://www.twitter.com/thecollegehill)
 
 @asymmetricinfo is the twitter account of Mega Mcardle, a liberal blogger.

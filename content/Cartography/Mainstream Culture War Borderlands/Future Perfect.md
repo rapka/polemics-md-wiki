@@ -1,3 +1,8 @@
+---
+tags:
+  - CultureWarBorderlands
+  - Map2023
+---
 # Future Perfect
 
 [Website](https://www.vox.com/future-perfect)

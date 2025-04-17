@@ -1,3 +1,8 @@
+---
+tags:
+  - Emeritia
+  - Map2023
+---
 # Future of Life Institute
 
 [website](https://futureoflife.org/) | [wikipedia](https://en.wikipedia.org/wiki/Future_of_Life_Institute)

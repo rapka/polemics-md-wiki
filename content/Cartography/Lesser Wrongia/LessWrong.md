@@ -1,3 +1,8 @@
+---
+tags:
+  - LesserWrongia
+  - Map2023
+---
 # LessWrong
 
 [Website](https://www.lesswrong.com/) | [Wikipedia](https://en.wikipedia.org/wiki/LessWrong) |  [Twitter]()

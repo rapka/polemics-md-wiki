@@ -1,3 +1,8 @@
+---
+tags:
+  - LesserWrongia
+  - Map2023
+---
 # European Summer Program on Rationality
 
 [Website]() | [Wikipedia]() |  [Twitter]()

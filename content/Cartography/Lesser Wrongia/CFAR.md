@@ -1,3 +1,8 @@
+---
+tags:
+  - LesserWrongia
+  - Map2023
+---
 # Center for Applied Rationality (CFAR)
 
 [Website]() | [Wikipedia]() |  [Twitter]()

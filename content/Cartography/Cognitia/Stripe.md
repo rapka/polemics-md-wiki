@@ -1,6 +1,8 @@
 ---
 tags:
   - Companies
+  - Map2023
+  - Cognitia
 ---
 # Stripe
 [Website]() | [Wikipedia]() |  [Twitter]()

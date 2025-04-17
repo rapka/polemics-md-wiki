@@ -3,6 +3,8 @@ tags:
   - EffectiveAltruism
   - Longtermism
   - X-Risk
+  - AvantGardeaArriereGardea
+  - Map2023
 aliases:
   - EA Funds
   - Effective Ventures

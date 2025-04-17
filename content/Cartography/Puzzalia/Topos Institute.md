@@ -1,5 +1,6 @@
-
-
-
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+---
+tags:
+  - Puzzalia
+  - Map2023
+---
+# Topos Institute

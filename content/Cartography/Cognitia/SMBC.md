@@ -1,3 +1,8 @@
+---
+tags:
+  - Cognitia
+  - Map2023
+---
 # Saturday Morning Breakfast Cereal (SMBC)
 
 [Website](https://www.smbc-comics.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Saturday_Morning_Breakfast_Cereal) |  [Twitter](https://twitter.com/smbccomics)

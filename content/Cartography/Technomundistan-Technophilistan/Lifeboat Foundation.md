@@ -1,3 +1,8 @@
+---
+tags:
+  - Technomundistan
+  - Map2023
+---
 # Lifeboat Foundation
 
 [Website](https://lifeboat.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Lifeboat_Foundation) |  [Twitter]()

@@ -3,6 +3,8 @@ tags:
   - AI
   - X-Risk
   - Rationality
+  - Map2023
+  - LesserWrongia
 ---
 # Conjecture
 

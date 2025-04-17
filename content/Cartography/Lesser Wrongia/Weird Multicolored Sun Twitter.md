@@ -1,3 +1,8 @@
+---
+tags:
+  - LesserWrongia
+  - Map2023
+---
 # Weird Multicolored Sun Twitter
 
 According to the [Hermetic Library](https://hermetic.com/wst/index), this is a "a particular post-rational self-organized phenomenon on Twitter". It may be a precursor to what is known today as "That Part of Twitter" or "TPOT".

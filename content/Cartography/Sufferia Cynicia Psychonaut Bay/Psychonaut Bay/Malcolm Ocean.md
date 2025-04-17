@@ -1,5 +1,6 @@
-
-
-
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+---
+tags:
+  - PsychonautBay
+  - Map2023
+---
+# Malcolm Ocean

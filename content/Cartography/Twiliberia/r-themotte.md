@@ -1,3 +1,8 @@
+---
+tags:
+  - Twiliberia
+  - Map2023
+---
 # r/themotte
 
 [Website](https://www.reddit.com/r/TheMotte/)

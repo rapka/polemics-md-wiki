@@ -1,3 +1,9 @@
+---
+tags:
+  - AvantGardeaArriereGardea
+  - Map2023
+---
+
 # Center for Human-Compatible Intelligence (CHAI)
 
 [Website](https://humancompatible.ai/)

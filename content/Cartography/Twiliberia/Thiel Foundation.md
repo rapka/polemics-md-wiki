@@ -1,3 +1,8 @@
+---
+tags:
+  - Twiliberia
+  - Map2023
+---
 # Thiel Foundation
 
 [Website]() | [Wikipedia]() |  [Twitter]()

@@ -1,3 +1,9 @@
+---
+tags:
+  - AvantGardeaArriereGardea
+  - Map2023
+---
+
 # Alignment Newsletter
 
 [Website](https://rohinshah.com/alignment-newsletter/)

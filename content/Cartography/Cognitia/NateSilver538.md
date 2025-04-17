@@ -1,5 +1,9 @@
 ---
 aliases:
+  - 538
+tags:
+  - Cognitia
+  - Map2023
 ---
 # Nate Sliver (@Natesilver538)
 

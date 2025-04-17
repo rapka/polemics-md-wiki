@@ -1,3 +1,9 @@
+---
+tags:
+  - AvantGardeaArriereGardea
+  - Map2023
+---
+
 # Authentic Relating & Circling
 
 *Not to be confused with the [Alignment Research Center](../../Organizations/Alignment%20Research%20Center.md)*

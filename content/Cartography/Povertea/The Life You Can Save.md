@@ -1,5 +1,6 @@
-
-
-
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+---
+tags:
+  - Povertea
+  - Map2023
+---
+# The Life You Can Save

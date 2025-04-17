@@ -1,6 +1,9 @@
 ---
 aliases:
   - Robin Hanson
+tags:
+  - Map2023
+  - Cynicia
 ---
 # Overcoming Bias
 

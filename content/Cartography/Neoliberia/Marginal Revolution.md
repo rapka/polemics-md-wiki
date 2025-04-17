@@ -1,3 +1,8 @@
+---
+tags:
+  - Neoliberia
+  - Map2023
+---
 # Marginal Revolution
 
 [website](https://marginalrevolution.com/) | [Wikipedia](https://en.wikipedia.org/wiki/Tyler_Cowen)

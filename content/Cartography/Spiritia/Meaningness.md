@@ -1,3 +1,8 @@
+---
+tags:
+  - Spiritia
+  - Map2023
+---
 # Meaningness
 
 [Website](https://meaningness.com/)

@@ -4,6 +4,8 @@ tags:
   - X-Risk
   - Rationality
   - EffectiveAltruism
+  - Map2023
+  - LesserWrongia
 ---
 # Survival and Flourishing Fund (SFF)
 

@@ -1,5 +1,8 @@
-
-
-
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+---
+aliases:
+  - Giving What We Can
+tags:
+  - Povertea
+  - Map2023
+---
+# Giving What We Can

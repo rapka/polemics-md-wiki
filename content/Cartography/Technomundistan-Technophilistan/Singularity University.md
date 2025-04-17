@@ -1,3 +1,8 @@
+---
+tags:
+  - Technomundistan
+  - Map2023
+---
 # Singularity University / Singularity Group.
 
 [Website](https://www.su.org/) | [Wikipedia]() |  [Twitter]()

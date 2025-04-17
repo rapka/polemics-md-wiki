@@ -2,6 +2,8 @@
 tags:
   - EffectiveAccelerationism
   - VentureCapital
+  - Map2023
+  - TechLiberia
 aliases:
   - Balaji
   - The Network State

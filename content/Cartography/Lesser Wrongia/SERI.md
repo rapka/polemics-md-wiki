@@ -2,6 +2,8 @@
 tags:
   - AI
   - X-Risk
+  - Map2023
+  - LesserWrongia
 ---
 # Stanford Existential Risks Initiative (SERI)
 

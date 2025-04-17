@@ -1,6 +1,8 @@
 ---
 tags:
   - Blogs
+  - Map2023
+  - Cognitia
 ---
 # Statistical Modeling, Causal Inference, and Social Science (Stat Modeling)
 

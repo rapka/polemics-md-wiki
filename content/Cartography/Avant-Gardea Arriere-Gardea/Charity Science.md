@@ -1,4 +1,7 @@
 ---
+tags:
+  - AvantGardeaArriereGardea
+  - Map2023
 aliases:
   - Charity Entrepreneurship
 ---

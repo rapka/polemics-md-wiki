@@ -1,3 +1,8 @@
+---
+tags:
+  - Twiliberia
+  - Map2023
+---
 # r/starslatecodex
 
 [Website](https://www.reddit.com/r/slatestarcodex/) 

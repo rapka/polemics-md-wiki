@@ -2,6 +2,8 @@
 tags:
   - EffectiveAltruism
   - Blogs
+  - Map2023
+  - LesserWrongia
 ---
 # The Unit of Caring
 

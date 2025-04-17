@@ -1,6 +1,9 @@
 ---
 aliases:
   - Bryan Caplan
+tags:
+ - Maps2023
+ - Neoliberia
 ---
 
 # Bet On It

@@ -1,3 +1,8 @@
+---
+tags:
+  - LesserWrongia
+  - Map2023
+---
 # Steven Kaas
 
 [Website (Internet Archvie)](http://web.archive.org/web/*/http://acceleratingfuture.com/steven/) |  [Twitter (inactive)](https://twitter.com/stevenkaas/status/1363352900043333633) | [EA Forum Account](https://forum.effectivealtruism.org/users/stevenkaas) | [LW account](https://www.lesswrong.com/users/steven0461)

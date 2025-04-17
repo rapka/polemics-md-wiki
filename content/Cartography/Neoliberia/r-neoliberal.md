@@ -1,5 +1,6 @@
-
-
-
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+---
+tags:
+  - Neoliberia
+  - Map2023
+---
+# r/neoliberal

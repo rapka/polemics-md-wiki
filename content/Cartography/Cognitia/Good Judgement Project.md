@@ -1,6 +1,8 @@
 ---
 tags:
   - Effective Altruism
+  - Map2023
+  - Cognitia
 ---
 # Good Judgement Project
 

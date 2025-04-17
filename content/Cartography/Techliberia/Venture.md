@@ -1,4 +1,9 @@
-# Organization Name
+---
+tags:
+  - TechLiberia
+  - Map2023
+---
+# Venture
 
 [Website]() | [Wikipedia]() |  [Twitter]()
 
@@ -9,8 +14,6 @@
 ## Finances
 
 ### Donors
-
-
 
 
 ### Grants

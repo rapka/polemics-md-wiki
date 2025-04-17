@@ -3,6 +3,9 @@ aliases:
   - OAK
   - Soryu Forall
   - Optimizing Awareness and Kindness
+tags:
+  - Maps2023
+  - Spiritia
 ---
 # Monastic Academy for the Preservation of Life on Earth
 

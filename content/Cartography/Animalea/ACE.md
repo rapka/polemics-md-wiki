@@ -2,6 +2,8 @@
 tags:
   - AnimalRights
   - EffectiveAltruism
+  - Map2023
+  - Animalea
 ---
 # Animal Charity Evaluators (ACE)
 

@@ -1,3 +1,8 @@
+---
+tags:
+  - LesserWrongia
+  - Map2023
+---
 # Glowfic
 
 [Website](https://glowfic.com/) 

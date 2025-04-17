@@ -1,6 +1,8 @@
 ---
 tags:
   - Blogs
+  - Map2023
+  - Technomundistan
 ---
 # Wait But Why
 

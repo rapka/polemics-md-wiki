@@ -1,3 +1,8 @@
+---
+tags:
+  - LesserWrongia
+  - Map2023
+---
 # Duncan Sabien
 
 [Website]() | [Substack](https://substack.com/@homosabiens)| [Medium](https://medium.com/@ThingMaker)

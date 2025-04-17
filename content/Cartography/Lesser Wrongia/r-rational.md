@@ -1,3 +1,8 @@
+---
+tags:
+  - LesserWrongia
+  - Map2023
+---
 # r/rational
 
 [website](https://www.reddit.com/r/rational)

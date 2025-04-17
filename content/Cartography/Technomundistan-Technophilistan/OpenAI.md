@@ -1,3 +1,8 @@
+---
+tags:
+  - Technomundistan
+  - Map2023
+---
 # OpenAI
 
 [Website](https://openai.com/) | [Wikipedia](https://en.wikipedia.org/wiki/OpenAI) |  [Twitter](https://twitter.com/OpenAI)

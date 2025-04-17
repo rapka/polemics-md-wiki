@@ -1,4 +1,9 @@
-
+---
+tags:
+  - Twiliberia
+  - Map2023
+---
+# The Seasteading Institute
 
 https://chartercitiesinstitute.org/research/case-for-charter-cities-effective-altruism/ 
 

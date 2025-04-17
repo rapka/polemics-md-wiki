@@ -1,4 +1,8 @@
-
+---
+tags:
+  - Neoliberia
+  - Map2023
+---
 # Progress Studies
 
 [website](https://patrickcollison.com/progress)| [Wikipedia](https://en.wikipedia.org/wiki/Patrick_Collison)

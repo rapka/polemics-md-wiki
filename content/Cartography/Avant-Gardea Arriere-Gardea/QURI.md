@@ -1,3 +1,8 @@
+---
+tags:
+  - AvantGardeaArriereGardea
+  - Map2023
+---
 # # Quantified Uncertainty Research Institute (QURI)
 
 

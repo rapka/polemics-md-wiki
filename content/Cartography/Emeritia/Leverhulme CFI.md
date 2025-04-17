@@ -1,3 +1,8 @@
+---
+tags:
+  - Emeritia
+  - Map2023
+---
 # Leverhulme Centre for the Future of Intelligence (LCFI)
 
 [Website](http://lcfi.ac.uk/) | [Wikipedia](https://en.wikipedia.org/wiki/Leverhulme_Centre_for_the_Future_of_Intelligence) |  [Twitter]()

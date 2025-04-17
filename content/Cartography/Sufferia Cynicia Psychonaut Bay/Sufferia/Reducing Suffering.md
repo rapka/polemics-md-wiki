@@ -1,5 +1,7 @@
-
-
-
-
-![Map of Rationality](/wiki/Cartography/map_full.jpg)
+---
+tags:
+  - Sufferia
+  - Map2023
+---
+# Reducing Suffering
+(TODO)

@@ -1,5 +1,7 @@
 ---
 tags:
+  - Map2023
+  - Cognitia
 ---
 # Metaculus
 

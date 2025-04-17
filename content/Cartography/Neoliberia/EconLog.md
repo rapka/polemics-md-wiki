@@ -1,3 +1,8 @@
+---
+tags:
+  - Neoliberia
+  - Map2023
+---
 # EconLog
 
 [Website](https://www.econlib.org/econlog/)
