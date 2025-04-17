@@ -2,7 +2,7 @@
 aliases:
   - Robin Hanson
 tags:
-  - Map2023
+  - Map2022
   - Cynicia
 ---
 # Overcoming Bias

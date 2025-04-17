@@ -2,7 +2,7 @@
 tags:
   - AI
   - X-Risk
-  - Map2023
+  - Map2022
   - LesserWrongia
 ---
 # Stanford Existential Risks Initiative (SERI)

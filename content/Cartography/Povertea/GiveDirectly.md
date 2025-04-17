@@ -1,7 +1,7 @@
 ---
 tags:
   - EffectiveAltruism
-  - Map2023
+  - Map2022
   - Povertea
 ---
 # GiveDirectly

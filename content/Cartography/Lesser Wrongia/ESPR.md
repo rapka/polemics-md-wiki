@@ -1,7 +1,7 @@
 ---
 tags:
   - LesserWrongia
-  - Map2023
+  - Map2022
 ---
 # European Summer Program on Rationality
 

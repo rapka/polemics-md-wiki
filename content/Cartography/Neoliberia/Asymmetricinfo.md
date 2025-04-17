@@ -1,7 +1,7 @@
 ---
 tags:
   - Neoliberia
-  - Map2023
+  - Map2022
 ---
 
 [Twitter](https://www.twitter.com/thecollegehill)

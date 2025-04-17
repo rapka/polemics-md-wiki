@@ -1,7 +1,7 @@
 ---
 tags:
   - Blogs
-  - Map2023
+  - Map2022
   - Technomundistan
 ---
 # Wait But Why

@@ -1,7 +1,7 @@
 ---
 tags:
   - CultureWarBorderlands
-  - Map2023
+  - Map2022
 ---
 # Future Perfect
 

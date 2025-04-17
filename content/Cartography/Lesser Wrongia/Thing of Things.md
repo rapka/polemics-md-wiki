@@ -2,7 +2,7 @@
 tags:
   - EffectiveAltruism
   - Blogs
-  - Map2023
+  - Map2022
   - LesserWrongia
 ---
 # Thing of Things

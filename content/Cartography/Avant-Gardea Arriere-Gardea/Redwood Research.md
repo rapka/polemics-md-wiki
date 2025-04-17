@@ -4,7 +4,7 @@ tags:
   - X-Risk
   - Rationality
   - AvantGardeaArriereGardea
-  - Map2023
+  - Map2022
 ---
 # Redwood Research
 

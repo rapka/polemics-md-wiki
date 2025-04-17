@@ -1,6 +1,6 @@
 ---
 tags:
   - PsychonautBay
-  - Map2023
+  - Map2022
 ---
 # Malcolm Ocean

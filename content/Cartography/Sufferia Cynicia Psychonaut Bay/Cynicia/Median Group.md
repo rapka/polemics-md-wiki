@@ -1,6 +1,6 @@
 ---
 tags:
   - Cynicia
-  - Map2023
+  - Map2022
 ---
 # Median Group

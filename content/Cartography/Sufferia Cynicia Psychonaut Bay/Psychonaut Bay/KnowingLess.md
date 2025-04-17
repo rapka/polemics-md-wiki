@@ -3,7 +3,7 @@ aliases:
   - Aella
 tags:
   - Psychedelics
-  - Map2023
+  - Map2022
   - PsychonautBay
 ---
 # KnowingLess

@@ -4,7 +4,7 @@ tags:
   - X-Risk
   - EffectiveAltruism
   - Longtermism
-  - Map2023
+  - Map2022
   - LesserWrongia
 ---
 # Robert Miles

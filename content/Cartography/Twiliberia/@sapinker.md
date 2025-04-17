@@ -2,7 +2,7 @@
 tags:
   - Rationality
   - EffectiveAltruism
-  - Map2023
+  - Map2022
   - Twiliberia
 aliases:
   - Steven Pinker

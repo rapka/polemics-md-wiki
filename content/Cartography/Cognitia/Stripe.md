@@ -1,7 +1,7 @@
 ---
 tags:
   - Companies
-  - Map2023
+  - Map2022
   - Cognitia
 ---
 # Stripe

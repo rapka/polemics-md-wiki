@@ -4,6 +4,6 @@ aliases:
   - MattY
 tags:
   - Neoliberia
-  - Map2023
+  - Map2022
 ---
 # Slow Boring

@@ -1,7 +1,7 @@
 ---
 tags:
   - Sufferia
-  - Map2023
+  - Map2022
 ---
 # Kaj Sotala
 

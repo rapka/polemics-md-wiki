@@ -4,7 +4,7 @@ tags:
   - Longtermism
   - X-Risk
   - AvantGardeaArriereGardea
-  - Map2023
+  - Map2022
 aliases:
   - EA Funds
   - Effective Ventures

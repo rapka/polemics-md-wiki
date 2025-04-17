@@ -1,7 +1,7 @@
 ---
 tags:
   - LesserWrongia
-  - Map2023
+  - Map2022
 ---
 # Machine Intelligence Research Institute
 

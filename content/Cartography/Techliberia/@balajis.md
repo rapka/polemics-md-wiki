@@ -2,7 +2,7 @@
 tags:
   - EffectiveAccelerationism
   - VentureCapital
-  - Map2023
+  - Map2022
   - TechLiberia
 aliases:
   - Balaji

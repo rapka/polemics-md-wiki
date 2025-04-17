@@ -1,7 +1,7 @@
 ---
 tags:
   - Emeritia
-  - Map2023
+  - Map2022
 ---
 # Foundational Questions Institute (FQxI)
 

@@ -1,6 +1,6 @@
 ---
 tags:
   - Povertea
-  - Map2023
+  - Map2022
 ---
 # Wave

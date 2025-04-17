@@ -2,7 +2,7 @@
 aliases:
   - Geoffrey Miller
 tags:
-  - Map2023
+  - Map2022
   - Twiliberia
 ---
 

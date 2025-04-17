@@ -1,7 +1,7 @@
 ---
 tags:
   - AI
-  - Map2023
+  - Map2022
   - Cognitia
 ---
 # Yann LeCun

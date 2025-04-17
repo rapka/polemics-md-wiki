@@ -1,7 +1,7 @@
 ---
 tags:
   - LesserWrongia
-  - Map2023
+  - Map2022
 ---
 # Weird Multicolored Sun Twitter
 

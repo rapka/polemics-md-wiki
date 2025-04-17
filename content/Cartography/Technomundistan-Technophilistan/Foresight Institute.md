@@ -1,7 +1,7 @@
----
+s---
 tags:
   - Technomundistan
-  - Map2023
+  - Map2022
 ---
 # Foresight Institute
 

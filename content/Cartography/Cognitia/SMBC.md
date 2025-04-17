@@ -1,7 +1,7 @@
 ---
 tags:
   - Cognitia
-  - Map2023
+  - Map2022
 ---
 # Saturday Morning Breakfast Cereal (SMBC)
 

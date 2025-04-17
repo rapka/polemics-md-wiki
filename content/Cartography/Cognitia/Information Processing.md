@@ -2,7 +2,7 @@
 tags:
   - EffectiveAltruism
   - Blogs
-  - Map2023
+  - Map2022
   - Cognitia
 aliases:
   - Steve Hsu

@@ -5,7 +5,7 @@ tags:
   - Rationality
   - Billionaires
   - Nazis
-  - Map2023
+  - Map2022
   - Twiliberia
 aliases:
   - Elon Musk

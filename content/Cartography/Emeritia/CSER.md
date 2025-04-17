@@ -1,7 +1,7 @@
 ---
 tags:
   - Emeritia
-  - Map2023
+  - Map2022
 ---
 # Centre for the Study of Existential Risk (CSER)
 

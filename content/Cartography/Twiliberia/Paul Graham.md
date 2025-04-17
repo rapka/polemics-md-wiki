@@ -3,7 +3,7 @@ tags:
   - YCombinator
   - AI
   - X-Risk
-  - Map2023
+  - Map2022
   - Twiliberia
 ---
 # Paul Graham

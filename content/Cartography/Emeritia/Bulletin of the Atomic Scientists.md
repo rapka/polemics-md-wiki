@@ -3,7 +3,7 @@ tags:
   - X-Risk
   - WikipediaWarnings
   - AI
-  - Map2023
+  - Map2022
   - Emeritia
 ---
 # Bulletin of the Atomic Scientists

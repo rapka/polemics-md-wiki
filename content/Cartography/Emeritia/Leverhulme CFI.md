@@ -1,7 +1,7 @@
 ---
 tags:
   - Emeritia
-  - Map2023
+  - Map2022
 ---
 # Leverhulme Centre for the Future of Intelligence (LCFI)
 

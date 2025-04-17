@@ -1,7 +1,7 @@
 ---
 tags:
   - Puzzalia
-  - Map2023
+  - Map2022
 ---
 Like with [Magic: The Gathering](./MtG), here seems to be a significant overlap between professional poker players and effective altruism.
 

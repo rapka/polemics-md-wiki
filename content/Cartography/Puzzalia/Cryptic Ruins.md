@@ -1,7 +1,7 @@
 ---
 tags:
   - Puzzalia
-  - Map2023
+  - Map2022
 ---
 # Cryptic Ruins
 

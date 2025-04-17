@@ -1,7 +1,7 @@
 ---
 tags:
   - Technomundistan
-  - Map2023
+  - Map2022
 ---
 # SENS Research Foundation
 

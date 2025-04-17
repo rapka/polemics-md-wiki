@@ -3,7 +3,7 @@ tags:
   - AnimalRights
   - EffectiveAltruism
   - Animalea
-  - Map2023
+  - Map2022
 ---
 # The Humane League
 

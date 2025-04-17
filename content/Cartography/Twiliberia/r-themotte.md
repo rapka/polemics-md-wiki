@@ -1,7 +1,7 @@
 ---
 tags:
   - Twiliberia
-  - Map2023
+  - Map2022
 ---
 # r/themotte
 

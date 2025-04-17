@@ -1,7 +1,7 @@
 ---
 tags:
   - Rationality
-  - Map2023
+  - Map2022
   - LesserWrongia
 aliases:
   - Slate Star Codex
