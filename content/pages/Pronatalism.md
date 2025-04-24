@@ -1,0 +1,6 @@
+---
+tags:
+  - Ideologies
+---
+
+# Pronatalism
