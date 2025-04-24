@@ -15,4 +15,7 @@ languages-old
 wiki-old
 polemics-wip
 content/polemics-wip
-Icon
+**/Icon\r\r
+**/Icon\r
+**/Icon[\r]
+**/Icon?
