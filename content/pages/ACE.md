@@ -4,6 +4,8 @@ tags:
   - EffectiveAltruism
   - Map2022
   - Animalea
+aliases:
+  - Animal Charity Evaluators
 ---
 # Animal Charity Evaluators (ACE)
 
