@@ -1,10 +1,14 @@
 ---
 aliases:
   - Aella
+  - KnowingLess
 tags:
   - Psychedelics
   - Map2022
   - PsychonautBay
+  - People
+  - Substack
+  - Blogs
 ---
 # KnowingLess
 
