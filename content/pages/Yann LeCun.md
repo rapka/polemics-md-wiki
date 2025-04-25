@@ -3,6 +3,8 @@ tags:
   - AI
   - Map2022
   - Cognitia
+aliases:
+  - "@ylecun"
 ---
 # Yann LeCun
 
