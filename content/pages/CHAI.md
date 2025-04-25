@@ -2,9 +2,10 @@
 tags:
   - AvantGardeaArriereGardea
   - Map2022
+aliases:
+  - Center for Human-Compatible Artificial Intelligence
 ---
-
-# Center for Human-Compatible Intelligence (CHAI)
+# Center for Human-Compatible Artificial Intelligence (CHAI)
 
 [Website](https://humancompatible.ai/)
 

@@ -2,6 +2,9 @@
 tags:
   - Emeritia
   - Map2022
+aliases:
+  - Centre for the Study of Existential Risk
+  - Center for the Study of Existential Risk
 ---
 # Centre for the Study of Existential Risk (CSER)
 

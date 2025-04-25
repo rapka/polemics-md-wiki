@@ -4,6 +4,8 @@ tags:
   - EffectiveAltruism
   - Map2022
   - Animalea
+aliases:
+  - Peter Singer
 ---
 # Peter Singer
 

@@ -8,6 +8,8 @@ tags:
 aliases:
   - EA Funds
   - Effective Ventures
+  - Center For Effective Altruism
+  - Centre For Effective Altruism
 ---
 # Center For Effective Altruism (CEA)
 

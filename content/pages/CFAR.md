@@ -2,6 +2,8 @@
 tags:
   - LesserWrongia
   - Map2022
+aliases:
+  - Center for Applied Rationality
 ---
 # Center for Applied Rationality (CFAR)
 

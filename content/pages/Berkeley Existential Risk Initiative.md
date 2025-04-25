@@ -4,6 +4,8 @@ tags:
   - X-Risk
   - Longtermism
   - Organizations
+aliases:
+  - BERI
 ---
 # Berkeley Existential Risk Initiative (BERI)
 
