@@ -4,6 +4,7 @@ tags:
   - Map2022
 aliases:
   - Center for Human-Compatible Artificial Intelligence
+  - CHCAI
 ---
 # Center for Human-Compatible Artificial Intelligence (CHAI)
 

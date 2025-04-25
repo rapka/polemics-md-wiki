@@ -2,6 +2,9 @@
 tags:
   - Emeritia
   - Map2022
+aliases:
+  - Leverhulme Centre for the Future of Intelligence
+  - CFI
 ---
 # Leverhulme Centre for the Future of Intelligence (LCFI)
 
