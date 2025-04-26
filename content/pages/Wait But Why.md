@@ -16,4 +16,4 @@ One of its claims to fame was a 2017 post about Neuralink that was personally ap
 
 In this blog post, Urban describes himself as being "the dumbest person in the room" during a meeting with Neuralink's founders, including Elon. This seems to be unlikely to be true because Elon Musk is a very, very dumb person.
 
-![](/images/Wait%20But%20Why/dumbest-person-1.png)
+![](images/Wait%20But%20Why/dumbest-person-1.png)
