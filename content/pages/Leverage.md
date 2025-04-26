@@ -5,6 +5,8 @@ tags:
   - Rationality
   - Map2022
   - Cynicia
+aliases:
+  - Leverage Research
 ---
 # Leverage
 
