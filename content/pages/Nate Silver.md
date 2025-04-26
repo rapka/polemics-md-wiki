@@ -1,6 +1,7 @@
 ---
 aliases:
-  - 538
+  - NateSilver538
+  - "538"
 tags:
   - Cognitia
   - Map2022
