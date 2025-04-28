@@ -42,3 +42,40 @@ The accusation was written by Joshin, a member of [OAK](MAPLE.md) whose parents 
 ### Gaslighting BDSM Party 
 
 https://sashachapin.substack.com/p/notes-on-a-torture-party
+
+
+### Sex party application
+
+>What's your cultural heritage?
+
+- Academia
+- Artist
+- Atheist/skeptic
+- Deep internet
+- Circling/authentic relating
+- Effective Altruist
+- Founder/CEO/startup
+- Ingroup/TPOT
+- Post-rationality
+- Radical feminism
+- Rationality
+- Psychonaut
+- Social justice
+- Spiritual/buddhist
+- Tabletop gamer
+- None of the above
+
+
+### Ties to Destiny
+
+https://manifold.markets/IsaacKing/will-aella-be-romantically-involved?play=true
+
+
+
+### Prediction Markets
+
+https://manifold.markets/Aella/which-manifest-attendee-would-i-enj
+
+### Relationship with Destiny
+
+https://manifold.markets/IsaacKing/will-aella-be-romantically-involved?play=true

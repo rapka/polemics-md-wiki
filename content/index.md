@@ -13,11 +13,11 @@ Upon further research, I discovered several other maps, some of which appear to 
 
 ### [2017 Map](map-2017.md)
 
-[![Map of the Rationalist space](map-2017.md)
+[![Map of the Rationalist space](./images/maps/2017/map_2017_full.jpg)](./map-2017)
 
 ### [2020 Map](map-2020.md)
 
-[![Map of the Rationalist space](map-2020.md)
+[![Map of the Rationalist space](./images/maps/2020/map_2020_full.jpg)](./map-2020)
 
 ### [2022 Map](./map-2022)
 
