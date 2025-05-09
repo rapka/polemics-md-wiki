@@ -28,6 +28,13 @@ Upon further research, I discovered several other maps, some of which appear to 
 [![Map of the Rationalist space](./images/maps/2023/map_2023_full.png)](./map-2023)
 
 
+### AI Gov.world
+
+
+https://aigov.world/
+
+
+
 --- 
 
 

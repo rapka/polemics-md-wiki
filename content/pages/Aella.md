@@ -16,9 +16,24 @@ tags:
 
 KnowingLess is the blog of rationalist sex worker Aella.
 
+
+### History
+
+https://web.archive.org/web/20130718122729/http://www.patheos.com/blogs/friendlyatheist/2013/07/15/the-atheist-daughter-of-a-notable-christian-apologist-shares-her-story
+
+
+### Ties to Aporia
+
 [Part 8](https://aella.substack.com/p/good-at-sex-antagonistic-seduction) of this series was a guest post by [Diane Fleischman](../../../People/Diane%20Fleishman.md) called "Antagonistic Seduction".  Fleischman also participated in a "slut squad" AMA on Aella's Substack. One of her featured post is an [extended analogy for trans kids]() ending with the conclusion that "we should be figuring out how to predict in advance where a kid will end up happiest" based on childhood traits rather than listening to the kids.
 
+
+### Twitter creepiness
+
 Aella often makes questionable tweets and posts about sex-related subjects without providing her own thoughts. For example, a [poll](https://twitter.com/Aella_Girl/status/1631078916000743424) about the age of consent included a "14 or younger" option and [another poll](https://twitter.com/Aella_Girl/status/1643703433516441602) mused on the ethics of time traveling pedophiles molesting their past selves.
+
+https://x.com/davidgerard/status/1556391089124286467
+
+
 
 ### Psychedelics
 
@@ -28,6 +43,8 @@ Aella is a huge fan of LSD.  In her [recollections](https://knowingless.com/2019
 
 https://aella.substack.com/p/my-attempts-to-sensemake-ai-risk
 >Maybe I just need to do LSD and meditate on everyone I love dying.
+
+Psychedelic use 
 
 ### "Quis cancellat ipsos cancellores?"
 
@@ -47,7 +64,6 @@ https://sashachapin.substack.com/p/notes-on-a-torture-party
 ### Sex party application
 
 >What's your cultural heritage?
-
 - Academia
 - Artist
 - Atheist/skeptic
