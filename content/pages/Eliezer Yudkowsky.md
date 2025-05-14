@@ -217,3 +217,7 @@ In 2017, Yudkowsky made a [Reddit post](https://www.reddit.com/r/rational/commen
 
 
 The Perilous Waif is a book about a genetically enhanced transhuman 6 year old girl whose genetic enhancements cause her to look 13. There are several parts in the book where the protagonist is exposed to sexual situations, with one of the characters referring to her as a "loli" at one point. The book's appendix also features a section where the author hypothesizes about potential future genetic enhancements to genitals.
+
+---
+
+https://web.archive.org/web/20081021051739/http://yudkowsky.net/obsolete/singularity.html

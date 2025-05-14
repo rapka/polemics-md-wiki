@@ -35,7 +35,7 @@ https://www.maximumtruth.org/p/the-dawn-of-woke-ai
 Tracking AI's FAQ says this:
 >I created this website so that anyone can immediately see up-to-date AI chatbot political opinions and biases. I hope that will be useful in a couple ways:
 >1. It informs users about the ideologies of the AIs they use. It helps us all switch to less-biased AIs, or to AIs with philosophies closer to their own.
->2. It can serve as a useful tool for AI creators, who may want their AI to be politically reasonable. If an AI starts getting too crazy, this site will pick up on that, and AI creators can then re-focus their AI to become more aligned with the interests of humanity. [@elonmusk](@elonmusk.md), for example, has already indicated that he wants Grok to become more politically neutral.
+>2. It can serve as a useful tool for AI creators, who may want their AI to be politically reasonable. If an AI starts getting too crazy, this site will pick up on that, and AI creators can then re-focus their AI to become more aligned with the interests of humanity. [Elon Musk](Elon%20Musk.md), for example, has already indicated that he wants Grok to become more politically neutral.
 
 On how to make AI more moderate, he has these ideas:
 >**Can AI creators make their AIs more moderate?**

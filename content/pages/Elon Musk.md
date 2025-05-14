@@ -10,6 +10,7 @@ tags:
 aliases:
   - Elon Musk
   - Elon
+  - "@elonmusk"
 ---
 # Elon Musk (@elonmusk)
 
@@ -31,3 +32,10 @@ Musk claimed that he would continue supporting OpenAI financially, but he didn't
 ## Other trivia/connections
 
 (TODO)
+
+https://x.com/HYENAFREQUENCY/status/1816661175037268201
+
+
+https://www.huffpost.com/entry/elon-musk-didnt-want-his-latest-deposition-released-here-it-is_n_66133d2ce4b0d81853f9a766
+
+

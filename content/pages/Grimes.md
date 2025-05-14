@@ -8,7 +8,7 @@ tags:
 ---
 # Grimes
 
-Grimes is a pop musician and [Elon Musk's](@elonmusk.md) ex-wife.
+Grimes is a pop musician and [Elon Musk's](Elon%20Musk.md) ex-wife.
 
 ### Elon
 
