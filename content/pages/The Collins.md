@@ -6,7 +6,7 @@ tags:
 ---
 # Simone & Malcom Collins
 
-More famously known as ["the Silicon Valley breeding couple"](https://www.telegraph.co.uk/family/life/pronatalists-save-mankind-by-having-babies-silicon-valley/. 
+More famously known as ["the Silicon Valley breeding couple"](https://www.telegraph.co.uk/family/life/pronatalists-save-mankind-by-having-babies-silicon-valley/). 
 
 https://www.telegraph.co.uk/family/life/pronatalists-save-mankind-by-having-babies-silicon-valley/
 
@@ -22,6 +22,8 @@ The website was funded by [Jaan Tallinn](Jaan%20Tallinn.md) through the [Surviva
 
 [Twitter]()
 
+
+https://nymag.com/intelligencer/article/the-truth-about-pronatalists-simone-and-malcolm-collins.html
 
 
 

@@ -43,3 +43,11 @@ https://buddhism.net/posts/buddhism-for-all/b002-all-life-depends-on-this/
 >My name is Soryu, and Buddhism can save life on Earth.
 
 >Since I was a little child, I have been worried about the destruction of life on this planet by human beings. My parents raised me with great skill, explaining to me the severe crises we face, from environmental destruction, to dangerous new technologies, to nuclear war. I was very worried. They also raised me with great love, and I offered that love to all living things. When I was four, I told my mother, “We have to stop people from killing the animals.”
+
+https://viriditasfoundation.se/projects/willowmonasticacademy
+
+https://monasticacademy.notion.site/Willow-Three-Month-Intensive-29992eaf3ba349fa95ce1f45377877fd
+
+https://growingwillow.org/
+
+https://www.whatisemerging.com/emergepodcast

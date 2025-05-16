@@ -3,6 +3,8 @@ tags:
   - Rationality
   - UK
   - People
+  - Map2022
+  - Neoliberia
 ---
 # Dominic Cummings
 
@@ -20,7 +22,4 @@ Cummings maintains a [reading list](https://dominiccummings.substack.com/p/readi
 On Twitter, Cummings only follows two people: [Gwern](Gwern.md) and [Laeeth Isharc](https://kaleidic.substack.com/), a hedge fund manager.
 
 The Center for Global Development released a paper in 2020 called [The UK as an Effective Altruist](https://www.cgdev.org/publication/uk-effective-altruist)analyzing Boris Johnson's government through the lens of EA.
-
-
-
 

@@ -35,6 +35,15 @@ Musk claimed that he would continue supporting OpenAI financially, but he didn't
 
 https://x.com/HYENAFREQUENCY/status/1816661175037268201
 
+### Burner account
+
+https://www.vice.com/en/article/elon-musk-burner-account-ermnmusk/
+
+https://www.yahoo.com/entertainment/elon-musk-confirms-used-burner-190847581.html?guccounter=1
+
+https://ifunny.co/picture/it-s-not-talked-about-enough-how-elon-musk-had-xs4fDHTMB
+
+### Babyfur
 
 https://www.huffpost.com/entry/elon-musk-didnt-want-his-latest-deposition-released-here-it-is_n_66133d2ce4b0d81853f9a766
 

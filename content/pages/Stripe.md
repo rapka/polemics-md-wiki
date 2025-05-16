@@ -31,6 +31,6 @@ Collison has a Twitter [reading list](https://x.com/i/lists/810352678735781888/m
 - Julia Galef
 - [Gwern](../../pages/Gwern.md)
 - Adam D'Angelo
-- Tyler Cowen of [Marginal Revolution](../../pages/Marginal%20Revolution.md)
+- Tyler Cowen of [Tyler Cowen](Tyler%20Cowen.md)
 - [Robin Hanson](../../pages/Overcoming%20Bias.md)
 - [Marc Andreessen](../../pages/Marc%20Andreessen.md)

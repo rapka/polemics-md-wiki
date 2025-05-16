@@ -13,3 +13,17 @@
 https://www.theguardian.com/commentisfree/2025/may/03/tech-oligarchs-musk
 
 
+[Sam Bankman-Fried funded a group with racist ties. FTX wants its $5m back (The Guardian)](https://www.theguardian.com/technology/article/2024/jun/16/sam-bankman-fried-ftx-eugenics-scientific-racism)
+
+https://mathbabe.org/2024/03/16/an-interview-with-someone-who-left-effective-altruism/
+
+https://washingtonspectator.org/understanding-tescreal-silicon-valleys-rightward-turn/
+
+https://www.vice.com/en/article/google-deepmind-researcher-co-authors-paper-saying-ai-will-eliminate-humanity/
+
+
+https://harpers.org/archive/2015/01/come-with-us-if-you-want-to-live/
+
+https://www.vanityfair.com/news/2022/04/inside-the-new-right-where-peter-thiel-is-placing-his-biggest-bets
+
+https://reflectivealtruism.com/2024/08/23/human-biodiversity-part-3-richard-hanania/

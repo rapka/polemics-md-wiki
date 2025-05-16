@@ -3,6 +3,8 @@ tags:
   - Rationality
   - Crypto
   - Organizations
+  - AI
+  - Companies
 ---
 # Crypto Lotus LLC
 

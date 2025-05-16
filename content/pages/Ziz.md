@@ -100,5 +100,3 @@ they agree Vassar is transphobic:
 ![](../pages/images/Ziz/sincereriously-archive/Alyssa-Michael-Trans-Consistent.png)
 
 ![](../pages/images/Ziz/sincereriously-archive/Alyssa-Michael-Transphobia.png)
-
-
