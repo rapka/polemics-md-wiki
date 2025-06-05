@@ -10,9 +10,11 @@ aliases:
   - Xenosystems
   - CCRU
 ---
-[Twitter](https://twitter.com/Outsideness) | [Substack](https://zerophilosophy.substack.com)
+[Old Twitter](https://twitter.com/Outsideness) | [New Twitter](https://x.com/Xenoimpulse) [Substack](https://zerophilosophy.substack.com)
 
 
+
+https://readthis.wtf/writing/nick-land-an-experiment-in-inhumanism/
 
 https://www.full-stop.net/2020/10/21/features/essays/macon-holt/hyperstitional-theory-fiction/
 

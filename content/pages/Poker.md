@@ -3,7 +3,7 @@ tags:
   - Puzzalia
   - Map2022
 ---
-Like with [Magic: The Gathering](MtG.md), here seems to be a significant overlap between professional poker players and effective altruism.
+Like with [Magic: The Gathering](Magic%20The%20Gathering.md), here seems to be a significant overlap between professional poker players and effective altruism.
 
 (TODO: Investigate this)
 

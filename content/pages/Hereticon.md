@@ -18,3 +18,4 @@ https://www.thedailybeast.com/hereticon-from-peter-thiels-founders-fund-is-a-con
 
 
 https://foundersfund.com/2024/02/hereticon-2024/
+

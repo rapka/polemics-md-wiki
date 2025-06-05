@@ -16,6 +16,12 @@ AI Impacts is a rationalist AI existential risk organization that is concerned a
 
 AI Impacts' biggest claim to fame is their 2022 [survey of AI researchers](https://aiimpacts.org/what-do-ml-researchers-think-about-ai-in-2022/). Dr. Nirit Weiss-Blatt has [heavily criticized](https://twitter.com/MelMitchell1/status/1649135315615903759) the survey, the presentation of its data in Tristan Harris' _The AI Dilemma_ documentary, and AI impacts' funding sources.
 
+
+
+### Survey
+
+https://aiimpacts.org/wp-content/uploads/2023/04/Thousands_of_AI_authors_on_the_future_of_AI.pdf
+
 ## Finances
 
 ### Donors

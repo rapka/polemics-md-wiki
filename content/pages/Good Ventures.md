@@ -17,3 +17,4 @@ Private philanthropic fund created by Dustin Moskovitz and Cari Tuna. Like the [
 (TODO)
 
 https://www.goodventures.org/our-portfolio/
+https://www.goodventures.org/about-us/

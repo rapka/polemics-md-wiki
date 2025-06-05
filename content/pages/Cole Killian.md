@@ -7,6 +7,23 @@ tags:
   - LessWrong
 ---
 
+### Personal Website
+
+Age 24 as of 2025 according to [ProPublica](https://projects.propublica.org/elon-musk-doge-tracker/).
+
+[Org Pomodoro and Polybar](https://archive.is/6hdpT0)
+[Getting Started With Org Super Agenda on Spacemacs](https://archive.ph/F2qr7)
+[Cognitive Dissonance As A Framework For Change (Personal Website)](https://archive.ph/6YgtM)
+
+[The Young, Inexperienced Engineers Aiding Elon Musk’s Government Takeover (Wired)](https://www.wired.com/story/elon-musk-government-young-engineers/) | https://archive.ph/vshFL
+
+
+>Killian, also known as Cole Killian, has a working email associated with DOGE, where he is currently listed as a volunteer, according to internal records reviewed by WIRED. According to a copy of his now-deleted résumé obtained by WIRED, he attended McGill University through at least 2021 and graduated high school in 2019. An archived copy of his now-deleted personal website indicates that he worked as an engineer at Jump Trading, which specializes in algorithmic and high-frequency financial trades.
+
+
+[Elon Musk's Demolition Crew (ProPublica)](https://projects.propublica.org/elon-musk-doge-tracker/)
+
+
 
 ### LessWrong Account
 
@@ -32,7 +49,7 @@ But "yourself" is really just a collection of memes. It will be the memes that a
 What do you want to tile the future lightcone with?
 
 
-#### Book Review: Spiritual Enlightenment: The Damnedest Thing
+##### Book Review: Spiritual Enlightenment: The Damnedest Thing
 
 # [Book Review: Spiritual Enlightenment: The Damnedest Thing](https://web.archive.org/web/20241225200432/https://www.lesswrong.com/posts/q4FRohG4Mo9bffKQA/book-review-spiritual-enlightenment-the-damnedest-thing)
 
@@ -42,6 +59,30 @@ https://web.archive.org/web/20241225200432/https://www.lesswrong.com/posts/q4FRo
 https://jedmckenna.com/
 
 
-#### SBF, Pascal's Mugging, and a Proposed Solution
+##### SBF, Pascal's Mugging, and a Proposed Solution
 
 https://web.archive.org/web/20240905164904/https://www.lesswrong.com/posts/WYGp9Kwd9FEjq4PKM/sbf-pascal-s-mugging-and-a-proposed-solution
+
+##### Don't be a Maxi
+
+
+[Don't be a Maxi](https://web.archive.org/web/20240905211558/https://www.lesswrong.com/posts/trrdxbRvcKdrnfADb/don-t-be-a-maxi)(https://web.archive.org/web/20240905211558/https://www.lesswrong.com/posts/trrdxbRvcKdrnfADb/don-t-be-a-maxi) - July 31, 2022. crossposted to https://colekillian.com/posts/maxi/
+
+##### Types of Friends
+
+[Types of Friends](https://web.archive.org/web/20240913055936/https://www.lesswrong.com/posts/BWzs5feAKcmuMAJQE/types-of-friends-1) - June 22, 2021. crossposted to https://colekillian.com/posts/types-of-friends/
+
+
+### Other news coverage
+
+https://www.cambridgeday.com/2025/03/01/theres-a-familiar-face-among-elon-musks-team-dismantling-the-federal-government-a-crls-grad/
+https://www.eenews.net/articles/doge-aide-pops-up-in-epa-staff-directory/ | https://archive.ph/kEp78
+https://www.newsweek.com/doge-list-staff-revealed-2029965
+
+
+https://kiwifarms.st/threads/elon-reeve-musk.134949/page-357#post-20487326
+
+
+### Ziz
+
+>I looked briefly into Ziz. My conclusion is that she had some interesting ideas I hadn't heard before, and some completely ridiculous ideas. I couldn't find her definition of "good" or "bad" or the idea of tiling the future lightcone with copies of herself.

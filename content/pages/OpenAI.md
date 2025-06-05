@@ -11,6 +11,10 @@ tags:
 
 It's OpenAI.
 
+### Media coverage
+
+https://www.wired.com/story/what-openai-really-wants
+
 ### Coporate Structure
 
 ![OpenAI corporate structure](openai_Structure.jpg)
@@ -34,3 +38,13 @@ On March 8, 2024, OpenAI [announced](https://openai.com/blog/openai-announces-ne
 ##### Timeline of events
 
 (TODO)
+
+
+
+### Sora
+
+https://openai.com/index/video-generation-models-as-world-simulators/
+
+> Sora is also able to simulate artificial processes–one example is video games. Sora can simultaneously control the player in Minecraft with a basic policy while also rendering the world and its dynamics in high fidelity. These capabilities can be elicited zero-shot by prompting Sora with captions mentioning “Minecraft."
+
+> These capabilities suggest that continued scaling of video models is a promising path towards the development of highly-capable simulators of the physical and digital world, and the objects, animals and people that live within them.

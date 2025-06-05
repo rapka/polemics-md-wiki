@@ -51,3 +51,11 @@ https://monasticacademy.notion.site/Willow-Three-Month-Intensive-29992eaf3ba349f
 https://growingwillow.org/
 
 https://www.whatisemerging.com/emergepodcast
+
+
+
+##### LessWrong review
+
+>This is so much better than what it was like without the Schedule! It has proven to be more effective than my years of attempts to debug the issue using introspection.
+
+https://www.lesswrong.com/posts/AMYx7tq3dpsQdBRGr/3-cultural-infrastructure-ideas-from-maple

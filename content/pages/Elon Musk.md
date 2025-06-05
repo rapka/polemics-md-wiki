@@ -18,6 +18,7 @@ aliases:
 
 It's Elon.
 
+
 ## Elon & OpenAI
 
 Musk was [initially](https://openai.com/blog/introducing-openai/) the co-chair of [OpenAI](OpenAI.md) alongside [Sam Altman](../../pages/Sam%20Altman.md). Semafor has [reported](https://www.semafor.com/article/03/24/2023/the-secret-history-of-elon-musk-sam-altman-and-openai) that Elon attempted to take full control of the company in 2018, alleging that it was falling behind Google. This takeover failed, leading to Musk leaving the board of directors. 
@@ -48,3 +49,7 @@ https://ifunny.co/picture/it-s-not-talked-about-enough-how-elon-musk-had-xs4fDHT
 https://www.huffpost.com/entry/elon-musk-didnt-want-his-latest-deposition-released-here-it-is_n_66133d2ce4b0d81853f9a766
 
 
+
+
+
+https://www.cnbc.com/2018/03/13/elon-musk-at-sxsw-a-i-is-more-dangerous-than-nuclear-weapons.html

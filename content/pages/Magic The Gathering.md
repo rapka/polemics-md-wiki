@@ -2,6 +2,7 @@
 aliases:
   - Magic
   - MtG
+  - "Magic: The Gathering"
 tags:
   - Puzzalia
   - Map2022

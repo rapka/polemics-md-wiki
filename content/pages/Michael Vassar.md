@@ -12,6 +12,12 @@ tags:
 Longtime friend and of [Eliezer Yudkowsky](Eliezer%20Yudkowsky.md). He worked at [MIRI](MIRI.md) back when it was called SIAI.
 
 
+https://www.thenewatlantis.com/futurisms/on-persuasion-and-saving-world
+
+>Vassar starts with a question about when each of the panelists realized they wanted to change the world. Thiel says he knew when he was young he wanted to be an entrepreneur, and once he found out about the Singularity, it was just natural to get on board with it and “save the world.”
+
+>Yudkowsky says, “Once I realized there was a problem, it never occurred to me _not_ to save the world,” with a shrug and arms in the air. (Very scattered laughter and applause. The audience seems uncomfortable with him. I am, anyway. As I [noted earlier](http://futurisms.thenewatlantis.com/2009/10/rationalism-risk-and-purpose-of.html), everything the guy says seems to drip with condescension, even in this room filled with people overwhelmingly on his side. He keeps having to invent straw men to put down as he talks.)
+
 ### Metamed Research
 
 See the [main page](../Organizations/Metamed.md)

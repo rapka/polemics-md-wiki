@@ -32,7 +32,7 @@ https://x.com/ArtemisConsort/status/1882162592669749583
 
 
 
-
+https://www.piratewires.com/p/things-i-learned-when-i-was-trans
 
 ### Core Principles
 
