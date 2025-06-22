@@ -103,8 +103,6 @@ https://forum.effectivealtruism.org/posts/MHenxzydsNgRzSMHY/my-experience-at-the
 
 
 
-
-
 ### Manifest 2025
 
 
@@ -174,4 +172,3 @@ Scott Sumner
 Sholto Douglas
 Steve Hsu
 Tracing Woodgrains
-

@@ -95,3 +95,25 @@ https://manifold.markets/Aella/which-manifest-attendee-would-i-enj
 ### Relationship with Destiny
 
 https://manifold.markets/IsaacKing/will-aella-be-romantically-involved?play=true
+
+
+### Substack Auction at Manifest 2025
+
+Manifest: What will sell for >$250 at Substack's auction with Aella?
+
+
+- Attractiveness Evaluation & Prescription
+- One of the Aella gangbang robes
+- Aella's Substack survey created & publsihed in collaboration with you (you get byline)
+- Three polls of winner's choice (Aella can veto but prob won’t)
+- Any article of clothing currently worn by Aella, winner's choice
+- Aella's private phone number
+- 30-min unauthorized therapy session & diagnosis
+- Your photo as Aella's Twitter cover photo for 1 week
+- Used Dildo
+- Reveal of this card. (Winner must sign NDA) https://x.com/Aella_Girl/status/1698943597431660763
+- Jar of shower water (extremely rare)
+- Editing of your Substack essay
+- Polaroid of us together doing something wacky (winner's choice)
+- Silver shower: Aella will drool onto your face (can be purchased for a friend.)
+- Editing of your Substack essay
