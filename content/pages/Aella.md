@@ -117,3 +117,10 @@ Manifest: What will sell for >$250 at Substack's auction with Aella?
 - Polaroid of us together doing something wacky (winner's choice)
 - Silver shower: Aella will drool onto your face (can be purchased for a friend.)
 - Editing of your Substack essay
+
+#### Hereticon 
+
+Aella has appeared at Hereticon 2024 and ???
+
+
+https://aella.substack.com/p/a-girls-guide-to-a-data-driven-orgy?utm_source=profile&utm_medium=reader2

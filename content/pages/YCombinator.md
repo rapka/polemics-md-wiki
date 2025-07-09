@@ -23,3 +23,12 @@ https://venturebeat.com/business/y-combinator-research-launches-human-advancemen
 ## Notable investments
 
 (TODO: list TESCREAL orgs here)
+
+
+##### Pioneer Fund
+
+Not to be confused with the racist fund of the same name.
+
+https://www.pioneerfund.vc/
+
+https://www.pioneerfund.vc/about-us
