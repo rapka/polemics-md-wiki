@@ -217,6 +217,11 @@ https://www.greaterwrong.com/posts/oHn8yvzn5uGvPYmsb/i-think-michael-bailey-s-di
 
 https://www.astralcodexten.com/p/what-can-fetish-research-tell-us
 
+##### Use as a source by TERFs
+
+"Pedophilia, Incest and Rape are the most male dominated fetishes."
+https://x.com/pinkcels/status/1941985727144694080/photo/1
+https://x.com/pinkcels/status/1941985871244218756/photo/1
 
 ### Aella, AI, and drugs x-risk views
 

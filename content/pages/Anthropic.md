@@ -29,3 +29,5 @@ https://www.cnbc.com/2023/10/18/universal-music-sues-anthropic-for-copyright-inf
 A large amount of their money at one point came from SBF. Another major early funder was Jim McClave, an effective altruist who works for [Jane Street](), McClave has been [secretly funding]() Vox [Future Perfect]() .
 
 (TODO)
+
+https://garymarcus.substack.com/p/hype-anthropics-dario-amodei-the

@@ -7,6 +7,8 @@ tags:
   - People
 ---
 
+https://x.com/afgmeh/status/1941654342680911991
+
 Jordan Lasker is the likeliest real identity of "Cremieux Recueil," a Twitter and Substack personality followed by many major players in the Silicon Valley space primarily focused on race science.
 
 ---

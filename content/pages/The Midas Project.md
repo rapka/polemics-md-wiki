@@ -36,3 +36,15 @@ AI technology is improving at full speed, and we expect it to change the world i
 ## The OpenAI files
 
 https://www.openaifiles.org/former-employees
+
+https://www.openaifiles.org/vision-for-change
+
+># Vision for Change
+
+A proposed path forward for OpenAI
+
+OpenAI believes that humanity is, perhaps, only a handful of years away from developing technologies that could automate most human labor. This may not turn out to be true, but if it is, it would be one of humanity's most consequential endeavors.
+
+The governance structures and leadership integrity guiding a project as important as this must reflect the magnitude and severity of the mission. The companies leading the race to AGI must be held to, and must hold themselves to, exceptionally high standards.
+
+OpenAI could one day meet those standards, but serious changes would need to be made. We present five pillars across three areas for reform that will strengthen governance, elevate leadership quality, foster critical feedback, establish external oversight, and ensure that the benefits of AI development flow to humanity.

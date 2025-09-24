@@ -1,0 +1,95 @@
+﻿Host 1,Title (copy for cal),Description,Location
+Emanuele Ascani,AI Safety Small-Group,,E - Floor 2 (Side Sessions)
+,Speedfriending event #1,,B - Ground floor
+,Speedfriending event #3,,B - Ground floor
+,Speedfriending event #2,,B - Ground floor
+Robin Hanson,Robin Hanson Office Hours,,E - Floor 2 (Side Sessions)
+"Tom Shlomi,Saul Munn",Optic Panel,,E - Floor 2 (Side Sessions)
+,Saturday Dinner,,Telegraph Area
+,Sunday Dinner,,Telegraph Area
+,Saturday Lunch,,Telegraph Area
+,Sunday Lunch,,Telegraph Area
+,VIP Dinner,,Ethiopia Restaurant
+Arjun Panickssery,Mafia with Markets,,E - Floor 2 (Side Sessions)
+"Tom Shlomi,Saul Munn",How to start a forecasting club fireside chat (same/adjacent room to student speed networking),,E - Floor 2 (Side Sessions)
+,Friday Dinner,,Telegraph Area
+David Chee,Poker: Satellite Table #1 ,,A - Board Gaming
+David Chee,Poker: Satellite Table #2,,A - Board Gaming
+David Chee,Poker: Satellite Table #3,,A - Board Gaming
+Saul Munn,Student speed networking,,B - Ground floor
+Sinclair Chen,Lightning Talks!,Should throw in a bunch of backjacks,B - Ground floor
+Daniel Reeves,Prediction Markets as Commitment Devices,,E - Floor 2 (Side Sessions)
+Ezra Brodey,Subsidize Real Money Prediction Markets on High Impact Topics,How do we create real-money prediction markets on high impact topics? This talk will explore how to take high impact questions found and on platforms such as Metaculus and GJOpen and make them into viable real-money markets. ,B - Attic
+Daniel Filan,Prediction markets = bounded rationality?!?,"Here's a style of question which has long intrigued AI scientists: What's the best way to make decisions when your brain is too tiny to run the best algorithm to make decisions? Similarly: given that you know the definition of pi, is it rational to take a 60-40 bet that the 180,023rd digit is odd (assuming the person offering you the bet hasn't computed it yet, but also knows the definition of pi)?
+
+In this talk, I'll talk about two papers that try to get a grip on the problem of bounded rationality: ""Logical Induction"", by Garrabrant et al, and ""A Theory of Bounded Inductive Rationality"" by Oesterheld et al. I'll explain what these papers are trying to do, how they compare to other attempts to do the same thing, and how the use of prediction markets is key to each paper.",B - Attic
+Douglas Campbell,Replicating Academia,,B - Attic
+"Molly Hickman,Rajashree Agrawal",Good Question Tournament,"What's in your model? Compete to come up with the goodest, most informative questions. In this tournament, we'll introduce Value of Information scoring. Participants will generate questions related to an ultimate question, forecast on each other's questions, and we will reveal the most valuable questions. There will be prizes.",B - Attic
+Adrian Marple,Cornhole RPG,"Cornhole RPG is like cornhole only instead of throwing standard cornhole bags, you throw beanie babies. Each beanie baby represents a class which dictates how you have to throw and what abilities you activate. Play cooperatively as a team of 3-6 to complete increasingly difficult quests and see how far you can get!",The Gardens
+Max Chiswick,Learn Poker,,A - Board Gaming
+Andreas Finke,Finding truth without instant liquidity,"I'll attempt to define ""truth"" (as an ex-physicist) and recap how liquid PMs incentivize sharing it.
+A problem is that liquidity is at risk and thus low in fair, diverse, sustainable real-money markets. 
+However, I'll argue that this does not mean that volume must be low when users are empowered to be market makers, 
+or when using GLOBs, a novel market structure that slows down trading.",B - Attic
+Shayne Coplan,Polymarket Walk & Talk,,The Gardens
+Andrew Guo,Atoms and Espionage: Oppenheimer’s Enigma,"“It’s tough to make predictions, especially about the past”—Yogi Berra (with apologies)
+Step into the role of an American physicist in the 1940s as the world around you marches towards war. Join a team of elite scientific minds using their predictive prowess to serve Uncle Sam in a vital national security role: beating the Nazis in an existential race for technological superiority.
+(No physics knowledge needed beyond the HS level; Oppenheimer spoilers only for those still agnostic as to the outcome of WWII.)",E - Floor 2 (Side Sessions)
+Austin Chen,MTG Sealed Tournament (Wilds of Eldraine),"Come play Magic: the Gathering with other attendees! This is a Sealed Deck, so no need to bring your own cards. Every participant gets 6 packs of the latest set (Wilds of Eldraine) to build a deck with.
+
+Entry cost is 2500 mana; we'll play 3-4 rounds and pay out awards in mana too!",A - Board Gaming
+Dan Schwarz,"Try out Varuna, an AI forecaster, built by the former CTO and the former Head of AI at Metaculus!","My cofounder at Varuna AI and I will introduce our ""AI oracle"", and make predictions on questions from the audience. Varuna is only 6 weeks old, and it's not yet very accurate, but it can research, model, and forecast in real time, and often produces surprising and amusing results.
+
+Like Manifold, but unlike other forecasting platforms, it can handle niche topics about your city, your job, your interests, as long as they are Google-able - it depends heavily on finding good background information on base rates from the web. ",E - Floor 2 (Side Sessions)
+Matt C. Wilson,Hang Out and Laugh: Monikers,"Monikers is a social game about getting your team to guess a character using increasingly silly clues and instant inside jokes.  If you like games like Taboo, Charades, Pictionary, or Catch Phrase, or enjoy laughing and bonding with other humans, swing by and play or watch!",A - Board Gaming
+James McGirk,Verifiable Computing and Homomorphically Encrypted Data Sets - Oh My! ,Spectral's senior content lead discusses new developments in web3 data science; including how they're using zero-knowledge machine learning to decentralize their on-chain credit scores. ,B - Attic
+Nathan Young,Forecasting isn't Working for Decision Makers ,"Forecasting don't seem that useful for decision makers. How can we fix that? I have some thoughts and I'd like to hear yours.
+
+I build tools for forecasters and forecast for the Swift Centre.",E - Floor 2 (Side Sessions)
+Nathan Young,Forecasting Community Discussion (With Voting),"What should the values of our community be? A session where we vote on norms and discuss them. 
+
+An attempt at a better kind of community discussion.",B - Attic
+Rai Sur,Entrepreneurship in Quantification Jam Sesh,"There are huge opportunities to make money improving existing businesses with quantified forecasting but as we know, it can be hard to find the right niche that management wants to pay for/act on. In this session we'll be brainstorming ideas and meeting others interested in entrepreneurship to hopefully find some gems!",B - Attic
+Gustavo Lacerda,Forecast Aggregation meetup,"Looking to share my obsession with forecast aggregation.  If there's interest, we can dive into a paper such as Satopää's BIN model:
+
+https://faculty.wharton.upenn.edu/wp-content/uploads/2022/03/mnsc.2020.3882.pdf",B - Attic
+Jason Gross,Lightning Talk: Prediction-Action Markets for Coordination,"Non-risk-neutral agents can use prediction markets to hedge against undesired outcomes.  If the aggregate preferences result in the market cap exceeding the cost of intervention, the prediction market becomes an action market incentivizing the aggregate desired world.  This dynamic can be used as a coordination mechanism, assuming market bids always resolve, but this turns out to work less well for risk-averse agents than for risk-seeking agents.  Such dynamics can be concretely probed with toy examples such as the prisoner's dilemma, exposing the assumptions that underpin ""libertarian utopias"".",B - Ground floor
+Michael Tebbs (Shelvacu),Latenight Jackbox,Let's get together and play some party games! Get in early to secure your spot as a player,D - Console Gaming
+Nikita Sokolsky,How to take a perfect dating photo,I've been taking portraits of people for a few years and figured out a precise formula for taking the most attractive dating photo for any person. Setting up a workshop where you can learn how to do it yourself at home - and will then take a free dating pic of any attendees who'd like one.,The Park
+Eric Neyman,Team Estimation with a Traitor,"You'll be on a team of four people, competing against other teams to estimate things (like the height of the tallest tree) as accurately as possible. But take note: on your team there will be a traitor, who will try to make your team's estimate as *inaccurate* as possible! Top scorers will be awarded mana :)",E - Floor 2 (Side Sessions)
+Ian Philips ,Jazz Jam (BYO Instrument),Musically inclined? Come jam with Ian Phillips and others. We'll have drums and a keyboard -- bring your own instrument too!,B - Ground floor
+Max Chiswick,How AI Poker Works,"We'll look at the main algorithm, Counterfactual Regret Minimization (CFR), that is used to find game theory optimal strategies in poker and will apply it to a toy game. Then we'll look at how poker players use ""solvers"" to study poker strategy in Texas Hold'em. ",E - Floor 2 (Side Sessions)
+Elizabeth Van Nostrand,Fireside Chat: ManiFund Q+A,"Elizabeth + ManiFund team member talk about manifund.
+
+Can include audience Q+A",E - Floor 2 (Side Sessions)
+,-- LEGEND --,,
+,Telegraph Area,,
+,The Park,,
+,B - Attic,,
+,The Gardens,,
+,  ,,
+,E - Floor 2 (Side Sessions),,
+,A - Board Gaming,,
+,D - Console Gaming,,
+,B - Ground floor,,
+Michael Wheatley,Team Forecasting,"Forecast questions as a team: groups will analyze a set of major questions, guess probabilities, and discuss how to come to an accurate opinion.
+
+Then we will bet on our beliefs from a group Manifold account to see if we collectively beat the market. ",E - Floor 2 (Side Sessions)
+Seo Sanghyeon,LK-99 Q&A,You can ask questions and I will try my best to answer,E - Floor 2 (Side Sessions)
+Michael Wheatley,Whalebait Markets on Manifold,"A ""whalebait market"" is the most degenerate form of gambling known to mankind. When a prediction market tries to predict _its own price_, the market degenerates into a winner-take-all contest to see who can put down the most money. Michael Wheatley will recount the history and strategy of this (thankfully dead) artform on Manifold. ",E - Floor 2 (Side Sessions)
+Max Chiswick,Poker Satellite Table #4 (late reg),,A - Board Gaming
+Eti Rabys,Hot Seat (Intrusive Questions Game),"'- Get in circles of 4-7 people
+- Go around the circle, each person fielding 3 intrusive questions (http://web.askhole.io/ is a good source of intrusive questions)",E - Floor 2 (Side Sessions)
+Raymond Arnold,Calibration Practice Discussion,"I'm interested in hearing how people have practiced calibration, and presenting an exercise that might be useful. (I'm particularly interested in ""the qualia of calibration"". i.e. what is it like, when you notice you were surprised/wrong (or underconfident), and how can you use that awareness to get better?)",B - Attic
+Max Chiswick,Minimum Viable Yom Kippur,Kol Nidrei services for Jews who'd like to attend services (but also stay at Manifest).,Ward 2
+Keri Warr,Balance games and Wrestling!,"experience physical contact! find your comfort limits! alternating camaraderie and aggression! disengage higher functions! return to monke!
+
+fun for all shapes and sizes of people",The Park
+Holly Elmore,What’s stopping you from doing AI Safety advocacy?,Group discussion about advocacy for AI Safety and advertisement for anti-irreversible proliferation protest on Friday 9/29.,B - Ground floor
+"Jacob Cohen,Andrew Imbens,Allison Hung,Marco Angeldones ",Proofniks/Conflux Q&A,"I decided to do a thing after all! Casual chat / Q&A / panel about the story of Proof School students on Manifold, the Market Manipulation Podcast, Manifold culture and history, anything. ",B - Ground floor
+Jeffrey Heninger,Talk to a Theist,"It can feel as though this community is reflexively secular. If you are religious and want to find other religious people to talk to, or if you want to understand more about being religious in this community, or if you want to talk about religion more generally, come over and chat. 
+
+I have also talked about my religion on the Filan Cabinet: https://sites.libsyn.com/438081/10-mormonism-with-jeffrey-heninger",E - Breakout Sessions
+"Matt C. Wilson,Noa Nabeshima,Lauren Milliken",Caramel Taste Test Showdown,"Join us at the kitchen and help us decide which of Lauren’s caramels taste the best, or just bet on the market!
+
+https://manifold.markets/NoaNabeshima/will-apple-cider-caramels-beat-pine?r=TWF0dENXaWxzb24",
