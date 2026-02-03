@@ -80,6 +80,8 @@ The event additionally featured [Poker](Poker.md) and [Magic: The Gathering](Mag
 ### Manifest 2024
 
 
+
+
 https://forum.effectivealtruism.org/posts/MHenxzydsNgRzSMHY/my-experience-at-the-controversial-manifest-2024
 
 >This human biodiversity (HBD) or “scientific racism” curious crowd engaged in a tiring game of carefully trying the waters with new people they interacted with, trying to gauge both how receptive their conversation partner is to racially incendiary topics and to which degree they are “one of us”. The ever-changing landscape of euphemisms for I-am-kinda-racist-but-in-a-high-IQ-way have seemed to converge to a stated interest in “demographics”–or in less sophisticated cases the use of edgy words like “based”, “fag”, or “retarded” is more than enough to do the trick. If someone asks you what you think of Bukele, you can already guess where he wants to steer the conversation to.
@@ -95,11 +97,14 @@ https://forum.effectivealtruism.org/posts/MHenxzydsNgRzSMHY/my-experience-at-the
 - [Dwarkesh Patel](Dwarkesh%20Patel.md)
 - Byrne Hobart (Writer of The Diff)
 - [The Collins](The%20Collins.md)
-- Patrick McKenzie (writer of Bits About Money)
+- Patrick McKenzie (writer of Bits About Money, associated with [Stripe](Stripe.md))
 - Aaron Silverbrook (Founder of Lantern Bioworks)
 - Evan Conrad (Founder of SF Compute)
 - [Robert Miles](Robert%20Miles.md)
-
+- Cate Hall (former COO of Alvea, ex pro [Poker](Poker.md) player)
+- Niko McCarty (Founding Editor of Azimov Press)
+- Xander Balwit (Founding Editor of Azimov Press)
+- Austin Chen, Stephen Grugett, James Grugett (co-founders of Manifold)
 
 
 
@@ -121,7 +126,7 @@ https://forum.effectivealtruism.org/posts/MHenxzydsNgRzSMHY/my-experience-at-the
 - [Nate Silver](Nate%20Silver.md)
 - [Scott Alexander](Astral%20Codex%20Ten.md)
 - Michael Lewis (Bestselling author of The Big Short & Moneyball)
-- [Chris Best](Chris%20Best.md)
+- [Chris Best](Chris%20Best.md) (CEO of Substack)
 - [Robin Hanson](Overcoming%20Bias.md)
 - Noah Smith (Economist and writer of Noahpinion)
 - [Emmett Shear](Emmett%20Shear.md)

@@ -33,4 +33,5 @@ Bla bla bla did _bla bla_ [^2]
 https://www.sovereign.capital/
 
 >Sovereign Capital is a venture fund which makes investments in companies which increases sovereignty of the individual, create paths for exit and build alternative worlds
- 
+
+

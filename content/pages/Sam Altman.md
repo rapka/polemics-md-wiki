@@ -47,3 +47,7 @@ https://www.technologyreview.com/2018/03/13/144721/a-startup-is-pitching-a-mind-
 >McIntyre, a computer scientist, and his cofounder Michael McCanna have been following the tech entrepreneur’s handbook with ghoulish alacrity. “The user experience will be identical to physician-assisted suicide,” he says. “Product-market fit is people believing that it works".
 
 >So far, 25 people have done so. One of them is Sam Altman, a 32-year-old investor who is one of the creators of the Y Combinator program. Altman tells _MIT Technology Review_ he’s pretty sure minds will be digitized in his lifetime. “I assume my brain will be uploaded to the cloud,” he says.
+
+https://x.com/sama/status/1540227243368058880
+
+>you cannot outaccelerate me

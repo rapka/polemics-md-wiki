@@ -1,0 +1,6 @@
+
+https://chronos-tachyon.net/blog/post/2023/06/04/recovering-from-rationalism/
+
+>The worst part is just how influential the Rationalism / extropianism / singularitarianism ideology has been in the tech industry. It’s everywhere. A big chunk of the reason why Bitcoin, Ethereum, and NFTs got so popular? A lot of Bay Area venture capitalists are connected to Rationalism, often via PayPal alums like Peter Thiel and Elon Musk. The reason why Mark Zuckerberg was pushing virtual reality, to the point of rebranding his company “Meta”? He believed that brain uploading was going to happen within his lifetime, as an alternative path to immortality versus cryonics, and he wanted to have a world ready where he could upload himself at the death of his physical body, while keeping his wealth. The reason why OpenAI and chatbots are so big right now? Because CEO Sam Altman is a true believer who thinks he’s building Omega, the future Robot God-Emperor of Mankind.
+
+https://mathbabe.org/2024/03/16/an-interview-with-someone-who-left-effective-altruism/
