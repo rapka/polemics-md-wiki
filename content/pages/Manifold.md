@@ -29,7 +29,7 @@ https://manifest2023.info/speakers
 - [Robin Hanson](Overcoming%20Bias.md)
 - Tarek Mansour (CEO of Kalshi)
 - Shayne Copland (CEO of Polymarket)
-- [Scott Alexander](Astral%20Codex%20Ten.md)
+- [Scott Alexander](Scott%20Alexander.md)
 - Dylan Matthews (Head writer at [Future Perfect](Future%20Perfect.md))
 - [Aella](Aella.md)
 - Pratik Chougule (Executive Director for the Coalition for Political Forecasting)
@@ -67,7 +67,7 @@ There is a missing image on the last row. it's unclear if it was ever filled.
 - Parenting & Pronatalism ([The Collins](The%20Collins.md), [Zvi Mowshowitz](Zvi%20Mowshowitz.md), Byrne Hobart)
 - Reducing Bias in Education with Prediction Markets ([The Collins](The%20Collins.md))
 - What's stopping you from doing AI Safety advocacy? (Holly Elmore)
-- Polymarket and Making Prediction Markets Mainstream ([Scott Alexander](Astral%20Codex%20Ten.md), Shayne Coplan, [Zvi Mowshowitz](Zvi%20Mowshowitz.md))
+- Polymarket and Making Prediction Markets Mainstream ([Scott Alexander](Scott%20Alexander.md), Shayne Coplan, [Zvi Mowshowitz](Zvi%20Mowshowitz.md))
 - How to take a perfect dating photo (Nikita Sokolsky)
 - Political Betting Regulation: Pathways to Liberalization
 - Prediction Markets in Journalism (Dylan Matthews of [Future Perfect](Future%20Perfect.md))
@@ -92,7 +92,7 @@ https://forum.effectivealtruism.org/posts/MHenxzydsNgRzSMHY/my-experience-at-the
 - [Nate Silver](Nate%20Silver.md)
 - [Robin Hanson](Overcoming%20Bias.md)
 - [Aella](Aella.md)
-- [Scott Alexander](Astral%20Codex%20Ten.md)
+- [Scott Alexander](Scott%20Alexander.md)
 - Shayne Copland (Founder & CEO of Polymarket)
 - [Dwarkesh Patel](Dwarkesh%20Patel.md)
 - Byrne Hobart (Writer of The Diff)
@@ -124,7 +124,7 @@ https://forum.effectivealtruism.org/posts/MHenxzydsNgRzSMHY/my-experience-at-the
 #### "Notable Guests"
 
 - [Nate Silver](Nate%20Silver.md)
-- [Scott Alexander](Astral%20Codex%20Ten.md)
+- [Scott Alexander](Scott%20Alexander.md)
 - Michael Lewis (Bestselling author of The Big Short & Moneyball)
 - [Chris Best](Chris%20Best.md) (CEO of Substack)
 - [Robin Hanson](Overcoming%20Bias.md)

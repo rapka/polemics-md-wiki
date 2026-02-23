@@ -1,0 +1,92 @@
+Marketing matters.
+
+A lot of people, including myself in the past, have hangups about marketing -- it seems unaesthetic, or immoral. But you have to make peace with marketing before you start a business, or you will go out of business quickly.  Marketing is the process of making something that people want to buy, and reaching out to the people who are likely to buy it. If you sell a thing for money, you need customers.
+
+For instance, you need information about what customers want, how satisfied they are with your work, what price they’re willing to pay, what things you could change to make them happier, etc.  We avoided gathering customer data until rather late in the game, because we half-knew that our customers were disappointed. This is bad!  
+
+You also need to sell a product.  Lots of people have very abstract definitions of a product, but my working definition is that a product is a description of the item you sell which includes a list of distinctive features.  If you say “We provide financial advice”, that’s not enough detail to define what exactly customers will receive from you. If you say “We provide a one-hour consultation with a financial consultant in which you’ll build a customized investment portfolio”, that’s starting to get at what, concretely, the customer will receive.  You will want to standardize your product(s) so that they always contain the listed features.  People are very skittish (and rightfully so!) about paying without knowing what they’re going to get up front.
+
+Marketing is not meaningless just because it is a “soft” discipline!  Like anything else, there are effective and ineffective ways to do it, and experienced professionals are usually better at it than amateurs.  We once had a marketing consultant who spent hours probing us on our deepest hopes and dreams -- and then never delivered any materials for websites or brochures.  I assumed he knew what he was doing because he was a “people person” and very charismatic.  Wrong. You judge good professionals in sales and marketing like anyone else -- by their track records, not by how attractive and charming they are.  
+
+And just because there’s a subjective, human element doesn’t mean it’s all smoke and mirrors. It’s really misleading (not to mention insulting to the pros) to imagine that “marketing” is some sort of pixie dust you can sprinkle over anything, no matter how crappy, to make it captivating to customers. Your product itself has to be designed with customers in mind. Most of the time, websites and advertising and sales calls are going to be built around explaining the features of the product.  If, fundamentally, nobody wants to buy your thing? Then you need to sell a different thing.
+
+I think our main problem at MetaMed was that not enough people wanted to buy what we sold, at the price point we sold it for. Could we have tweaked things to find product-market fit? Maybe! (For instance, I suspect that we could have improved sales if we cut the cost of the reports by a lot -- in my experience freelancing, middle-class people are often willing to pay $1000 for a report, but not $10,000, even if you put 10x as many hours into the more expensive report.)  But there was a mindset of “we want to give people the best thing, not the thing they want, and if there’s a discrepancy, it’s because the customer is dumb.”  I learned from experience that this is just not true -- when we got complaints from customers, it was often a very reasonable complaint, due to an error I was mortified that we’d missed.  If we’d had a mindset of “customer feedback is data we can use to improve”, we would have sought it out much earlier and adapted quicker, and we might have found something that we could provide that would actually make customers happy.
+
+2. Don’t fight.
+
+Disagreements got personal and bitter at MetaMed. We argued over the direction of the company, which is normal; we had intense personal rivalries, which is not. 
+
+Team unity and goodwill are important. Expressing appreciation for people’s work makes them much nicer to work with. Sometimes people who seem hostile just have a reasonable need that you can satisfy -- maybe they’re underpaid, or given an assignment that’s actually impossible, or just want to hear you say “thank you.”  Patience and good manners go a very long way.
+
+Paranoia is bad. It is very tempting for nerds to feel like everyone is out to get us, just like in middle school or high school. When that bitterness hardens into “everyone but me is always wrong”, it becomes toxic.  You can really hurt people that way.
+
+I made the mistake of assuming that, since we had a fairly radical long-term goal, that everyone except the founders would be against us.  Engaging with people under the assumption that they’ll hate you is really bad for building relationships.  The world is in fact enormous, and no matter how bold your dream, you can probably find at least some allies.  Your first customers, your employees, your partners, your investors, should be allies and treated as such.  But if you assume everybody outside a small circle of friends is The Enemy, you’re going to alienate people who originally believed in you and wanted to help.
+
+It’s actually tricky to figure out a balance, because sometimes you encounter someone in in the course of business who’s so difficult or unethical that you truly can’t work together. Some people really are fraudsters (we’ve met a lot!)  But you really want to think twice before writing someone off for disagreeing with you. They may have a point.  Try to understand what they’re getting at. Clarity is actually difficult and many conflicts simply come from misunderstanding.  And it’s really important to be able to admit when you’re wrong.
+
+3. Some process is useful.
+
+We didn’t want to get too bogged down in “process” that would make us slow and staid. We were a startup! But a lot of organizational things are vital for any company, at any stage. 
+
+You need a working payroll system.  (Buy this, don’t build it!)
+You need to keep track of your finances.
+You need to keep track of everything you sell and everyone who works for you.
+You need a “spec” for your product -- what does every product have to contain?
+Meetings should have agendas.
+Checklists are important -- your product needs to be reliably free of errors and defects!
+
+Screwing up on any of these things results in humiliating, avoidable mistakes. We learned that the hard way.
+
+Organization is kind of boring, but the essentials have to get done. 
+
+4. Don’t hire lightly.
+
+Even if you’re hiring contractors paid by the hour, it’s not “free” to hire a new person; if you don’t have enough work to give them, they’ll get dissatisfied.
+It is way more expensive to do a job with four people than with one.  Don’t make projects into “team efforts” if you can avoid doing so.
+A lot of people who have formal credentials on paper are still unqualified to do the job you want them for.  Hiring people because they’ll “look good” is more trouble than it’s worth if they can’t do the work.
+A person you can’t communicate with is a person you can’t work with. This can include anything from “doesn’t speak English well” to “speaks in a weird buzzwordy jargon I don’t understand.”  It doesn’t have to mean anything bad about them as a person -- they might be brilliant -- but if you can’t understand them or they can’t understand you, they’re a bad fit for working with you.
+Always do a quick background check to see if the person you’re hiring is a known scam artist. 
+Do not pity-hire friends who are down on their luck, if they’re not actually qualified. I wish this weren’t true, but it is. Pity-hiring is an extremely inefficient way of helping them, and it will hurt your friendship as well as your business. If you care about your broke friends, give them connections, give them emotional support, even give them money, but don’t give them a job they can’t do. 
+
+5. You need to spend money to make money.
+
+Even if you’re “bootstrapping”, as we did, you need to invest in the future of your company -- to spend money on improving your product and growing your sales.  “We have a project we’re working on now, and we can’t afford to spend any time or money on the long-run” is fatal to businesses. 
+
+It would have been good to do a bunch of practice reports, or sell our first ones at a loss, so we could iterate and come up with something that worked first, before trying to support ourselves through revenue. 
+
+It would have been good to do more marketing campaigns than a small AdWords trial and some newspaper articles.
+
+Product development and marketing are examples of spending money for things that will make more money later. We neglected those in favor of spending hugely on things like lawyers, which is a form of reducing downside risk. Successful companies tend to do just the opposite -- they prioritize growth first.
+
+6. Reliability matters.
+
+One thing I’m legitimately proud of at MetaMed was that we sometimes cured “incurable” diseases. We saved a guy’s life and prolonged another’s survival. We fixed several people’s chronic health problems.  We had genuine miracle stories.
+
+The problem is, of course, that miracles don’t happen every time.  Most of the time, if someone wants information about their health, the results are going to be a lot more equivocal -- even if you’re a perfect oracle who gets the right answers every time. Your research might conclude that what they were going to do anyway was a good idea.  You might conclude that the best available treatment is something that they happen not to want.  You might not come up with any ideas besides what they’ve already tried.  
+
+In those cases, you have to find a way to ensure that they go away happy, even if you couldn’t produce that much of a solution.  We never quite found a way to make this work reliably.
+
+I suspect that the missing ingredients are high quality process (making their communications with our staff pleasant, making the reports attractive) and a outcome-independent deliverable (something you can offer everyone that is valuable to them, whether they get well or not).  
+
+Our main goal, obviously, was to help people back to good health. Focusing on anything else seemed beside the point.  But, actually, all the little “cosmetic” or “boring” details matter a lot to people.  You can’t build a business out of “once in a while we can work miracles.”  You need to be able to promise “every single time, we will provide you with this.”
+
+
+7. You can only get to the future via attention to the present.
+
+We never wanted to be an ordinary company -- we wanted to change the world. If you’d told me, in 2013, that all we’d ever do is sell custom personalized health reports to people based on the medical literature, I would have been bitterly disappointed. We had bigger dreams than that.
+
+But I think we may have focused too much on those dreams, and not enough on acing the here-and-now.  We had a million different long-shot ideas for how we could “make it big”, and those came at the expense of the basic bread-and-butter task of make better reports and sell more reports.
+
+Personally, I was impatient with our existing model in which researchers worked on reports for patients by hand. I wanted to scale bigger by transitioning to AI-generated results, which turned out to be a lot harder than I bargained for.  Other people had different dreams for what MetaMed would be someday.  But all of us spent a disproportionate amount of time thinking about the exciting future relative to the mundane present.
+
+Grand Rounds was a “competitor” of ours, but we laughed it off. “They only offer an hour’s consultation with a doctor! How can that be enough to help?” And it’s probably not, in many cases. But they’re still in business today, and we’re not. They offered something modest, but they executed a lot better than us on making their product reliable and their customers happy. 
+
+Amazon used to be an online bookstore. “What’s the big deal with just selling books?”  Well, now they sell everything, and provide a ton of the web’s infrastructure.
+
+I don’t know quite what I think about this issue, but tentatively I believe that there are a lot of little tasks on the path to big goals, and a lot of wildly successful companies started by selling a mundane thing and expanding.  If you’re too allergic to mundanity, you may not be patient enough to stick around for success.
+
+We weren’t really “just a business.” We were a passion project, and a family, and a crusade.  And god, I miss that. But I think it was a mistake to prioritize “how mission-aligned are you” over “how effective are you” at every turn. Successful projects have to prioritize execution and quality.  Even activist organizations have to focus on results, or they die.  A certain amount of practicality is necessary.  And we were just...not a group of people oriented around “show up every day and get this ordinary task done to a high degree of precision.”  I was a grad student -- in academic math, either you invent an original idea or you’ve done nothing.  In business, you have to do unoriginal things correctly.  That’s not a bias that businessmen have, it’s literally how we get an industrial civilization.  And I think that until we learn to cope with that, we’re not ready to build things that work at scale.
+
+I think I was scared by the magnitude of our goal, and by the fact that I knew a lot of people would judge us negatively. I had to push myself to do things that terrified me, things I had no guidance for. And I grew a lot. I’m really grateful for that opportunity. But in the effort to do the hard stuff at all, I had to psych myself up with a kind of righteous absolutism that didn’t lend itself well to asking “are we on the right track?”  I think I’d do better at remaining objective and open to criticism today, because I’m less afraid of controversy than I was back then.  
+
+I do still think a mission-focused or idealistic business is going to look different than a “regular” business.  But not so different that none of the same rules apply. Money still has to come in, from somewhere; people still have to get along well enough to work together; you still need to be organized enough to get things done, and open-minded enough to improve.

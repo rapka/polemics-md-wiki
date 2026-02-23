@@ -19,6 +19,8 @@ He is...
 
 https://www.fastcompany.com/90375335/jeffrey-epsteins-money-was-accepted-by-scientists-even-after-arrest
 
+https://web.archive.org/web/20171117083801/https://hplusmagazine.com/2013/11/14/jeffrey-epstein-backs-opencog-artificial-intelligence-research/
+
 ### Sophia The Robot
 
 

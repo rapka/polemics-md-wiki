@@ -153,7 +153,7 @@ In light of the accusations, Anna Salamon of [CFAR](CFAR.md) [expressed regret](
 
 >a friend complained to me that Michael would cause EAs to choose the wrong career paths by telling them exaggerated things about their own specialness. This matched my own observations of what he was doing. Michael himself told me that he sometimes lied to people (not his words) and told them that the thing that would most help AI risk from them anyhow was for them to continue on their present career (he said this was useful because that way they wouldn’t rationalize that AI risk must be false). Despite these and similar instances, I continued to recommend people talk to him because I had “ruled him in” as a source of some good novel ideas, and I did this without warning people about the rest of it. I think this was a mistake. (I also think that my recommending Michael led to considerable damage over time, but trying to establish that claim would require more discussion than seems to fit here.)
 
-[Scott Alexander](Astral%20Codex%20Ten.md) echoed similar feelings of regret is his reply to Salamon.
+[Scott Alexander](Scott%20Alexander.md) echoed similar feelings of regret is his reply to Salamon.
 
 >I should have thought more about meeting people in person, in which case I would have echoed the warnings you gave about Michael. I think he is a good example of someone who both has some brilliant ideas and can lead people astray, but I agree with you that people’s filters are less functional (and charisma is more powerful) in the real-life medium.
 

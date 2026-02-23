@@ -62,3 +62,6 @@ https://www.salesforce.com/news/press-releases/2023/03/07/einstein-generative-ai
 
 
 https://www.businessinsider.com/marc-benioff-sam-altman-neighbors-ai-salesforce-openai-slack-chatgpt-2023-6?op=1
+
+
+![](images/Marc%20Benioff/Screenshot%202024-11-27%20at%205.47.59%20PM.png)

@@ -3,7 +3,7 @@ This is what is tentatively titled the "TESCREAL  Cartography" project. It's a w
 
 # Cartography of AI Doomsday Ideologies
 
-The impetus for this project was a desire to understand an anonymously-made [map of the online Rationalist space](Cartography/map_full.jpg) that was [posted](https://www.astralcodexten.com/p/links-for-october-397) to Scott Alexander's [Astral Codex Ten](pages/Astral%20Codex%20Ten.md) blog in 2022. 
+The impetus for this project was a desire to understand an anonymously-made [map of the online Rationalist space](Cartography/map_full.jpg) that was [posted](https://www.astralcodexten.com/p/links-for-october-397) to Scott Alexander's [Astral Codex Ten](pages/Scott%20Alexander.md) blog in 2022. 
 
 Upon further research, I discovered several other maps, some of which appear to be by the same creator.
 

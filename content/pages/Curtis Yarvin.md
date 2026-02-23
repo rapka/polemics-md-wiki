@@ -19,3 +19,5 @@ https://www.nytimes.com/2025/01/18/magazine/curtis-yarvin-interview.html?smid=ny
 https://www.bbc.com/news/articles/cly82yx09zeo
 
 > He has cited people like the blogger Curtis Yarvin, a key guru in the "neo-reactionary" movement which dreams up fantasies of technologically-assisted, hyper-capitalist societies led by powerful monarchs.
+
+![](images/Curtis%20Yarvin/Screenshot%202025-07-31%20at%207.31.15%20AM.png)

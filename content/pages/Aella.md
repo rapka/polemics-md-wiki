@@ -62,7 +62,7 @@ https://aella.substack.com/p/my-attempts-to-sensemake-ai-risk
 
 https://web.archive.org/web/20211211001135/https://www.wholezero.org/stack/quis-cancellat-ipsos-cancellores
 
-Aella has denied several key facts about this allegation, though she concedes that "consent wasn't very clearly set out". This denial was corroborated by an [ex-partner and roomate](https://www.lesswrong.com/posts/mooAqpyqPZnyMmPBQ/?commentId=Ar5xYxmnokXDHLtiN#Ar5xYxmnokXDHLtiN) as well as [Scott Alexander](Astral%20Codex%20Ten.md) ([link](https://www.lesswrong.com/posts/mooAqpyqPZnyMmPBQ/quis-cancellat-ipsos-cancellores?commentId=x8nGHFobtHxZMHfvr)). 
+Aella has denied several key facts about this allegation, though she concedes that "consent wasn't very clearly set out". This denial was corroborated by an [ex-partner and roomate](https://www.lesswrong.com/posts/mooAqpyqPZnyMmPBQ/?commentId=Ar5xYxmnokXDHLtiN#Ar5xYxmnokXDHLtiN) as well as [Scott Alexander](Scott%20Alexander.md) ([link](https://www.lesswrong.com/posts/mooAqpyqPZnyMmPBQ/quis-cancellat-ipsos-cancellores?commentId=x8nGHFobtHxZMHfvr)). 
 
 The accusation was written by Joshin, a member of [OAK](MAPLE.md) whose parents also live at MAPLE. The person that accused of MAPLE of covering up their sexual assault was not happy with his behavior.
 

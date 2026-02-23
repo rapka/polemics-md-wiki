@@ -55,3 +55,12 @@ https://restorechildhood.com/gender-toolkit
 
 
 
+
+
+![](images/Incubate%20Debate/Screenshot%202025-08-27%20at%201.59.33%20PM.png)
+
+![](images/Incubate%20Debate/Screenshot%202025-08-27%20at%202.17.43%20PM.png)
+
+![](images/Incubate%20Debate/Screenshot%202025-08-27%20at%202.31.23%20PM.png)
+
+![](images/Incubate%20Debate/Screenshot%202025-08-27%20at%205.02.27%20PM.png)

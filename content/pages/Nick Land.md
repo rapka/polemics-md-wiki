@@ -8,7 +8,7 @@ tags:
   - People
 aliases:
   - Xenosystems
-  - CCRU
+  - Xenocosmography
 ---
 [Old Twitter](https://twitter.com/Outsideness) | [New Twitter](https://x.com/Xenoimpulse) [Substack](https://zerophilosophy.substack.com)
 

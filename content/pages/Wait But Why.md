@@ -3,6 +3,8 @@ tags:
   - Blogs
   - Map2022
   - Technomundistan
+aliases:
+  - Tim Urban
 ---
 # Wait But Why
 

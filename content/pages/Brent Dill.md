@@ -25,7 +25,7 @@ Brent pressured me into BDSM scenes with gear I hated, pain and discomfort well 
 
 >We had a good time on the second-to-last day of Burning Man 2015, and I was on MDMA at the time, so two weeks later he had me come to Folsom Street Fair with him, in bondage and on MDMA, in the hopes that the MDMA would be a general-purpose “make Elizabeth okay with things” drug [sic, name use is intentional]. It wasn’t. I had a terrible time, got stuck in the ballet boots, it took a long time to get me out because the laces got stuck, and he scolded me for crying because I was making him look bad.
 
-[Scott Alexander](Astral%20Codex%20Ten.md) signal boosted his request for financial help to move to a city with an active rationalist community in a 2014 [SSC post](https://slatestarcodex.com/2014/09/19/open-thread-5-my-best-friends-threadding/)
+[Scott Alexander](Scott%20Alexander.md) signal boosted his request for financial help to move to a city with an active rationalist community in a 2014 [SSC post](https://slatestarcodex.com/2014/09/19/open-thread-5-my-best-friends-threadding/)
 
 ---
 
