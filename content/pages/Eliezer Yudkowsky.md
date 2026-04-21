@@ -36,6 +36,10 @@ In 2020, he [argued](https://twitter.com/ESYudkowsky/status/1269383834757259265)
 
 https://twitter.com/ESYudkowsky/status/1108277090577600512
 
+### Pedo Adjacency
+
+https://www.lesswrong.com/posts/a8dCAtNKM8eK3WHAE/thought-experiment-the-transhuman-pedophile?commentId=YAwrAtPhEMqmmFGzz
+
 ## HPMOR
 
 https://en.wikipedia.org/wiki/Harry_Potter_and_the_Methods_of_Rationality

@@ -21,3 +21,7 @@ The [Grabby Aliens website](https://grabbyaliens.com/) features
 
 According to [Bryan Caplan](../../../pages/Bet%20On%20It.md) during a [debate](https://econfaculty.gmu.edu/bcaplan/hansondebate.htm) with Hanson, Caplan claims that Hanson said: 
 >the main problem with the Holocaust was that there weren't enough Nazis!� After all, if there had been six trillion Nazis willing to pay $1 each to make the Holocaust happen, and a mere six million Jews willing to pay $100,000 each to prevent it, the Holocaust would have generated $5.4 trillion worth of consumers surplus
+
+
+
+https://www.theregister.com/2003/08/05/meet_the_transhumanists_behind/

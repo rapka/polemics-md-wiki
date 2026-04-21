@@ -19,4 +19,8 @@ https://www.aipanic.news/p/what-ilya-sutskever-really-wants
 
 
 
+# Safe Superintelligence Inc
 
+Ilya's new company after leaving OpenAI.
+
+https://ssi.inc

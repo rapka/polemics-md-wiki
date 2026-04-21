@@ -58,14 +58,14 @@ https://manifest2023.info/speakers
 - [Zvi Mowshowitz](Zvi%20Mowshowitz.md)
 - ????? (Removed)
 - [Jonathan Anomaly](Jonathan%20Anomaly.md)
-- [The Collins](The%20Collins.md)
+- [The Colliness](The%20Colliness.md)
 
 There is a missing image on the last row. it's unclear if it was ever filled.
 
 ##### Notable Talks
 
-- Parenting & Pronatalism ([The Collins](The%20Collins.md), [Zvi Mowshowitz](Zvi%20Mowshowitz.md), Byrne Hobart)
-- Reducing Bias in Education with Prediction Markets ([The Collins](The%20Collins.md))
+- Parenting & Pronatalism ([The Colliness](The%20Colliness.md), [Zvi Mowshowitz](Zvi%20Mowshowitz.md), Byrne Hobart)
+- Reducing Bias in Education with Prediction Markets ([The Colliness](The%20Colliness.md))
 - What's stopping you from doing AI Safety advocacy? (Holly Elmore)
 - Polymarket and Making Prediction Markets Mainstream ([Scott Alexander](Scott%20Alexander.md), Shayne Coplan, [Zvi Mowshowitz](Zvi%20Mowshowitz.md))
 - How to take a perfect dating photo (Nikita Sokolsky)
@@ -96,7 +96,7 @@ https://forum.effectivealtruism.org/posts/MHenxzydsNgRzSMHY/my-experience-at-the
 - Shayne Copland (Founder & CEO of Polymarket)
 - [Dwarkesh Patel](Dwarkesh%20Patel.md)
 - Byrne Hobart (Writer of The Diff)
-- [The Collins](The%20Collins.md)
+- [The Colliness](The%20Colliness.md)
 - Patrick McKenzie (writer of Bits About Money, associated with [Stripe](Stripe.md))
 - Aaron Silverbrook (Founder of Lantern Bioworks)
 - Evan Conrad (Founder of SF Compute)

@@ -1,0 +1,6 @@
+---
+tags:
+  - PredictionMarkets
+  - Companies
+---
+# Polymarket
