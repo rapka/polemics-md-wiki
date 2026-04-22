@@ -8,8 +8,11 @@ tags:
 
 # Mark Beall
 
+https://www.linkedin.com/in/markbeall
 
+President of Public Affairs at the AI Policy Network
 
+https://theaipn.org/about/
 ### Blog
 
 This appears to be deleted from the internet. (TODO: find this?)
